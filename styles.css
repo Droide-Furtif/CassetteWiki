@@ -1,0 +1,167 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header, footer {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+img {
+    image-rendering:pixelated;
+    height: 150px;
+    width: auto;
+    display: block;
+    margin: 0 auto 10px;
+}
+
+input[type="text"] {
+    width: 80%;
+    padding: 10px;
+    margin: 10px auto;
+    display: block;
+}
+
+button {
+    margin: 5px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+table {
+    margin: 20px auto;
+    width: 90%;
+    border-collapse: collapse;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+th, td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f4f4f9;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+ul {
+    padding-left: 0;
+    list-style: none;
+}
+
+.stats-table {
+    margin-left: 35%;
+    width: 26%;
+    padding: 10px;
+}
+
+.stat-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+.stat-name {
+    width: 100px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.stat-bar-container {
+    width: 100%;
+    background-color: #000;
+    height: 20px;
+    margin-left: 10px;
+}
+
+.stat-bar {
+    height: 20px;
+    background-color: #4CAF50;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.moves-table {
+    width: 90%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: #f8f9fa;
+}
+
+.moves-table th, .moves-table td {
+    border: 1px solid #dee2e6;
+    padding: 8px;
+    text-align: left;
+}
+
+.moves-table th {
+    background-color: #e9ecef;
+}
+
+.moves-table tr:nth-child(even) {
+    background-color: #f2f2f3;
+}
+
+.moves-table td {
+    font-size: 16px;
+}
+
+.moves-table th {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* Styles for level unlocked column */
+.moves-table td:first-child {
+    text-align: center;
+    background-color: #ab75e8;
+    font-weight: bold;
+    color: #fafafa;
+}
+
+.type-info {
+    height: 32px;
+    padding: 5px;
+    color: #fff;  /* Assurez-vous que la couleur du texte est visible sur le fond. */
+    border-radius: 5px;
+    display: inline-flex;
+    align-items: center;
+}
+
+.type-info img {
+    width: 32px;
+    height: 32px;
+    display: inline-flex;
+}

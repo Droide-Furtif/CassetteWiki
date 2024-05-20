@@ -1,0 +1,7 @@
+Initial	Spit	Typeless	Ranged Attack	30	100%	0 AP
+Initial	Raise Arms	Typeless	Status Effect	—	100%	1 AP
+Star-white.png	Toxic Stab	Poison	Melee Attack	90	100%	4 AP
+Star-white.pngStar-white.png	Revenge Strike	Typeless	Melee Attack	15	100%	Passive
+Star-white.pngStar-white.pngStar-white.png	Sharpen	Typeless	Status Effect	—	100%	1 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Bite	Beast	Melee Attack	80	100%	3 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Multi Smack	Typeless	Melee Attack	20	100%	3 AP

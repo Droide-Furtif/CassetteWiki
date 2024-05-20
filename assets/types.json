@@ -1,0 +1,72 @@
+[
+{
+	"name": "Astral",
+	"color_code": "#373F67",
+	"image": "https://wiki.cassettebeasts.com/images/2/26/Astral.png"
+},
+{
+        "name": "Beast",
+        "color_code": "#B0AA82",
+        "image": "https://wiki.cassettebeasts.com/images/1/17/Beast.png"
+},
+{
+        "name": "Poison",
+        "color_code": "#7629DB",
+        "image": "https://wiki.cassettebeasts.com/images/0/05/Poison.png"
+},
+{
+        "name": "Air",
+        "color_code": "#206454",
+        "image": "https://wiki.cassettebeasts.com/images/5/5f/Air.png"
+},
+{
+        "name": "Plastic",
+        "color_code": "#B12031",
+        "image": "https://wiki.cassettebeasts.com/images/0/0b/Plastic.png"
+},
+{
+        "name": "Metal",
+        "color_code": "#78668A",
+        "image": "https://wiki.cassettebeasts.com/images/e/e1/Metal.png"
+},
+{
+        "name": "Earth",
+        "color_code": "#6F3945",
+        "image": "https://wiki.cassettebeasts.com/images/1/1e/Earth.png"
+},
+{
+        "name": "Plant",
+        "color_code": "#308245",
+        "image": "https://wiki.cassettebeasts.com/images/d/d1/Plant.png"
+},
+{
+        "name": "Lightning",
+        "color_code": "#D98A30",
+        "image": "https://wiki.cassettebeasts.com/images/8/86/Lightning.png"
+},
+{
+        "name": "Fire",
+        "color_code": "#D04D2F",
+        "image": "https://wiki.cassettebeasts.com/images/3/30/Fire.png"
+},
+{
+        "name": "Water",
+        "color_code": "#4648CE",
+        "image": "https://wiki.cassettebeasts.com/images/9/9d/Water.png"
+},
+{
+        "name": "Ice",
+        "color_code": "#3471B2",
+        "image": "https://wiki.cassettebeasts.com/images/7/77/Ice.png"
+},
+{
+        "name": "Glass",
+        "color_code": "#9DACC3",
+        "image": "https://wiki.cassettebeasts.com/images/1/15/Glass.png"
+},
+{
+        "name": "Glitter",
+        "color_code": "#C355C1",
+        "image": "https://wiki.cassettebeasts.com/images/6/63/Glitter.png"
+}
+]

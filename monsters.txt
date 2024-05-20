@@ -1,0 +1,281 @@
+	SPOILER	#000	Astral	105	160	105	160	150	120
+Springheel.png
+Springheel	#001	Beast	90	130	80	80	90	130
+Hopskin.png
+Hopskin	#002	Beast	90	170	100	90	100	150
+Ripterra.png
+Ripterra	#003	Beast	120	200	100	90	120	170
+Snoopin.png
+Snoopin	#004	Beast	90	160	80	150	90	130
+Scampire.png
+Scampire	#005	Beast	120	160	80	180	90	170
+Carniviper.png
+Carniviper	#006	Poison	60	120	80	120	80	140
+Masquerattle.png
+Masquerattle	#007	Poison	90	140	80	140	90	160
+Jormungold.png
+Jormungold	#008	Poison	100	155	100	155	100	190
+Mardiusa.png
+Mardiusa	#009	Poison	130	160	100	120	130	160
+Aeroboros.png
+Aeroboros	#010	Air	190	30	100	160	160	160
+Traffikrab.png
+Traffikrab	#011	Plastic	80	120	80	120	110	90
+Weevilite.png
+Weevilite	#012	Plastic	120	120	120	160	120	160
+Lobstacle.png
+Lobstacle	#013	Plastic	150	120	160	120	160	90
+Candevil.png
+Candevil	#014	Beast	115	110	100	110	105	100
+Malchemy.png
+Malchemy	#015	Poison	120	125	110	145	110	130
+Miasmodeus.png
+Miasmodeus	#016	Poison	130	150	120	170	120	150
+Vendemon.png
+Vendemon	#017	Metal	130	110	130	120	130	120
+Gumbaal.png
+Gumbaal	#018	Metal	150	110	160	130	160	130
+Bansheep.png
+Bansheep	#019	Beast	115	110	105	110	100	100
+Wooltergeist.png
+Wooltergeist	#020	Astral	120	145	110	125	110	130
+Ramtasm.png
+Ramtasm	#021	Astral	130	170	120	150	120	150
+Zombleat.png
+Zombleat	#022	Earth	130	130	130	110	130	110
+Capricorpse.png
+Capricorpse	#023	Earth	160	140	160	110	160	110
+Sirenade.png
+Sirenade	#024	Air	110	70	80	130	120	90
+Decibelle.png
+Decibelle	#025	Air	135	100	110	170	160	125
+Dandylion.png
+Dandylion	#026	Plant	120	80	120	100	120	60
+Blossomaw.png
+Blossomaw	#027	Plant	160	100	160	130	160	90
+Macabra.png
+Macabra	#028	Beast	140	120	60	100	100	120
+Folklord.png
+Folklord	#029	Beast	140	135	135	100	120	120
+Dominoth.png
+Dominoth	#030	Air	100	100	100	100	120	80
+Wingloom.png
+Wingloom	#031	Lightning	120	100	120	100	120	90
+Mothmanic.png
+Mothmanic	#032	Lightning	130	110	120	180	140	120
+Tokusect.png
+Tokusect	#033	Air	120	170	120	100	120	170
+Squirey.png
+Squirey	#034	Beast	90	110	110	100	90	100
+Manispear.png
+Manispear	#035	Metal	110	120	170	100	150	100
+Palangolin.png
+Palangolin	#036	Metal	150	120	120	100	100	160
+Kittelly.png
+Kittelly	#037	Lightning	100	110	90	110	90	100
+Cat-5.png
+Cat-5	#038	Lightning	150	160	100	120	120	150
+Puppercut.png
+Puppercut	#039	Metal	100	120	110	80	80	110
+Southpaw.png
+Southpaw	#040	Metal	130	160	140	110	110	150
+Bulletino.png
+Bulletino	#041	Fire	80	70	70	100	70	200
+Velocirifle.png
+Velocirifle	#042	Fire	100	100	100	140	100	160
+Artillerex.png
+Artillerex	#043	Fire	110	170	120	170	110	120
+Gearyu.png
+Gearyu	#044	Metal	110	120	170	170	110	120
+Diveal.png
+Diveal	#045	Water	100	100	125	125	100	50
+Scubalrus.png
+Scubalrus	#046	Water	130	125	160	160	125	100
+Nevermort.png
+Nevermort	#047	Poison	150	70	75	80	75	150
+Apocrowlypse.png
+Apocrowlypse	#048	Poison	160	120	120	120	120	160
+Clocksley.png
+Clocksley	#049	Plastic	80	80	80	150	130	80
+Robindam.png
+Robindam	#050	Plastic	110	110	110	200	150	120
+Thwackalope.png
+Thwackalope	#051	Air	110	180	110	110	110	180
+Allseer.png
+Allseer	#052	Metal	100	50	120	150	80	100
+Khufo.png
+Khufo	#053	Astral	120	160	140	160	100	120
+Triphinx.png
+Triphinx	#054	Metal	140	50	140	190	140	140
+Braxsuit.png
+Braxsuit	#055	Air	100	100	70	100	90	140
+Flapwoods.png
+Flapwoods	#056	Air	140	140	100	140	100	180
+Sanzatime.png
+Sanzatime	#057	Earth	100	120	120	100	110	50
+Fortiwinx.png
+Fortiwinx	#058	Earth	130	165	155	130	140	80
+Salamagus.png
+Salamagus	#059	Fire	100	50	80	150	120	100
+Pyromeleon.png
+Pyromeleon	#060	Fire	150	60	100	200	150	140
+Muskrateer.png
+Muskrateer	#061	Beast	80	100	80	80	80	120
+Ratcousel.png
+Ratcousel	#062	Plastic	136	136	136	136	136	120
+Padpole.png
+Padpole	#063	Water	120	120	80	80	80	120
+Frillypad.png
+Frillypad	#064	Water	140	180	100	100	100	140
+Liligator.png
+Liligator	#065	Water	150	200	100	100	100	150
+Elfless.png
+Elfless	#066	Ice	100	100	100	100	100	100
+Grampus.png
+Grampus	#067	Ice	160	150	160	100	130	100
+Faerious.png
+Faerious	#068	Ice	160	160	100	120	100	160
+Brushroom.png
+Brushroom	#069	Plant	100	100	100	90	110	100
+Fungogh.png
+Fungogh	#070	Plant	120	160	160	100	140	120
+Boltam.png
+Boltam	#071	Lightning	90	90	90	90	90	150
+Plasmantler.png
+Plasmantler	#072	Lightning	120	120	120	120	160	160
+Busheye.png
+Busheye	#073	Plant	150	90	90	90	90	90
+Huntorch.png
+Huntorch	#074	Plant	150	140	90	90	90	140
+Hedgeherne.png
+Hedgeherne	#075	Plant	150	140	110	140	110	150
+Terracooka.png
+Terracooka	#076	Earth	100	110	110	100	100	80
+Coaldron.png
+Coaldron	#077	Earth	160	110	140	160	140	90
+Stardigrade.png
+Stardigrade	#078	Astral	180	40	150	40	150	40
+Galagor.png
+Galagor	#079	Astral	200	60	180	150	150	60
+Mascotoy.png
+Mascotoy	#080	Plastic	120	150	100	80	80	70
+Mascotorn.png
+Mascotorn	#081	Plastic	150	200	150	100	110	90
+Binvader.png
+Binvader	#082	Metal	90	90	140	140	90	50
+Binterloper.png
+Binterloper	#083	Plastic	110	110	170	170	110	110
+Twirligig.png
+Twirligig	#084	Plant	190	50	150	50	150	10
+Kirikuri.png
+Kirikuri	#085	Plant	190	160	150	70	110	120
+Jellyton.png
+Jellyton	#086	Poison	120	200	130	150	90	110
+Spirouette.png
+Spirouette	#087	Water	140	70	70	110	70	140
+Regensea.png
+Regensea	#088	Water	170	115	100	145	100	170
+Jumpkin.png
+Jumpkin	#089	Plant	130	100	100	75	100	140
+Beanstalker.png
+Beanstalker	#090	Plant	140	185	110	100	100	165
+Draculeaf.png
+Draculeaf	#091	Plant	160	125	125	125	125	140
+Pawndead.png
+Pawndead	#092	Earth	90	90	90	90	90	90
+Skelevangelist.png
+Skelevangelist	#093	Earth	110	110	110	110	110	110
+Kingrave.png
+Kingrave	#094	Earth	110	220	110	160	110	110
+Queenyx.png
+Queenyx	#095	Earth	180	110	110	110	110	200
+Burnace.png
+Burnace	#096	Fire	100	60	150	100	150	40
+Smogmagog.png
+Smogmagog	#097	Fire	140	110	195	110	195	50
+Faucetear.png
+Faucetear	#098	Water	90	100	90	110	100	90
+Fountess.png
+Fountess	#099	Water	125	135	125	155	135	125
+Cluckabilly.png
+Cluckabilly	#100	Air	100	115	90	105	90	100
+Rockertrice.png
+Rockertrice	#101	Air	130	145	130	135	130	130
+Pondwalker.png
+Pondwalker	#102	Water	100	100	100	100	100	100
+Sharktanker.png
+Sharktanker	#103	Water	130	150	140	130	140	110
+Pombomb.png
+Pombomb	#104	Fire	100	90	90	100	120	100
+Spitzfyre.png
+Spitzfyre	#105	Fire	120	100	100	150	140	120
+Icepeck.png
+Icepeck	#106	Ice	80	150	80	80	80	190
+Cryoshear.png
+Cryoshear	#107	Ice	150	180	90	90	90	200
+Sparktan.png
+Sparktan	#108	Lightning	100	80	90	90	90	150
+Zeustrike.png
+Zeustrike	#109	Lightning	140	100	110	120	130	200
+Kuneko.png
+Kuneko	#110	Air	115	115	115	115	115	115
+Shining Kuneko.png
+Shining Kuneko	#111	Astral	140	140	140	140	140	140
+Djinn Entonic.png
+Djinn Entonic	#112	Astral	150	100	150	150	100	150
+Arkidd.png
+Arkidd	#113	Lightning	100	150	100	100	100	250
+Undyin.png
+Undyin	#114	Water	200	110	110	160	110	110
+Spooki-onna.png
+Spooki-onna	#115	Ice	190	120	130	130	130	100
+Khepri.png
+Khepri	#116	Fire	100	1	100	300	250	79
+Averevoir.png
+Averevoir	#117	Air	150	100	150	100	150	190
+Glaistain.png
+Glaistain	#118	Glass	120	160	90	160	90	220
+Miss Mimic.png
+Miss Mimic	#119	Metal	110	210	110	110	110	150
+Anathema.png
+Anathema	#120	Beast	150	155	140	140	130	85
+Pinbolt.png
+Pinbolt	#121	Lightning	120	120	105	160	105	190
+Diveberg.png
+Diveberg	#122	Ice	100	160	150	125	135	130
+Adeptile.png
+Adeptile	#123	Astral	110	80	180	150	180	100
+Trapwurm.png
+Trapwurm	#124	Earth	120	150	120	90	120	90
+Wyrmaw.png
+Wyrmaw	#125	Earth	150	180	130	110	130	100
+Ferriclaw.png
+Ferriclaw	#126	Metal	90	140	100	90	140	140
+Auriclaw.png
+Auriclaw	#127	Metal	100	170	100	100	170	160
+Picksie.png
+Picksie	#128	Earth	130	130	130	130	130	150
+Amphare.png
+Amphare	#???	Lightning	120	100	120	100	80	80
+Blunderbusk.png
+Blunderbusk	#???	Fire	150	120	150	150	100	130
+Charlequin.png
+Charlequin	#???	Fire	80	110	80	120	100	110
+Fragliacci.png
+Fragliacci	#???	Fire	100	140	100	170	160	130
+Hauntome.png
+Hauntome	#???	Air	110	180	150	180	80	100
+Lapacitor.png
+Lapacitor	#???	Lightning	150	125	150	125	150	100
+Littlered.png
+Littlered	#???	Beast	100	100	100	100	100	100
+Majortom.png
+Majortom	#???	Metal	150	150	150	110	110	130
+Minortom.png
+Minortom	#???	Metal	130	130	130	70	70	70
+Rosehood.png
+Rosehood	#???	Plant	160	110	100	160	110	160
+Scarleteeth.png
+Scarleteeth	#???	Beast	110	160	160	100	160	110
+Umbrahella.png
+Umbrahella	#???	Poison	150	120	140	170	200	60

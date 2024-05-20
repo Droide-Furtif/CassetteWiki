@@ -1,0 +1,2980 @@
+[
+    {
+        "id": "000",
+        "name": "SPOILER",
+        "img": " ",
+        "type": "Astral",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 105,
+            "meleeAttack": 160,
+            "rangedAttack": 105,
+            "meleeDefense": 160,
+            "rangedDefense": 150,
+            "speed": 120
+        },
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 260,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 94,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 141,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 170,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 275,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 268,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 224,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 159,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 169,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 214,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 111,
+                "unlockedLevel": 5
+            }
+        ]
+    },
+    {
+        "id": "001",
+        "name": "Springheel",
+        "img": "https://wiki.cassettebeasts.com/images/3/3c/Springheel.png",
+        "type": "Beast",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 90,
+            "meleeAttack": 130,
+            "rangedAttack": 80,
+            "meleeDefense": 80,
+            "rangedDefense": 90,
+            "speed": 130
+        },
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 178,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 146,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 34,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 264,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 57,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 252,
+                "unlockedLevel": 5
+            }
+        ]
+    },
+    {
+        "id": "002",
+        "name": "Hopskin",
+        "img": "https://wiki.cassettebeasts.com/images/a/ab/Hopskin.png",
+        "type": "Beast",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 90,
+            "meleeAttack": 170,
+            "rangedAttack": 100,
+            "meleeDefense": 90,
+            "rangedDefense": 100,
+            "speed": 150
+        },
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 178,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 146,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 34,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 57,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 84,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 63,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 211,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 258,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 220,
+                "unlockedLevel": 5
+            }
+        ]
+    },
+    {
+        "id": "003",
+        "name": "Ripterra",
+        "img": "https://wiki.cassettebeasts.com/images/3/34/Ripterra.png",
+        "type": "Beast",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 120,
+            "meleeAttack": 200,
+            "rangedAttack": 100,
+            "meleeDefense": 90,
+            "rangedDefense": 120,
+            "speed": 170
+        },
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 178,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 146,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 34,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 84,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 211,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 258,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 220,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 196,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 221,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 187,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 239,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 37,
+                "unlockedLevel": 5
+            }
+        ]
+    },
+    {
+        "id": "004",
+        "name": "Snoopin",
+        "img": "https://wiki.cassettebeasts.com/images/7/71/Snoopin.png",
+        "type": "Beast",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 90,
+            "meleeAttack": 160,
+            "rangedAttack": 80,
+            "meleeDefense": 150,
+            "rangedDefense": 90,
+            "speed": 130
+        },
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 146,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 178,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 34,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 264,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 252,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 14,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 96,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 97,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 204,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 201,
+                "unlockedLevel": 5
+            }
+        ]
+    },
+    {
+        "id": "005",
+        "name": "Scampire",
+        "img": "https://wiki.cassettebeasts.com/images/b/b9/Scampire.png",
+        "type": "Beast",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 120,
+            "meleeAttack": 160,
+            "rangedAttack": 80,
+            "meleeDefense": 180,
+            "rangedDefense": 90,
+            "speed": 170
+        },
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 178,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 146,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 34,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 14,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 96,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 97,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 204,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 271,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 10,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 7,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 133,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 272,
+                "unlockedLevel": 5
+            }
+        ]
+    },
+    {
+        "id": "006",
+        "name": "Carniviper",
+        "img": "https://wiki.cassettebeasts.com/images/1/19/Carniviper.png",
+        "type": "Poison",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 60,
+            "meleeAttack": 120,
+            "rangedAttack": 80,
+            "meleeDefense": 120,
+            "rangedDefense": 80,
+            "speed": 140
+        },
+        "moves": [
+            {
+                "move_id": 234,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 204,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 258,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 211,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 221,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 34,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 170,
+                "unlockedLevel": 5
+            }
+        ]
+    },
+    {
+        "id": "007",
+        "name": "Masquerattle",
+        "img": "https://wiki.cassettebeasts.com/images/0/0e/Masquerattle.png",
+        "type": "Poison",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 90,
+            "meleeAttack": 140,
+            "rangedAttack": 80,
+            "meleeDefense": 140,
+            "rangedDefense": 90,
+            "speed": 160
+        },
+        "moves": []
+    },
+    {
+        "id": "008",
+        "name": "Jormungold",
+        "img": "https://wiki.cassettebeasts.com/images/b/b4/Jormungold.png",
+        "type": "Poison",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 100,
+            "meleeAttack": 155,
+            "rangedAttack": 100,
+            "meleeDefense": 155,
+            "rangedDefense": 100,
+            "speed": 190
+        },
+        "moves": []
+    },
+    {
+        "id": "009",
+        "name": "Mardiusa",
+        "img": "https://wiki.cassettebeasts.com/images/7/7b/Mardiusa.png",
+        "type": "Poison",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 130,
+            "meleeAttack": 160,
+            "rangedAttack": 100,
+            "meleeDefense": 120,
+            "rangedDefense": 130,
+            "speed": 160
+        },
+        "moves": []
+    },
+    {
+        "id": "010",
+        "name": "Aeroboros",
+        "img": "https://wiki.cassettebeasts.com/images/e/e8/Aeroboros.png",
+        "type": "Air",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 190,
+            "meleeAttack": 30,
+            "rangedAttack": 100,
+            "meleeDefense": 160,
+            "rangedDefense": 160,
+            "speed": 160
+        },
+        "moves": []
+    },
+    {
+        "id": "011",
+        "name": "Traffikrab",
+        "img": " ",
+        "type": "Plastic",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 80,
+            "meleeAttack": 120,
+            "rangedAttack": 80,
+            "meleeDefense": 120,
+            "rangedDefense": 110,
+            "speed": 90
+        },
+        "moves": []
+    },
+    {
+        "id": "012",
+        "name": "Weevilite",
+        "img": " ",
+        "type": "Plastic",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 120,
+            "meleeAttack": 120,
+            "rangedAttack": 120,
+            "meleeDefense": 160,
+            "rangedDefense": 120,
+            "speed": 160
+        },
+        "moves": []
+    },
+    {
+        "id": "013",
+        "name": "Lobstacle",
+        "img": " ",
+        "type": "Plastic",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 150,
+            "meleeAttack": 120,
+            "rangedAttack": 160,
+            "meleeDefense": 120,
+            "rangedDefense": 160,
+            "speed": 90
+        },
+        "moves": []
+    },
+    {
+        "id": "014",
+        "name": "Candevil",
+        "img": " ",
+        "type": "Beast",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 115,
+            "meleeAttack": 110,
+            "rangedAttack": 100,
+            "meleeDefense": 110,
+            "rangedDefense": 105,
+            "speed": 100
+        },
+        "moves": []
+    },
+    {
+        "id": "015",
+        "name": "Malchemy",
+        "img": " ",
+        "type": "Poison",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 120,
+            "meleeAttack": 125,
+            "rangedAttack": 110,
+            "meleeDefense": 145,
+            "rangedDefense": 110,
+            "speed": 130
+        },
+        "moves": []
+    },
+    {
+        "id": "016",
+        "name": "Miasmodeus",
+        "img": " ",
+        "type": "Poison",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 130,
+            "meleeAttack": 150,
+            "rangedAttack": 120,
+            "meleeDefense": 170,
+            "rangedDefense": 120,
+            "speed": 150
+        },
+        "moves": []
+    },
+    {
+        "id": "017",
+        "name": "Vendemon",
+        "img": " ",
+        "type": "Metal",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 130,
+            "meleeAttack": 110,
+            "rangedAttack": 130,
+            "meleeDefense": 120,
+            "rangedDefense": 130,
+            "speed": 120
+        },
+        "moves": []
+    },
+    {
+        "id": "018",
+        "name": "Gumbaal",
+        "img": " ",
+        "type": "Metal",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 150,
+            "meleeAttack": 110,
+            "rangedAttack": 160,
+            "meleeDefense": 130,
+            "rangedDefense": 160,
+            "speed": 130
+        },
+        "moves": []
+    },
+    {
+        "id": "019",
+        "name": "Bansheep",
+        "img": " ",
+        "type": "Beast",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 115,
+            "meleeAttack": 110,
+            "rangedAttack": 105,
+            "meleeDefense": 110,
+            "rangedDefense": 100,
+            "speed": 100
+        },
+        "moves": []
+    },
+    {
+        "id": "020",
+        "name": "Wooltergeist",
+        "img": " ",
+        "type": "Astral",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 120,
+            "meleeAttack": 145,
+            "rangedAttack": 110,
+            "meleeDefense": 125,
+            "rangedDefense": 110,
+            "speed": 130
+        },
+        "moves": []
+    },
+    {
+        "id": "021",
+        "name": "Ramtasm",
+        "img": " ",
+        "type": "Astral",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 130,
+            "meleeAttack": 170,
+            "rangedAttack": 120,
+            "meleeDefense": 150,
+            "rangedDefense": 120,
+            "speed": 150
+        },
+        "moves": []
+    },
+    {
+        "id": "022",
+        "name": "Zombleat",
+        "img": " ",
+        "type": "Earth",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 130,
+            "meleeAttack": 130,
+            "rangedAttack": 130,
+            "meleeDefense": 110,
+            "rangedDefense": 130,
+            "speed": 110
+        },
+        "moves": []
+    },
+    {
+        "id": "023",
+        "name": "Capricorpse",
+        "img": " ",
+        "type": "Earth",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 160,
+            "meleeAttack": 140,
+            "rangedAttack": 160,
+            "meleeDefense": 110,
+            "rangedDefense": 160,
+            "speed": 110
+        },
+        "moves": []
+    },
+    {
+        "id": "024",
+        "name": "Sirenade",
+        "img": " ",
+        "type": "Air",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 110,
+            "meleeAttack": 70,
+            "rangedAttack": 80,
+            "meleeDefense": 130,
+            "rangedDefense": 120,
+            "speed": 90
+        },
+        "moves": []
+    },
+    {
+        "id": "025",
+        "name": "Decibelle",
+        "img": " ",
+        "type": "Air",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 135,
+            "meleeAttack": 100,
+            "rangedAttack": 110,
+            "meleeDefense": 170,
+            "rangedDefense": 160,
+            "speed": 125
+        },
+        "moves": []
+    },
+    {
+        "id": "026",
+        "name": "Dandylion",
+        "img": " ",
+        "type": "Plant",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 120,
+            "meleeAttack": 80,
+            "rangedAttack": 120,
+            "meleeDefense": 100,
+            "rangedDefense": 120,
+            "speed": 60
+        },
+        "moves": []
+    },
+    {
+        "id": "027",
+        "name": "Blossomaw",
+        "img": " ",
+        "type": "Plant",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 160,
+            "meleeAttack": 100,
+            "rangedAttack": 160,
+            "meleeDefense": 130,
+            "rangedDefense": 160,
+            "speed": 90
+        },
+        "moves": []
+    },
+    {
+        "id": "028",
+        "name": "Macabra",
+        "img": " ",
+        "type": "Beast",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 140,
+            "meleeAttack": 120,
+            "rangedAttack": 60,
+            "meleeDefense": 100,
+            "rangedDefense": 100,
+            "speed": 120
+        },
+        "moves": []
+    },
+    {
+        "id": "029",
+        "name": "Folklord",
+        "img": " ",
+        "type": "Beast",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 140,
+            "meleeAttack": 135,
+            "rangedAttack": 135,
+            "meleeDefense": 100,
+            "rangedDefense": 120,
+            "speed": 120
+        },
+        "moves": []
+    },
+    {
+        "id": "030",
+        "name": "Dominoth",
+        "img": " ",
+        "type": "Air",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 100,
+            "meleeAttack": 100,
+            "rangedAttack": 100,
+            "meleeDefense": 100,
+            "rangedDefense": 120,
+            "speed": 80
+        },
+        "moves": []
+    },
+    {
+        "id": "031",
+        "name": "Wingloom",
+        "img": " ",
+        "type": "Lightning",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 120,
+            "meleeAttack": 100,
+            "rangedAttack": 120,
+            "meleeDefense": 100,
+            "rangedDefense": 120,
+            "speed": 90
+        },
+        "moves": []
+    },
+    {
+        "id": "032",
+        "name": "Mothmanic",
+        "img": " ",
+        "type": "Lightning",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 130,
+            "meleeAttack": 110,
+            "rangedAttack": 120,
+            "meleeDefense": 180,
+            "rangedDefense": 140,
+            "speed": 120
+        },
+        "moves": []
+    },
+    {
+        "id": "033",
+        "name": "Tokusect",
+        "img": " ",
+        "type": "Air",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 120,
+            "meleeAttack": 170,
+            "rangedAttack": 120,
+            "meleeDefense": 100,
+            "rangedDefense": 120,
+            "speed": 170
+        },
+        "moves": []
+    },
+    {
+        "id": "034",
+        "name": "Squirey",
+        "img": " ",
+        "type": "Beast",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 90,
+            "meleeAttack": 110,
+            "rangedAttack": 110,
+            "meleeDefense": 100,
+            "rangedDefense": 90,
+            "speed": 100
+        },
+        "moves": []
+    },
+    {
+        "id": "035",
+        "name": "Manispear",
+        "img": " ",
+        "type": "Metal",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 110,
+            "meleeAttack": 120,
+            "rangedAttack": 170,
+            "meleeDefense": 100,
+            "rangedDefense": 150,
+            "speed": 100
+        },
+        "moves": []
+    },
+    {
+        "id": "036",
+        "name": "Palangolin",
+        "img": " ",
+        "type": "Metal",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 150,
+            "meleeAttack": 120,
+            "rangedAttack": 120,
+            "meleeDefense": 100,
+            "rangedDefense": 100,
+            "speed": 160
+        },
+        "moves": []
+    },
+    {
+        "id": "037",
+        "name": "Kittelly",
+        "img": " ",
+        "type": "Lightning",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 100,
+            "meleeAttack": 110,
+            "rangedAttack": 90,
+            "meleeDefense": 110,
+            "rangedDefense": 90,
+            "speed": 100
+        },
+        "moves": []
+    },
+    {
+        "id": "038",
+        "name": "Cat-5",
+        "img": " ",
+        "type": "Lightning",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 150,
+            "meleeAttack": 160,
+            "rangedAttack": 100,
+            "meleeDefense": 120,
+            "rangedDefense": 120,
+            "speed": 150
+        },
+        "moves": []
+    },
+    {
+        "id": "039",
+        "name": "Puppercut",
+        "img": " ",
+        "type": "Metal",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 100,
+            "meleeAttack": 120,
+            "rangedAttack": 110,
+            "meleeDefense": 80,
+            "rangedDefense": 80,
+            "speed": 110
+        },
+        "moves": []
+    },
+    {
+        "id": "040",
+        "name": "Southpaw",
+        "img": " ",
+        "type": "Metal",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 130,
+            "meleeAttack": 160,
+            "rangedAttack": 140,
+            "meleeDefense": 110,
+            "rangedDefense": 110,
+            "speed": 150
+        },
+        "moves": []
+    },
+    {
+        "id": "041",
+        "name": "Bulletino",
+        "img": " ",
+        "type": "Fire",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 80,
+            "meleeAttack": 70,
+            "rangedAttack": 70,
+            "meleeDefense": 100,
+            "rangedDefense": 70,
+            "speed": 200
+        },
+        "moves": []
+    },
+    {
+        "id": "042",
+        "name": "Velocirifle",
+        "img": " ",
+        "type": "Fire",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 100,
+            "meleeAttack": 100,
+            "rangedAttack": 100,
+            "meleeDefense": 140,
+            "rangedDefense": 100,
+            "speed": 160
+        },
+        "moves": []
+    },
+    {
+        "id": "043",
+        "name": "Artillerex",
+        "img": " ",
+        "type": "Fire",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 110,
+            "meleeAttack": 170,
+            "rangedAttack": 120,
+            "meleeDefense": 170,
+            "rangedDefense": 110,
+            "speed": 120
+        },
+        "moves": []
+    },
+    {
+        "id": "044",
+        "name": "Gearyu",
+        "img": " ",
+        "type": "Metal",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 110,
+            "meleeAttack": 120,
+            "rangedAttack": 170,
+            "meleeDefense": 170,
+            "rangedDefense": 110,
+            "speed": 120
+        },
+        "moves": []
+    },
+    {
+        "id": "045",
+        "name": "Diveal",
+        "img": " ",
+        "type": "Water",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 100,
+            "meleeAttack": 100,
+            "rangedAttack": 125,
+            "meleeDefense": 125,
+            "rangedDefense": 100,
+            "speed": 50
+        },
+        "moves": []
+    },
+    {
+        "id": "046",
+        "name": "Scubalrus",
+        "img": " ",
+        "type": "Water",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 130,
+            "meleeAttack": 125,
+            "rangedAttack": 160,
+            "meleeDefense": 160,
+            "rangedDefense": 125,
+            "speed": 100
+        },
+        "moves": []
+    },
+    {
+        "id": "047",
+        "name": "Nevermort",
+        "img": " ",
+        "type": "Poison",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 150,
+            "meleeAttack": 70,
+            "rangedAttack": 75,
+            "meleeDefense": 80,
+            "rangedDefense": 75,
+            "speed": 150
+        },
+        "moves": []
+    },
+    {
+        "id": "048",
+        "name": "Apocrowlypse",
+        "img": " ",
+        "type": "Poison",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 160,
+            "meleeAttack": 120,
+            "rangedAttack": 120,
+            "meleeDefense": 120,
+            "rangedDefense": 120,
+            "speed": 160
+        },
+        "moves": []
+    },
+    {
+        "id": "049",
+        "name": "Clocksley",
+        "img": " ",
+        "type": "Plastic",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 80,
+            "meleeAttack": 80,
+            "rangedAttack": 80,
+            "meleeDefense": 150,
+            "rangedDefense": 130,
+            "speed": 80
+        },
+        "moves": []
+    },
+    {
+        "id": "050",
+        "name": "Robindam",
+        "img": " ",
+        "type": "Plastic",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 110,
+            "meleeAttack": 110,
+            "rangedAttack": 110,
+            "meleeDefense": 200,
+            "rangedDefense": 150,
+            "speed": 120
+        },
+        "moves": []
+    },
+    {
+        "id": "051",
+        "name": "Thwackalope",
+        "img": " ",
+        "type": "Air",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 110,
+            "meleeAttack": 180,
+            "rangedAttack": 110,
+            "meleeDefense": 110,
+            "rangedDefense": 110,
+            "speed": 180
+        },
+        "moves": []
+    },
+    {
+        "id": "052",
+        "name": "Allseer",
+        "img": " ",
+        "type": "Metal",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 100,
+            "meleeAttack": 50,
+            "rangedAttack": 120,
+            "meleeDefense": 150,
+            "rangedDefense": 80,
+            "speed": 100
+        },
+        "moves": []
+    },
+    {
+        "id": "053",
+        "name": "Khufo",
+        "img": " ",
+        "type": "Astral",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 120,
+            "meleeAttack": 160,
+            "rangedAttack": 140,
+            "meleeDefense": 160,
+            "rangedDefense": 100,
+            "speed": 120
+        },
+        "moves": []
+    },
+    {
+        "id": "054",
+        "name": "Triphinx",
+        "img": " ",
+        "type": "Metal",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 140,
+            "meleeAttack": 50,
+            "rangedAttack": 140,
+            "meleeDefense": 190,
+            "rangedDefense": 140,
+            "speed": 140
+        },
+        "moves": []
+    },
+    {
+        "id": "055",
+        "name": "Braxsuit",
+        "img": " ",
+        "type": "Air",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 100,
+            "meleeAttack": 100,
+            "rangedAttack": 70,
+            "meleeDefense": 100,
+            "rangedDefense": 90,
+            "speed": 140
+        },
+        "moves": []
+    },
+    {
+        "id": "056",
+        "name": "Flapwoods",
+        "img": " ",
+        "type": "Air",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 140,
+            "meleeAttack": 140,
+            "rangedAttack": 100,
+            "meleeDefense": 140,
+            "rangedDefense": 100,
+            "speed": 180
+        },
+        "moves": []
+    },
+    {
+        "id": "057",
+        "name": "Sanzatime",
+        "img": " ",
+        "type": "Earth",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 100,
+            "meleeAttack": 120,
+            "rangedAttack": 120,
+            "meleeDefense": 100,
+            "rangedDefense": 110,
+            "speed": 50
+        },
+        "moves": []
+    },
+    {
+        "id": "058",
+        "name": "Fortiwinx",
+        "img": " ",
+        "type": "Earth",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 130,
+            "meleeAttack": 165,
+            "rangedAttack": 155,
+            "meleeDefense": 130,
+            "rangedDefense": 140,
+            "speed": 80
+        },
+        "moves": []
+    },
+    {
+        "id": "059",
+        "name": "Salamagus",
+        "img": " ",
+        "type": "Fire",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 100,
+            "meleeAttack": 50,
+            "rangedAttack": 80,
+            "meleeDefense": 150,
+            "rangedDefense": 120,
+            "speed": 100
+        },
+        "moves": []
+    },
+    {
+        "id": "060",
+        "name": "Pyromeleon",
+        "img": " ",
+        "type": "Fire",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 150,
+            "meleeAttack": 60,
+            "rangedAttack": 100,
+            "meleeDefense": 200,
+            "rangedDefense": 150,
+            "speed": 140
+        },
+        "moves": []
+    },
+    {
+        "id": "061",
+        "name": "Muskrateer",
+        "img": " ",
+        "type": "Beast",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 80,
+            "meleeAttack": 100,
+            "rangedAttack": 80,
+            "meleeDefense": 80,
+            "rangedDefense": 80,
+            "speed": 120
+        },
+        "moves": []
+    },
+    {
+        "id": "062",
+        "name": "Ratcousel",
+        "img": " ",
+        "type": "Plastic",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 136,
+            "meleeAttack": 136,
+            "rangedAttack": 136,
+            "meleeDefense": 136,
+            "rangedDefense": 136,
+            "speed": 120
+        },
+        "moves": []
+    },
+    {
+        "id": "063",
+        "name": "Padpole",
+        "img": " ",
+        "type": "Water",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 120,
+            "meleeAttack": 120,
+            "rangedAttack": 80,
+            "meleeDefense": 80,
+            "rangedDefense": 80,
+            "speed": 120
+        },
+        "moves": []
+    },
+    {
+        "id": "064",
+        "name": "Frillypad",
+        "img": " ",
+        "type": "Water",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 140,
+            "meleeAttack": 180,
+            "rangedAttack": 100,
+            "meleeDefense": 100,
+            "rangedDefense": 100,
+            "speed": 140
+        },
+        "moves": []
+    },
+    {
+        "id": "065",
+        "name": "Liligator",
+        "img": " ",
+        "type": "Water",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 150,
+            "meleeAttack": 200,
+            "rangedAttack": 100,
+            "meleeDefense": 100,
+            "rangedDefense": 100,
+            "speed": 150
+        },
+        "moves": []
+    },
+    {
+        "id": "066",
+        "name": "Elfless",
+        "img": " ",
+        "type": "Ice",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 100,
+            "meleeAttack": 100,
+            "rangedAttack": 100,
+            "meleeDefense": 100,
+            "rangedDefense": 100,
+            "speed": 100
+        },
+        "moves": []
+    },
+    {
+        "id": "067",
+        "name": "Grampus",
+        "img": " ",
+        "type": "Ice",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 160,
+            "meleeAttack": 150,
+            "rangedAttack": 160,
+            "meleeDefense": 100,
+            "rangedDefense": 130,
+            "speed": 100
+        },
+        "moves": []
+    },
+    {
+        "id": "068",
+        "name": "Faerious",
+        "img": " ",
+        "type": "Ice",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 160,
+            "meleeAttack": 160,
+            "rangedAttack": 100,
+            "meleeDefense": 120,
+            "rangedDefense": 100,
+            "speed": 160
+        },
+        "moves": []
+    },
+    {
+        "id": "069",
+        "name": "Brushroom",
+        "img": " ",
+        "type": "Plant",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 100,
+            "meleeAttack": 100,
+            "rangedAttack": 100,
+            "meleeDefense": 90,
+            "rangedDefense": 110,
+            "speed": 100
+        },
+        "moves": []
+    },
+    {
+        "id": "070",
+        "name": "Fungogh",
+        "img": " ",
+        "type": "Plant",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 120,
+            "meleeAttack": 160,
+            "rangedAttack": 160,
+            "meleeDefense": 100,
+            "rangedDefense": 140,
+            "speed": 120
+        },
+        "moves": []
+    },
+    {
+        "id": "071",
+        "name": "Boltam",
+        "img": " ",
+        "type": "Lightning",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 90,
+            "meleeAttack": 90,
+            "rangedAttack": 90,
+            "meleeDefense": 90,
+            "rangedDefense": 90,
+            "speed": 150
+        },
+        "moves": []
+    },
+    {
+        "id": "072",
+        "name": "Plasmantler",
+        "img": " ",
+        "type": "Lightning",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 120,
+            "meleeAttack": 120,
+            "rangedAttack": 120,
+            "meleeDefense": 120,
+            "rangedDefense": 160,
+            "speed": 160
+        },
+        "moves": []
+    },
+    {
+        "id": "073",
+        "name": "Busheye",
+        "img": " ",
+        "type": "Plant",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 150,
+            "meleeAttack": 90,
+            "rangedAttack": 90,
+            "meleeDefense": 90,
+            "rangedDefense": 90,
+            "speed": 90
+        },
+        "moves": []
+    },
+    {
+        "id": "074",
+        "name": "Huntorch",
+        "img": " ",
+        "type": "Plant",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 150,
+            "meleeAttack": 140,
+            "rangedAttack": 90,
+            "meleeDefense": 90,
+            "rangedDefense": 90,
+            "speed": 140
+        },
+        "moves": []
+    },
+    {
+        "id": "075",
+        "name": "Hedgeherne",
+        "img": " ",
+        "type": "Plant",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 150,
+            "meleeAttack": 140,
+            "rangedAttack": 110,
+            "meleeDefense": 140,
+            "rangedDefense": 110,
+            "speed": 150
+        },
+        "moves": []
+    },
+    {
+        "id": "076",
+        "name": "Terracooka",
+        "img": " ",
+        "type": "Earth",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 100,
+            "meleeAttack": 110,
+            "rangedAttack": 110,
+            "meleeDefense": 100,
+            "rangedDefense": 100,
+            "speed": 80
+        },
+        "moves": []
+    },
+    {
+        "id": "077",
+        "name": "Coaldron",
+        "img": " ",
+        "type": "Earth",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 160,
+            "meleeAttack": 110,
+            "rangedAttack": 140,
+            "meleeDefense": 160,
+            "rangedDefense": 140,
+            "speed": 90
+        },
+        "moves": []
+    },
+    {
+        "id": "078",
+        "name": "Stardigrade",
+        "img": " ",
+        "type": "Astral",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 180,
+            "meleeAttack": 40,
+            "rangedAttack": 150,
+            "meleeDefense": 40,
+            "rangedDefense": 150,
+            "speed": 40
+        },
+        "moves": []
+    },
+    {
+        "id": "079",
+        "name": "Galagor",
+        "img": " ",
+        "type": "Astral",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 200,
+            "meleeAttack": 60,
+            "rangedAttack": 180,
+            "meleeDefense": 150,
+            "rangedDefense": 150,
+            "speed": 60
+        },
+        "moves": []
+    },
+    {
+        "id": "080",
+        "name": "Mascotoy",
+        "img": " ",
+        "type": "Plastic",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 120,
+            "meleeAttack": 150,
+            "rangedAttack": 100,
+            "meleeDefense": 80,
+            "rangedDefense": 80,
+            "speed": 70
+        },
+        "moves": []
+    },
+    {
+        "id": "081",
+        "name": "Mascotorn",
+        "img": " ",
+        "type": "Plastic",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 150,
+            "meleeAttack": 200,
+            "rangedAttack": 150,
+            "meleeDefense": 100,
+            "rangedDefense": 110,
+            "speed": 90
+        },
+        "moves": []
+    },
+    {
+        "id": "082",
+        "name": "Binvader",
+        "img": " ",
+        "type": "Metal",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 90,
+            "meleeAttack": 90,
+            "rangedAttack": 140,
+            "meleeDefense": 140,
+            "rangedDefense": 90,
+            "speed": 50
+        },
+        "moves": []
+    },
+    {
+        "id": "083",
+        "name": "Binterloper",
+        "img": " ",
+        "type": "Plastic",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 110,
+            "meleeAttack": 110,
+            "rangedAttack": 170,
+            "meleeDefense": 170,
+            "rangedDefense": 110,
+            "speed": 110
+        },
+        "moves": []
+    },
+    {
+        "id": "084",
+        "name": "Twirligig",
+        "img": " ",
+        "type": "Plant",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 190,
+            "meleeAttack": 50,
+            "rangedAttack": 150,
+            "meleeDefense": 50,
+            "rangedDefense": 150,
+            "speed": 10
+        },
+        "moves": []
+    },
+    {
+        "id": "085",
+        "name": "Kirikuri",
+        "img": " ",
+        "type": "Plant",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 190,
+            "meleeAttack": 160,
+            "rangedAttack": 150,
+            "meleeDefense": 70,
+            "rangedDefense": 110,
+            "speed": 120
+        },
+        "moves": []
+    },
+    {
+        "id": "086",
+        "name": "Jellyton",
+        "img": " ",
+        "type": "Poison",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 120,
+            "meleeAttack": 200,
+            "rangedAttack": 130,
+            "meleeDefense": 150,
+            "rangedDefense": 90,
+            "speed": 110
+        },
+        "moves": []
+    },
+    {
+        "id": "087",
+        "name": "Spirouette",
+        "img": " ",
+        "type": "Water",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 140,
+            "meleeAttack": 70,
+            "rangedAttack": 70,
+            "meleeDefense": 110,
+            "rangedDefense": 70,
+            "speed": 140
+        },
+        "moves": []
+    },
+    {
+        "id": "088",
+        "name": "Regensea",
+        "img": " ",
+        "type": "Water",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 170,
+            "meleeAttack": 115,
+            "rangedAttack": 100,
+            "meleeDefense": 145,
+            "rangedDefense": 100,
+            "speed": 170
+        },
+        "moves": []
+    },
+    {
+        "id": "089",
+        "name": "Jumpkin",
+        "img": " ",
+        "type": "Plant",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 130,
+            "meleeAttack": 100,
+            "rangedAttack": 100,
+            "meleeDefense": 75,
+            "rangedDefense": 100,
+            "speed": 140
+        },
+        "moves": []
+    },
+    {
+        "id": "090",
+        "name": "Beanstalker",
+        "img": " ",
+        "type": "Plant",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 140,
+            "meleeAttack": 185,
+            "rangedAttack": 110,
+            "meleeDefense": 100,
+            "rangedDefense": 100,
+            "speed": 165
+        },
+        "moves": []
+    },
+    {
+        "id": "091",
+        "name": "Draculeaf",
+        "img": " ",
+        "type": "Plant",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 160,
+            "meleeAttack": 125,
+            "rangedAttack": 125,
+            "meleeDefense": 125,
+            "rangedDefense": 125,
+            "speed": 140
+        },
+        "moves": []
+    },
+    {
+        "id": "092",
+        "name": "Pawndead",
+        "img": " ",
+        "type": "Earth",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 90,
+            "meleeAttack": 90,
+            "rangedAttack": 90,
+            "meleeDefense": 90,
+            "rangedDefense": 90,
+            "speed": 90
+        },
+        "moves": []
+    },
+    {
+        "id": "093",
+        "name": "Skelevangelist",
+        "img": " ",
+        "type": "Earth",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 110,
+            "meleeAttack": 110,
+            "rangedAttack": 110,
+            "meleeDefense": 110,
+            "rangedDefense": 110,
+            "speed": 110
+        },
+        "moves": []
+    },
+    {
+        "id": "094",
+        "name": "Kingrave",
+        "img": " ",
+        "type": "Earth",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 110,
+            "meleeAttack": 220,
+            "rangedAttack": 110,
+            "meleeDefense": 160,
+            "rangedDefense": 110,
+            "speed": 110
+        },
+        "moves": []
+    },
+    {
+        "id": "095",
+        "name": "Queenyx",
+        "img": " ",
+        "type": "Earth",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 180,
+            "meleeAttack": 110,
+            "rangedAttack": 110,
+            "meleeDefense": 110,
+            "rangedDefense": 110,
+            "speed": 200
+        },
+        "moves": []
+    },
+    {
+        "id": "096",
+        "name": "Burnace",
+        "img": " ",
+        "type": "Fire",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 100,
+            "meleeAttack": 60,
+            "rangedAttack": 150,
+            "meleeDefense": 100,
+            "rangedDefense": 150,
+            "speed": 40
+        },
+        "moves": []
+    },
+    {
+        "id": "097",
+        "name": "Smogmagog",
+        "img": " ",
+        "type": "Fire",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 140,
+            "meleeAttack": 110,
+            "rangedAttack": 195,
+            "meleeDefense": 110,
+            "rangedDefense": 195,
+            "speed": 50
+        },
+        "moves": []
+    },
+    {
+        "id": "098",
+        "name": "Faucetear",
+        "img": " ",
+        "type": "Water",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 90,
+            "meleeAttack": 100,
+            "rangedAttack": 90,
+            "meleeDefense": 110,
+            "rangedDefense": 100,
+            "speed": 90
+        },
+        "moves": []
+    },
+    {
+        "id": "099",
+        "name": "Fountess",
+        "img": " ",
+        "type": "Water",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 125,
+            "meleeAttack": 135,
+            "rangedAttack": 125,
+            "meleeDefense": 155,
+            "rangedDefense": 135,
+            "speed": 125
+        },
+        "moves": []
+    },
+    {
+        "id": "100",
+        "name": "Cluckabilly",
+        "img": " ",
+        "type": "Air",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 100,
+            "meleeAttack": 115,
+            "rangedAttack": 90,
+            "meleeDefense": 105,
+            "rangedDefense": 90,
+            "speed": 100
+        },
+        "moves": []
+    },
+    {
+        "id": "101",
+        "name": "Rockertrice",
+        "img": " ",
+        "type": "Air",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 130,
+            "meleeAttack": 145,
+            "rangedAttack": 130,
+            "meleeDefense": 135,
+            "rangedDefense": 130,
+            "speed": 130
+        },
+        "moves": []
+    },
+    {
+        "id": "102",
+        "name": "Pondwalker",
+        "img": " ",
+        "type": "Water",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 100,
+            "meleeAttack": 100,
+            "rangedAttack": 100,
+            "meleeDefense": 100,
+            "rangedDefense": 100,
+            "speed": 100
+        },
+        "moves": []
+    },
+    {
+        "id": "103",
+        "name": "Sharktanker",
+        "img": " ",
+        "type": "Water",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 130,
+            "meleeAttack": 150,
+            "rangedAttack": 140,
+            "meleeDefense": 130,
+            "rangedDefense": 140,
+            "speed": 110
+        },
+        "moves": []
+    },
+    {
+        "id": "104",
+        "name": "Pombomb",
+        "img": " ",
+        "type": "Fire",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 100,
+            "meleeAttack": 90,
+            "rangedAttack": 90,
+            "meleeDefense": 100,
+            "rangedDefense": 120,
+            "speed": 100
+        },
+        "moves": []
+    },
+    {
+        "id": "105",
+        "name": "Spitzfyre",
+        "img": " ",
+        "type": "Fire",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 120,
+            "meleeAttack": 100,
+            "rangedAttack": 100,
+            "meleeDefense": 150,
+            "rangedDefense": 140,
+            "speed": 120
+        },
+        "moves": []
+    },
+    {
+        "id": "106",
+        "name": "Icepeck",
+        "img": " ",
+        "type": "Ice",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 80,
+            "meleeAttack": 150,
+            "rangedAttack": 80,
+            "meleeDefense": 80,
+            "rangedDefense": 80,
+            "speed": 190
+        },
+        "moves": []
+    },
+    {
+        "id": "107",
+        "name": "Cryoshear",
+        "img": " ",
+        "type": "Ice",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 150,
+            "meleeAttack": 180,
+            "rangedAttack": 90,
+            "meleeDefense": 90,
+            "rangedDefense": 90,
+            "speed": 200
+        },
+        "moves": []
+    },
+    {
+        "id": "108",
+        "name": "Sparktan",
+        "img": " ",
+        "type": "Lightning",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 100,
+            "meleeAttack": 80,
+            "rangedAttack": 90,
+            "meleeDefense": 90,
+            "rangedDefense": 90,
+            "speed": 150
+        },
+        "moves": []
+    },
+    {
+        "id": "109",
+        "name": "Zeustrike",
+        "img": " ",
+        "type": "Lightning",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 140,
+            "meleeAttack": 100,
+            "rangedAttack": 110,
+            "meleeDefense": 120,
+            "rangedDefense": 130,
+            "speed": 200
+        },
+        "moves": []
+    },
+    {
+        "id": "110",
+        "name": "Kuneko",
+        "img": " ",
+        "type": "Air",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 115,
+            "meleeAttack": 115,
+            "rangedAttack": 115,
+            "meleeDefense": 115,
+            "rangedDefense": 115,
+            "speed": 115
+        },
+        "moves": []
+    },
+    {
+        "id": "111",
+        "name": "Shining Kuneko",
+        "img": " ",
+        "type": "Astral",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 140,
+            "meleeAttack": 140,
+            "rangedAttack": 140,
+            "meleeDefense": 140,
+            "rangedDefense": 140,
+            "speed": 140
+        },
+        "moves": []
+    },
+    {
+        "id": "112",
+        "name": "Djinn Entonic",
+        "img": " ",
+        "type": "Astral",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 150,
+            "meleeAttack": 100,
+            "rangedAttack": 150,
+            "meleeDefense": 150,
+            "rangedDefense": 100,
+            "speed": 150
+        },
+        "moves": []
+    },
+    {
+        "id": "113",
+        "name": "Arkidd",
+        "img": " ",
+        "type": "Lightning",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 100,
+            "meleeAttack": 150,
+            "rangedAttack": 100,
+            "meleeDefense": 100,
+            "rangedDefense": 100,
+            "speed": 250
+        },
+        "moves": []
+    },
+    {
+        "id": "114",
+        "name": "Undyin",
+        "img": " ",
+        "type": "Water",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 200,
+            "meleeAttack": 110,
+            "rangedAttack": 110,
+            "meleeDefense": 160,
+            "rangedDefense": 110,
+            "speed": 110
+        },
+        "moves": []
+    },
+    {
+        "id": "115",
+        "name": "Spooki-onna",
+        "img": " ",
+        "type": "Ice",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 190,
+            "meleeAttack": 120,
+            "rangedAttack": 130,
+            "meleeDefense": 130,
+            "rangedDefense": 130,
+            "speed": 100
+        },
+        "moves": []
+    },
+    {
+        "id": "116",
+        "name": "Khepri",
+        "img": " ",
+        "type": "Fire",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 100,
+            "meleeAttack": 1,
+            "rangedAttack": 100,
+            "meleeDefense": 300,
+            "rangedDefense": 250,
+            "speed": 79
+        },
+        "moves": []
+    },
+    {
+        "id": "117",
+        "name": "Averevoir",
+        "img": " ",
+        "type": "Air",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 150,
+            "meleeAttack": 100,
+            "rangedAttack": 150,
+            "meleeDefense": 100,
+            "rangedDefense": 150,
+            "speed": 190
+        },
+        "moves": []
+    },
+    {
+        "id": "118",
+        "name": "Glaistain",
+        "img": " ",
+        "type": "Glass",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 120,
+            "meleeAttack": 160,
+            "rangedAttack": 90,
+            "meleeDefense": 160,
+            "rangedDefense": 90,
+            "speed": 220
+        },
+        "moves": []
+    },
+    {
+        "id": "119",
+        "name": "Miss Mimic",
+        "img": " ",
+        "type": "Metal",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 110,
+            "meleeAttack": 210,
+            "rangedAttack": 110,
+            "meleeDefense": 110,
+            "rangedDefense": 110,
+            "speed": 150
+        },
+        "moves": []
+    },
+    {
+        "id": "120",
+        "name": "Anathema",
+        "img": " ",
+        "type": "Beast",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 150,
+            "meleeAttack": 155,
+            "rangedAttack": 140,
+            "meleeDefense": 140,
+            "rangedDefense": 130,
+            "speed": 85
+        },
+        "moves": []
+    },
+    {
+        "id": "121",
+        "name": "Pinbolt",
+        "img": " ",
+        "type": "Lightning",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 120,
+            "meleeAttack": 120,
+            "rangedAttack": 105,
+            "meleeDefense": 160,
+            "rangedDefense": 105,
+            "speed": 190
+        },
+        "moves": []
+    },
+    {
+        "id": "122",
+        "name": "Diveberg",
+        "img": " ",
+        "type": "Ice",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 100,
+            "meleeAttack": 160,
+            "rangedAttack": 150,
+            "meleeDefense": 125,
+            "rangedDefense": 135,
+            "speed": 130
+        },
+        "moves": []
+    },
+    {
+        "id": "123",
+        "name": "Adeptile",
+        "img": " ",
+        "type": "Astral",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 110,
+            "meleeAttack": 80,
+            "rangedAttack": 180,
+            "meleeDefense": 150,
+            "rangedDefense": 180,
+            "speed": 100
+        },
+        "moves": []
+    },
+    {
+        "id": "124",
+        "name": "Trapwurm",
+        "img": " ",
+        "type": "Earth",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 120,
+            "meleeAttack": 150,
+            "rangedAttack": 120,
+            "meleeDefense": 90,
+            "rangedDefense": 120,
+            "speed": 90
+        },
+        "moves": []
+    },
+    {
+        "id": "125",
+        "name": "Wyrmaw",
+        "img": " ",
+        "type": "Earth",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 150,
+            "meleeAttack": 180,
+            "rangedAttack": 130,
+            "meleeDefense": 110,
+            "rangedDefense": 130,
+            "speed": 100
+        },
+        "moves": []
+    },
+    {
+        "id": "126",
+        "name": "Ferriclaw",
+        "img": " ",
+        "type": "Metal",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 90,
+            "meleeAttack": 140,
+            "rangedAttack": 100,
+            "meleeDefense": 90,
+            "rangedDefense": 140,
+            "speed": 140
+        },
+        "moves": []
+    },
+    {
+        "id": "127",
+        "name": "Auriclaw",
+        "img": " ",
+        "type": "Metal",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 100,
+            "meleeAttack": 170,
+            "rangedAttack": 100,
+            "meleeDefense": 100,
+            "rangedDefense": 170,
+            "speed": 160
+        },
+        "moves": []
+    },
+    {
+        "id": "128",
+        "name": "Picksie",
+        "img": " ",
+        "type": "Earth",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 130,
+            "meleeAttack": 130,
+            "rangedAttack": 130,
+            "meleeDefense": 130,
+            "rangedDefense": 130,
+            "speed": 150
+        },
+        "moves": []
+    },
+    {
+        "id": "???",
+        "name": "Amphare",
+        "img": " ",
+        "type": "Lightning",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 120,
+            "meleeAttack": 100,
+            "rangedAttack": 120,
+            "meleeDefense": 100,
+            "rangedDefense": 80,
+            "speed": 80
+        },
+        "moves": []
+    },
+    {
+        "id": "???",
+        "name": "Blunderbusk",
+        "img": " ",
+        "type": "Fire",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 150,
+            "meleeAttack": 120,
+            "rangedAttack": 150,
+            "meleeDefense": 150,
+            "rangedDefense": 100,
+            "speed": 130
+        },
+        "moves": []
+    },
+    {
+        "id": "???",
+        "name": "Charlequin",
+        "img": " ",
+        "type": "Fire",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 80,
+            "meleeAttack": 110,
+            "rangedAttack": 80,
+            "meleeDefense": 120,
+            "rangedDefense": 100,
+            "speed": 110
+        },
+        "moves": []
+    },
+    {
+        "id": "???",
+        "name": "Fragliacci",
+        "img": " ",
+        "type": "Fire",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 100,
+            "meleeAttack": 140,
+            "rangedAttack": 100,
+            "meleeDefense": 170,
+            "rangedDefense": 160,
+            "speed": 130
+        },
+        "moves": []
+    },
+    {
+        "id": "???",
+        "name": "Hauntome",
+        "img": " ",
+        "type": "Air",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 110,
+            "meleeAttack": 180,
+            "rangedAttack": 150,
+            "meleeDefense": 180,
+            "rangedDefense": 80,
+            "speed": 100
+        },
+        "moves": []
+    },
+    {
+        "id": "???",
+        "name": "Lapacitor",
+        "img": " ",
+        "type": "Lightning",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 150,
+            "meleeAttack": 125,
+            "rangedAttack": 150,
+            "meleeDefense": 125,
+            "rangedDefense": 150,
+            "speed": 100
+        },
+        "moves": []
+    },
+    {
+        "id": "???",
+        "name": "Littlered",
+        "img": " ",
+        "type": "Beast",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 100,
+            "meleeAttack": 100,
+            "rangedAttack": 100,
+            "meleeDefense": 100,
+            "rangedDefense": 100,
+            "speed": 100
+        },
+        "moves": []
+    },
+    {
+        "id": "???",
+        "name": "Majortom",
+        "img": " ",
+        "type": "Metal",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 150,
+            "meleeAttack": 150,
+            "rangedAttack": 150,
+            "meleeDefense": 110,
+            "rangedDefense": 110,
+            "speed": 130
+        },
+        "moves": []
+    },
+    {
+        "id": "???",
+        "name": "Minortom",
+        "img": " ",
+        "type": "Metal",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 130,
+            "meleeAttack": 130,
+            "rangedAttack": 130,
+            "meleeDefense": 70,
+            "rangedDefense": 70,
+            "speed": 70
+        },
+        "moves": []
+    },
+    {
+        "id": "???",
+        "name": "Rosehood",
+        "img": " ",
+        "type": "Plant",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 160,
+            "meleeAttack": 110,
+            "rangedAttack": 100,
+            "meleeDefense": 160,
+            "rangedDefense": 110,
+            "speed": 160
+        },
+        "moves": []
+    },
+    {
+        "id": "???",
+        "name": "Scarleteeth",
+        "img": " ",
+        "type": "Beast",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 110,
+            "meleeAttack": 160,
+            "rangedAttack": 160,
+            "meleeDefense": 100,
+            "rangedDefense": 160,
+            "speed": 110
+        },
+        "moves": []
+    },
+    {
+        "id": "???",
+        "name": "Umbrahella",
+        "img": " ",
+        "type": "Poison",
+        "evolvesFrom": " ",
+        "evolvesTo": [
+            " "
+        ],
+        "stats": {
+            "hp": 150,
+            "meleeAttack": 120,
+            "rangedAttack": 140,
+            "meleeDefense": 170,
+            "rangedDefense": 200,
+            "speed": 60
+        },
+        "moves": []
+    }
+]

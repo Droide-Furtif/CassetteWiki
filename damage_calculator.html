@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculateur de Dégâts</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="damage_calc.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Calculateur de Dégâts</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="info.html">Infos Monstres</a></li>
+                <li><a href="damage_calculator.html">Calculateur de Dégâts</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Calculer les Dégâts</h2>
+            <form onsubmit="calculateDamage(); return false;">
+                <label for="level">Niveau du monstre:</label>
+                <input type="number" id="level" name="level" required><br>
+                <label for="power">Puissance de l'attaque:</label>
+                <input type="number" id="power" name="power" required><br>
+                <label for="stab">STAB:</label>
+                <input type="checkbox" id="stab" name="stab"><br>
+                <label for="crit">Coup critique:</label>
+                <input type="checkbox" id="crit" name="crit"><br>
+                <input type="submit" value="Calculer">
+            </form>
+            <div id="result"></div>
+        </section>
+    </main>
+    <footer>
+        <p>Wiki Cassette Beasts © 2024</p>
+    </footer>
+</body>
+</html>

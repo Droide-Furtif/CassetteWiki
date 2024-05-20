@@ -1,0 +1,287 @@
+Abramacabra	Beast	Status Effect	—	100%	3 AP
+Acid Reflex	Poison	Status Effect	—	Unavoidable	Passive
+Acorn Mortar	Plant	Ranged Attack	100	75%	3 AP
+Air Camouflage	Air	Status Effect	—	100%	2 AP
+Air Coating	Air	Status Effect	—	100%	2 AP
+Air Resistance	Air	Miscellaneous	—	100%	Passive
+Air Wall	Air	Status Effect	—	100%	2 AP
+AP Boost	Astral	Status Effect	—	100%	1 AP
+AP Donate	Typeless	Miscellaneous	—	Unavoidable	1 AP
+AP Drain	Astral	Status Effect	—	100%	1 AP
+AP Factory	Typeless	Miscellaneous	—	Unavoidable	Passive
+AP Refund	Typeless	Miscellaneous	—	100%	Passive
+AP Starter	Typeless	Miscellaneous	—	100%	Passive
+AP Steal	Poison	Miscellaneous	—	70%	0 AP
+Astral Camouflage	Astral	Status Effect	—	100%	2 AP
+Astral Coating	Astral	Status Effect	—	100%	2 AP
+Astral Resistance	Astral	Miscellaneous	—	100%	Passive
+Astral Wall	Astral	Status Effect	—	100%	2 AP
+Automation	Typeless	Miscellaneous	—	100%	Passive
+Avalanche	Ice	Status Effect	—	Unavoidable	2 AP
+Bad Forecast	Poison	Status Effect	—	50%	1 AP
+Bad Joke	Typeless	Miscellaneous	—	Unavoidable	0 AP
+Battering Ram	Typeless	Melee Attack	70	85%	3 AP
+Battery	Lightning	Melee Attack	40	100%	3 AP
+bE rAnDoM!!	Astral	Miscellaneous	—	100%	0 AP
+Beast Camouflage	Beast	Status Effect	—	100%	2 AP
+Beast Coating	Beast	Status Effect	—	100%	2 AP
+Beast Resistance	Beast	Miscellaneous	—	100%	Passive
+Beast Wall	Beast	Status Effect	—	100%	2 AP
+Berserker	Beast	Status Effect	—	100%	Passive
+Binvasion	Fire	Ranged Attack	30	100%	3 AP
+Binvitation	Metal	Miscellaneous	—	50%	4 AP
+Bish Bash Bosh	Typeless	Melee Attack	60	100%	3 AP
+Bite	Beast	Melee Attack	80	100%	3 AP
+Blizzard	Ice	Ranged Attack	60	100%	5 AP
+Blood Donation	Beast	Miscellaneous	—	Unavoidable	2 AP
+Bloodlust	Beast	Status Effect	—	Unavoidable	Passive
+Boil	Water	Melee Attack	90	100%	3 AP
+Bolt From The Blue	Lightning	Miscellaneous	—	50%	4 AP
+Bon Bon Blast	Typeless	Ranged Attack	70	85%	3 AP
+Bone Cannon	Beast	Ranged Attack	40	100%	3 AP
+Booby Trap	Typeless	Miscellaneous	30	100%	0 AP
+Bottle Volley	Glass	Ranged Attack	40	100%	3 AP
+Brace for Impact	Metal	Melee Attack	120	100%	4 AP
+Breathing Technique	Astral	Miscellaneous	—	50%	Passive
+Brick Blast	Plastic	Ranged Attack	40	100%	4 AP
+Broadcast	Air	Status Effect	—	100%	2 AP
+Burning Passion	Fire	Status Effect	—	100%	Passive
+Bushfire	Plant	Status Effect	—	Unavoidable	2 AP
+Butterfly Effect	Air	Ranged Attack	30	100%	0 AP
+Call For Help	Typeless	Miscellaneous	—	50%	2 AP
+Carnivore	Beast	Miscellaneous	—	100%	Passive
+Change the Record	Typeless	Miscellaneous	—	Unavoidable	2 AP
+Charge	Lightning	Melee Attack	60	100%	2 AP
+Chemical Imbalance	Poison	Miscellaneous	—	100%	Passive
+Clay-Fired	Earth	Status Effect	—	Unavoidable	Passive
+Clobber	Typeless	Melee Attack	60	100%	5 AP
+Clockwork Mouse	Plastic	Melee Attack	120	100%	5 AP
+Close Encounter	Astral	Status Effect	—	100%	1 AP
+Coal Story	Earth	Ranged Attack	30	100%	1 AP
+Cold Fusion	Ice	Miscellaneous	—	Unavoidable	Passive
+Compliment	Typeless	Status Effect	—	100%	1 AP
+Copper Chop	Metal	Melee Attack	60	100%	3 AP
+Copy That	Air	Miscellaneous	—	Unavoidable	2 AP
+Copycat	Beast	Miscellaneous	—	100%	0 AP
+Cosmic Kunai	Astral	Ranged Attack	150	100%	10 AP
+Cotton On	Plant	Status Effect	—	Unavoidable	4 AP
+Critical AP	Typeless	Miscellaneous	—	100%	Passive
+Critical Mass	Fire	Miscellaneous	—	100%	Passive
+Criticise	Typeless	Status Effect	—	100%	1 AP
+Crossfade	Typeless	Miscellaneous	—	100%	1 AP
+Crumble	Earth	Ranged Attack	30	Unavoidable	2 AP
+Crystal Lens	Glass	Ranged Attack	60	100%	2 AP
+Custom Starter	Typeless	Miscellaneous	—	100%	Passive
+Damage Roll	Typeless	Ranged Attack	9	100%	3 AP
+Deep Freeze	Ice	Status Effect	—	100%	3 AP
+Defend	Typeless	Status Effect	—	100%	1 AP
+Delegate	Typeless	Miscellaneous	—	100%	3 AP
+Desperation	Typeless	Melee Attack	20	100%	1 AP
+Djinntoxicate	Astral	Ranged Attack	90	100%	4 AP
+Doc Leaf	Plant	Status Effect	—	100%	1 AP
+Dodge	Typeless	Status Effect	—	100%	1 AP
+Dog Years	Beast	Miscellaneous	—	100%	4 AP
+Double Slice	Typeless	Melee Attack	30	100%	4 AP
+Double Smack	Typeless	Melee Attack	30	100%	2 AP
+Dual Wield	Typeless	Miscellaneous	—	100%	2 AP
+Déjà Vu	Astral	Status Effect	—	100%	2 AP
+Earth Camouflage	Earth	Status Effect	—	100%	2 AP
+Earth Coating	Earth	Status Effect	—	100%	2 AP
+Earth Resistance	Earth	Miscellaneous	—	100%	Passive
+Earth Wall	Earth	Status Effect	—	100%	2 AP
+Echolocation	Air	Status Effect	—	100%	2 AP
+Elemental Coating	Typeless	Status Effect	—	100%	2 AP
+Elemental Wall	Typeless	Status Effect	—	100%	2 AP
+Energy Reserves	Lightning	Miscellaneous	—	100%	Passive
+Energy Shot	Typeless	Ranged Attack	60	100%	2 AP
+Energy Wave	Typeless	Ranged Attack	60	100%	3 AP
+Fair Fight	Metal	Status Effect	—	Unavoidable	2 AP
+Final Breath	Typeless	Miscellaneous	—	100%	Passive
+Fire Camouflage	Fire	Status Effect	—	100%	2 AP
+Fire Coating	Fire	Status Effect	—	100%	2 AP
+Fire Wall	Fire	Status Effect	—	100%	2 AP
+Fireproof	Fire	Miscellaneous	—	100%	Passive
+Fission Power	Typeless	Miscellaneous	—	100%	1 AP
+Flirt	Typeless	Status Effect	—	100%	1 AP
+Focus	Typeless	Status Effect	—	100%	1 AP
+Fog	Water	Status Effect	—	Unavoidable	4 AP
+Fossil	Earth	Miscellaneous	—	100%	Passive
+Frozen Ground	Ice	Status Effect	—	Unavoidable	1 AP
+Fusion Power	Typeless	Miscellaneous	200	100%	10 AP
+Galactic Beatdown	Astral	Melee Attack	90	Unavoidable	4 AP
+Gambit	Typeless	Status Effect	—	100%	2 AP
+Gasoline Spray	Fire	Status Effect	—	100%	3 AP
+Gear Shear	Metal	Ranged Attack	50	100%	10 AP
+Gemstone Wall	Earth	Status Effect	—	100%	3 AP
+Glass Bonds	Glass	Status Effect	—	100%	2 AP
+Glass Camouflage	Glass	Status Effect	—	100%	2 AP
+Glass Cannon	Glass	Ranged Attack	120	100%	4 AP
+Glass Coating	Glass	Status Effect	—	100%	2 AP
+Glass Resistance	Glass	Miscellaneous	—	100%	Passive
+Glass Wall	Glass	Status Effect	—	100%	2 AP
+Glitter Bomb	Glitter	Ranged Attack	30	100%	0 AP
+Glitter Resistance	Glitter	Miscellaneous	—	100%	Passive
+Grounded	Lightning	Miscellaneous	—	100%	Passive
+Guzzle Fuel	Fire	Miscellaneous	—	100%	2 AP
+Hardback	Typeless	Miscellaneous	—	100%	Passive
+Haunt	Astral	Status Effect	—	100%	2 AP
+Headshot	Typeless	Ranged Attack	200	100%	10 AP
+Heroic Blade	Typeless	Melee Attack	90	100%	3 AP
+Hibernate	Astral	Status Effect	—	100%	3 AP
+Hot Potato	Fire	Status Effect	—	100%	3 AP
+Hurricane	Air	Ranged Attack	90	100%	5 AP
+Hypnotise	Astral	Status Effect	—	50%	2 AP
+Ice Breaker	Ice	Melee Attack	90	100%	4 AP
+Ice Camouflage	Ice	Status Effect	—	100%	2 AP
+Ice Coating	Ice	Status Effect	—	100%	2 AP
+Ice Resistance	Ice	Miscellaneous	—	100%	Passive
+Ice Wall	Ice	Status Effect	—	100%	2 AP
+Icicle Dart	Ice	Ranged Attack	70	85%	2 AP
+Incinerate	Fire	Melee Attack	40	100%	3 AP
+Inflame	Fire	Ranged Attack	60	100%	2 AP
+Insomnia	Astral	Miscellaneous	—	70%	Passive
+Ionised Air	Lightning	Status Effect	—	100%	3 AP
+Iron Filings	Metal	Status Effect	—	100%	1 AP
+Jagged Edge	Typeless	Melee Attack	40	Unavoidable	Passive
+Jump Scare	Typeless	Melee Attack	30	100%	1 AP
+Last Rites	Typeless	Melee Attack	200	100%	10 AP
+Leech	Plant	Status Effect	—	100%	1 AP
+Life Absorb	Plant	Melee Attack	30	100%	1 AP
+Liftoff	Air	Status Effect	—	100%	Passive
+Lightning Bolt	Lightning	Ranged Attack	90	100%	3 AP
+Lightning Camouflage	Lightning	Status Effect	—	100%	2 AP
+Lightning Coating	Lightning	Status Effect	—	100%	2 AP
+Lightning Wall	Lightning	Status Effect	—	100%	2 AP
+Liquid Body	Poison	Miscellaneous	—	100%	Passive
+Machine Curse	Metal	Miscellaneous	—	100%	Passive
+Magic Tome	Astral	Ranged Attack	70	100%	3 AP
+Magnet	Metal	Status Effect	—	100%	1 AP
+Meditate	Astral	Status Effect	—	100%	3 AP
+Metal Camouflage	Metal	Status Effect	—	100%	2 AP
+Metal Coating	Metal	Status Effect	—	100%	2 AP
+Metal Resistance	Metal	Miscellaneous	—	100%	Passive
+Metal Riff	Metal	Ranged Attack	60	100%	3 AP
+Metal Wall	Metal	Status Effect	—	100%	2 AP
+Meteor Barrage	Earth	Ranged Attack	20	100%	4 AP
+Mind-Meld	Astral	Status Effect	—	Unavoidable	2 AP
+Moonshine	Astral	Ranged Attack	30	100%	1 AP
+Mountain Smash	Earth	Melee Attack	90	100%	4 AP
+Multi Shot	Typeless	Ranged Attack	20	100%	3 AP
+Multi Smack	Typeless	Melee Attack	20	100%	3 AP
+Multicopy	Typeless	Status Effect	—	100%	Passive
+Neutralise	Water	Miscellaneous	—	100%	Passive
+New Leaf	Plant	Miscellaneous	—	Unavoidable	3 AP
+Nod	Typeless	Status Effect	—	100%	1 AP
+Nurse	Typeless	Miscellaneous	—	Unavoidable	5 AP
+Paint Swipe	Typeless	Melee Attack	90	100%	1 AP
+Parry Stance	Beast	Status Effect	—	100%	2 AP
+Peekaboo	Typeless	Status Effect	—	100%	1 AP
+Phase Shift	Astral	Miscellaneous	—	100%	Passive
+Pity AP	Typeless	Miscellaneous	—	100%	Passive
+Plant Camouflage	Plant	Status Effect	—	100%	2 AP
+Plant Coating	Plant	Status Effect	—	100%	2 AP
+Plant Resistance	Plant	Miscellaneous	—	100%	Passive
+Plant Wall	Plant	Status Effect	—	100%	2 AP
+Plastic Camouflage	Plastic	Status Effect	—	100%	2 AP
+Plastic Coating	Plastic	Status Effect	—	100%	2 AP
+Plastic Knife	Plastic	Melee Attack	40	100%	3 AP
+Plastic Resistance	Plastic	Miscellaneous	—	100%	Passive
+Plastic Wall	Plastic	Status Effect	—	100%	2 AP
+Poison Camouflage	Poison	Status Effect	—	100%	2 AP
+Poison Coating	Poison	Status Effect	—	100%	2 AP
+Poison Pollen	Plant	Status Effect	—	100%	1 AP
+Poison Resistance	Poison	Miscellaneous	—	100%	Passive
+Poison Wall	Poison	Status Effect	—	100%	2 AP
+Pole Vault Assault	Air	Melee Attack	90	100%	7 AP
+Pre-emptive Strike	Typeless	Melee Attack	30	100%	Passive
+Prismatic	Glitter	Status Effect	—	Unavoidable	Passive
+Provoke	Poison	Status Effect	—	100%	1 AP
+Pumpkin Pie	Plant	Status Effect	—	Unavoidable	2 AP
+Pustule Bomb	Poison	Ranged Attack	60	100%	4 AP
+Quick Smack	Typeless	Melee Attack	30	100%	1 AP
+Radiation Breath	Poison	Ranged Attack	20	100%	4 AP
+Radioactive	Fire	Status Effect	—	Unavoidable	Passive
+Raise Arms	Typeless	Status Effect	—	100%	1 AP
+Raise Shields	Typeless	Status Effect	—	100%	1 AP
+Random Starter	Typeless	Miscellaneous	—	100%	Passive
+Rapid Fire	Fire	Ranged Attack	30	100%	5 AP
+Recycle	Plastic	Miscellaneous	—	100%	0 AP
+Retribution	Typeless	Status Effect	—	Unavoidable	Passive
+Return Fire	Typeless	Ranged Attack	15	100%	Passive
+Revenge Strike	Typeless	Melee Attack	15	100%	Passive
+Revolving Door	Glass	Miscellaneous	—	100%	2 AP
+Ricochet	Typeless	Miscellaneous	—	100%	Passive
+Ritual	Astral	Status Effect	—	100%	6 AP
+Roll Again	Typeless	Miscellaneous	—	100%	Passive
+Sandstorm	Earth	Ranged Attack	60	100%	3 AP
+Scorch	Fire	Status Effect	—	100%	1 AP
+Self-Assured	Typeless	Miscellaneous	—	70%	Passive
+Self-Destruct	Fire	Ranged Attack	60	100%	Passive
+Sharp Edges	Typeless	Status Effect	—	100%	2 AP
+Sharpen	Typeless	Status Effect	—	100%	1 AP
+Shear Luck	Typeless	Miscellaneous	—	100%	Passive
+Shield Bash	Metal	Melee Attack	90	100%	3 AP
+Shooting Star	Astral	Ranged Attack	60	100%	2 AP
+Shrapnel	Metal	Status Effect	—	100%	1 AP
+Silicon Slash	Glass	Melee Attack	60	100%	2 AP
+Sleep Talk	Typeless	Ranged Attack	120	1%	0 AP
+Sleep Walk	Typeless	Melee Attack	120	1%	0 AP
+Slice	Typeless	Melee Attack	30	100%	1 AP
+Smack	Typeless	Melee Attack	30	100%	0 AP
+Snooze Spore	Plant	Status Effect	—	50%	2 AP
+Snow Rush	Ice	Melee Attack	60	100%	3 AP
+Sonic Boom	Air	Ranged Attack	60	100%	3 AP
+Spit	Typeless	Ranged Attack	30	100%	0 AP
+Splinter	Plant	Melee Attack	15	Unavoidable	Passive
+Spray	Typeless	Ranged Attack	30	100%	1 AP
+Spring-Load	Plastic	Status Effect	—	Unavoidable	Passive
+Sprint	Typeless	Status Effect	—	100%	1 AP
+Stab In The Dark	Typeless	Melee Attack	100	10%	0 AP
+Status Resistance	Metal	Miscellaneous	—	100%	Passive
+Sticker Trick	Glitter	Status Effect	—	100%	3 AP
+Sticky Spray	Poison	Status Effect	—	100%	3 AP
+Sticky Tongue	Beast	Melee Attack	40	75%	1 AP
+Stony Look	Earth	Status Effect	—	50%	2 AP
+Sturdy Armour	Metal	Miscellaneous	—	100%	Passive
+Suction Cup Dart	Plastic	Ranged Attack	120	75%	4 AP
+Sugar Rush	Typeless	Miscellaneous	—	100%	Passive
+Suit Up	Typeless	Status Effect	—	Unavoidable	2 AP
+Summon Tulpa	Astral	Miscellaneous	—	1%	0 AP
+Superheated Fist	Fire	Melee Attack	60	100%	2 AP
+Sure-Fire	Fire	Status Effect	—	100%	2 AP
+Taunt	Poison	Status Effect	—	100%	1 AP
+The Old 1-2	Typeless	Melee Attack	60	100%	5 AP
+Throw	Typeless	Ranged Attack	50	100%	0 AP
+Thunder Blast	Lightning	Ranged Attack	60	100%	3 AP
+Torrent	Water	Ranged Attack	40	100%	4 AP
+Tower Defence	Earth	Status Effect	—	100%	Passive
+Toxic Stab	Poison	Melee Attack	90	100%	4 AP
+Toy Hammer	Plastic	Melee Attack	60	100%	2 AP
+Traffic Jam	Plastic	Status Effect	—	Unavoidable	2 AP
+Trap Jaw	Beast	Status Effect	—	50%	Passive
+Treasure Dig	Earth	Miscellaneous	—	50%	2 AP
+Treat	Typeless	Status Effect	—	Unavoidable	1 AP
+Trick	Typeless	Status Effect	—	100%	1 AP
+Trip	Typeless	Status Effect	—	100%	1 AP
+Tripwire	Metal	Miscellaneous	—	100%	Passive
+Two Heads	Typeless	Status Effect	—	100%	2 AP
+Undertow	Water	Ranged Attack	90	100%	2 AP
+Unicast	Lightning	Status Effect	—	100%	2 AP
+Unshakeable	Earth	Miscellaneous	—	100%	Passive
+Vampire	Beast	Miscellaneous	—	100%	Passive
+Vengeful Curse	Astral	Status Effect	—	100%	Passive
+Wallop	Typeless	Melee Attack	60	100%	2 AP
+Water Camouflage	Water	Status Effect	—	100%	2 AP
+Water Coating	Water	Status Effect	—	100%	2 AP
+Water Dance	Water	Melee Attack	90	85%	2 AP
+Water Wall	Water	Status Effect	—	100%	2 AP
+Waterproof	Water	Miscellaneous	—	100%	Passive
+Waterworks	Water	Ranged Attack	100	90%	5 AP
+Web Wrap	Poison	Status Effect	—	20%	0 AP
+Window	Glass	Status Effect	—	100%	1 AP
+Wink	Typeless	Status Effect	—	100%	1 AP
+Wonderful 7	Astral	Ranged Attack	90	100%	4 AP
+Woodcutter	Plant	Melee Attack	40	100%	3 AP
+Yule Regret That	Ice	Ranged Attack	60	100%	4 AP
+Zephyr	Air	Ranged Attack	60	100%	2 AP
+Zoomies	Beast	Melee Attack	30	100%	1 AP

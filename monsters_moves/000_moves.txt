@@ -1,0 +1,12 @@
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Traffic Jam	Plastic	Status Effect	—	Unavoidable	2 AP
+Initial	Elemental Wall	Typeless	Status Effect	—	100%	2 AP
+Initial	Inflame	Fire	Ranged Attack	60	100%	2 AP
+Initial	Multi Smack	Typeless	Melee Attack	20	100%	3 AP
+Initial	Water Coating	Water	Status Effect	—	100%	2 AP
+Initial	Undertow	Water	Ranged Attack	90	100%	2 AP
+Star-white.png	Shooting Star	Astral	Ranged Attack	60	100%	2 AP
+Star-white.pngStar-white.png	Meditate	Astral	Status Effect	—	100%	3 AP
+Star-white.pngStar-white.pngStar-white.png	Multi Shot	Typeless	Ranged Attack	20	100%	3 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Ritual	Astral	Status Effect	—	100%	6 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Galactic Beatdown	Astral	Melee Attack	90	Unavoidable	4 AP

@@ -1,0 +1,2585 @@
+[
+    {
+        "id": 1,
+        "name": "Abramacabra",
+        "type": "Beast",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 2,
+        "name": "Acid Reflex",
+        "type": "Poison",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": "Unavoidable",
+        "cost": "Passive"
+    },
+    {
+        "id": 3,
+        "name": "Acorn Mortar",
+        "type": "Plant",
+        "category": "Ranged Attack",
+        "power": 100,
+        "accuracy": 75,
+        "cost": 3
+    },
+    {
+        "id": 4,
+        "name": "Air Camouflage",
+        "type": "Air",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 5,
+        "name": "Air Coating",
+        "type": "Air",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 6,
+        "name": "Air Resistance",
+        "type": "Air",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 7,
+        "name": "Air Wall",
+        "type": "Air",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 8,
+        "name": "AP Boost",
+        "type": "Astral",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 9,
+        "name": "AP Donate",
+        "type": "Typeless",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": "Unavoidable",
+        "cost": 1
+    },
+    {
+        "id": 10,
+        "name": "AP Drain",
+        "type": "Astral",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 11,
+        "name": "AP Factory",
+        "type": "Typeless",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": "Unavoidable",
+        "cost": "Passive"
+    },
+    {
+        "id": 12,
+        "name": "AP Refund",
+        "type": "Typeless",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 13,
+        "name": "AP Starter",
+        "type": "Typeless",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 14,
+        "name": "AP Steal",
+        "type": "Poison",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 70,
+        "cost": 0
+    },
+    {
+        "id": 15,
+        "name": "Astral Camouflage",
+        "type": "Astral",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 16,
+        "name": "Astral Coating",
+        "type": "Astral",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 17,
+        "name": "Astral Resistance",
+        "type": "Astral",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 18,
+        "name": "Astral Wall",
+        "type": "Astral",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 19,
+        "name": "Automation",
+        "type": "Typeless",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 20,
+        "name": "Avalanche",
+        "type": "Ice",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": "Unavoidable",
+        "cost": 2
+    },
+    {
+        "id": 21,
+        "name": "Bad Forecast",
+        "type": "Poison",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 50,
+        "cost": 1
+    },
+    {
+        "id": 22,
+        "name": "Bad Joke",
+        "type": "Typeless",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": "Unavoidable",
+        "cost": 0
+    },
+    {
+        "id": 23,
+        "name": "Battering Ram",
+        "type": "Typeless",
+        "category": "Melee Attack",
+        "power": 70,
+        "accuracy": 85,
+        "cost": 3
+    },
+    {
+        "id": 24,
+        "name": "Battery",
+        "type": "Lightning",
+        "category": "Melee Attack",
+        "power": 40,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 25,
+        "name": "bE rAnDoM!!",
+        "type": "Astral",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 0
+    },
+    {
+        "id": 26,
+        "name": "Beast Camouflage",
+        "type": "Beast",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 27,
+        "name": "Beast Coating",
+        "type": "Beast",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 28,
+        "name": "Beast Resistance",
+        "type": "Beast",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 29,
+        "name": "Beast Wall",
+        "type": "Beast",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 30,
+        "name": "Berserker",
+        "type": "Beast",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 31,
+        "name": "Binvasion",
+        "type": "Fire",
+        "category": "Ranged Attack",
+        "power": 30,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 32,
+        "name": "Binvitation",
+        "type": "Metal",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 50,
+        "cost": 4
+    },
+    {
+        "id": 33,
+        "name": "Bish Bash Bosh",
+        "type": "Typeless",
+        "category": "Melee Attack",
+        "power": 60,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 34,
+        "name": "Bite",
+        "type": "Beast",
+        "category": "Melee Attack",
+        "power": 80,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 35,
+        "name": "Blizzard",
+        "type": "Ice",
+        "category": "Ranged Attack",
+        "power": 60,
+        "accuracy": 100,
+        "cost": 5
+    },
+    {
+        "id": 36,
+        "name": "Blood Donation",
+        "type": "Beast",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": "Unavoidable",
+        "cost": 2
+    },
+    {
+        "id": 37,
+        "name": "Bloodlust",
+        "type": "Beast",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": "Unavoidable",
+        "cost": "Passive"
+    },
+    {
+        "id": 38,
+        "name": "Boil",
+        "type": "Water",
+        "category": "Melee Attack",
+        "power": 90,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 39,
+        "name": "Bolt From The Blue",
+        "type": "Lightning",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 50,
+        "cost": 4
+    },
+    {
+        "id": 40,
+        "name": "Bon Bon Blast",
+        "type": "Typeless",
+        "category": "Ranged Attack",
+        "power": 70,
+        "accuracy": 85,
+        "cost": 3
+    },
+    {
+        "id": 41,
+        "name": "Bone Cannon",
+        "type": "Beast",
+        "category": "Ranged Attack",
+        "power": 40,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 42,
+        "name": "Booby Trap",
+        "type": "Typeless",
+        "category": "Miscellaneous",
+        "power": 30,
+        "accuracy": 100,
+        "cost": 0
+    },
+    {
+        "id": 43,
+        "name": "Bottle Volley",
+        "type": "Glass",
+        "category": "Ranged Attack",
+        "power": 40,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 44,
+        "name": "Brace for Impact",
+        "type": "Metal",
+        "category": "Melee Attack",
+        "power": 120,
+        "accuracy": 100,
+        "cost": 4
+    },
+    {
+        "id": 45,
+        "name": "Breathing Technique",
+        "type": "Astral",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 50,
+        "cost": "Passive"
+    },
+    {
+        "id": 46,
+        "name": "Brick Blast",
+        "type": "Plastic",
+        "category": "Ranged Attack",
+        "power": 40,
+        "accuracy": 100,
+        "cost": 4
+    },
+    {
+        "id": 47,
+        "name": "Broadcast",
+        "type": "Air",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 48,
+        "name": "Burning Passion",
+        "type": "Fire",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 49,
+        "name": "Bushfire",
+        "type": "Plant",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": "Unavoidable",
+        "cost": 2
+    },
+    {
+        "id": 50,
+        "name": "Butterfly Effect",
+        "type": "Air",
+        "category": "Ranged Attack",
+        "power": 30,
+        "accuracy": 100,
+        "cost": 0
+    },
+    {
+        "id": 51,
+        "name": "Call For Help",
+        "type": "Typeless",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 50,
+        "cost": 2
+    },
+    {
+        "id": 52,
+        "name": "Carnivore",
+        "type": "Beast",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 53,
+        "name": "Change the Record",
+        "type": "Typeless",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": "Unavoidable",
+        "cost": 2
+    },
+    {
+        "id": 54,
+        "name": "Charge",
+        "type": "Lightning",
+        "category": "Melee Attack",
+        "power": 60,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 55,
+        "name": "Chemical Imbalance",
+        "type": "Poison",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 56,
+        "name": "Clay-Fired",
+        "type": "Earth",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": "Unavoidable",
+        "cost": "Passive"
+    },
+    {
+        "id": 57,
+        "name": "Clobber",
+        "type": "Typeless",
+        "category": "Melee Attack",
+        "power": 60,
+        "accuracy": 100,
+        "cost": 5
+    },
+    {
+        "id": 58,
+        "name": "Clockwork Mouse",
+        "type": "Plastic",
+        "category": "Melee Attack",
+        "power": 120,
+        "accuracy": 100,
+        "cost": 5
+    },
+    {
+        "id": 59,
+        "name": "Close Encounter",
+        "type": "Astral",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 60,
+        "name": "Coal Story",
+        "type": "Earth",
+        "category": "Ranged Attack",
+        "power": 30,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 61,
+        "name": "Cold Fusion",
+        "type": "Ice",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": "Unavoidable",
+        "cost": "Passive"
+    },
+    {
+        "id": 62,
+        "name": "Compliment",
+        "type": "Typeless",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 63,
+        "name": "Copper Chop",
+        "type": "Metal",
+        "category": "Melee Attack",
+        "power": 60,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 64,
+        "name": "Copy That",
+        "type": "Air",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": "Unavoidable",
+        "cost": 2
+    },
+    {
+        "id": 65,
+        "name": "Copycat",
+        "type": "Beast",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 0
+    },
+    {
+        "id": 66,
+        "name": "Cosmic Kunai",
+        "type": "Astral",
+        "category": "Ranged Attack",
+        "power": 150,
+        "accuracy": 100,
+        "cost": 10
+    },
+    {
+        "id": 67,
+        "name": "Cotton On",
+        "type": "Plant",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": "Unavoidable",
+        "cost": 4
+    },
+    {
+        "id": 68,
+        "name": "Critical AP",
+        "type": "Typeless",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 69,
+        "name": "Critical Mass",
+        "type": "Fire",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 70,
+        "name": "Criticise",
+        "type": "Typeless",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 71,
+        "name": "Crossfade",
+        "type": "Typeless",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 72,
+        "name": "Crumble",
+        "type": "Earth",
+        "category": "Ranged Attack",
+        "power": 30,
+        "accuracy": "Unavoidable",
+        "cost": 2
+    },
+    {
+        "id": 73,
+        "name": "Crystal Lens",
+        "type": "Glass",
+        "category": "Ranged Attack",
+        "power": 60,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 74,
+        "name": "Custom Starter",
+        "type": "Typeless",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 75,
+        "name": "Damage Roll",
+        "type": "Typeless",
+        "category": "Ranged Attack",
+        "power": 9,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 76,
+        "name": "Deep Freeze",
+        "type": "Ice",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 77,
+        "name": "Defend",
+        "type": "Typeless",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 78,
+        "name": "Delegate",
+        "type": "Typeless",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 79,
+        "name": "Desperation",
+        "type": "Typeless",
+        "category": "Melee Attack",
+        "power": 20,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 80,
+        "name": "Djinntoxicate",
+        "type": "Astral",
+        "category": "Ranged Attack",
+        "power": 90,
+        "accuracy": 100,
+        "cost": 4
+    },
+    {
+        "id": 81,
+        "name": "Doc Leaf",
+        "type": "Plant",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 82,
+        "name": "Dodge",
+        "type": "Typeless",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 83,
+        "name": "Dog Years",
+        "type": "Beast",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 4
+    },
+    {
+        "id": 84,
+        "name": "Double Slice",
+        "type": "Typeless",
+        "category": "Melee Attack",
+        "power": 30,
+        "accuracy": 100,
+        "cost": 4
+    },
+    {
+        "id": 85,
+        "name": "Double Smack",
+        "type": "Typeless",
+        "category": "Melee Attack",
+        "power": 30,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 86,
+        "name": "Dual Wield",
+        "type": "Typeless",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 87,
+        "name": "Déjà Vu",
+        "type": "Astral",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 88,
+        "name": "Earth Camouflage",
+        "type": "Earth",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 89,
+        "name": "Earth Coating",
+        "type": "Earth",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 90,
+        "name": "Earth Resistance",
+        "type": "Earth",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 91,
+        "name": "Earth Wall",
+        "type": "Earth",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 92,
+        "name": "Echolocation",
+        "type": "Air",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 93,
+        "name": "Elemental Coating",
+        "type": "Typeless",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 94,
+        "name": "Elemental Wall",
+        "type": "Typeless",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 95,
+        "name": "Energy Reserves",
+        "type": "Lightning",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 96,
+        "name": "Energy Shot",
+        "type": "Typeless",
+        "category": "Ranged Attack",
+        "power": 60,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 97,
+        "name": "Energy Wave",
+        "type": "Typeless",
+        "category": "Ranged Attack",
+        "power": 60,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 98,
+        "name": "Fair Fight",
+        "type": "Metal",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": "Unavoidable",
+        "cost": 2
+    },
+    {
+        "id": 99,
+        "name": "Final Breath",
+        "type": "Typeless",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 100,
+        "name": "Fire Camouflage",
+        "type": "Fire",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 101,
+        "name": "Fire Coating",
+        "type": "Fire",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 102,
+        "name": "Fire Wall",
+        "type": "Fire",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 103,
+        "name": "Fireproof",
+        "type": "Fire",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 104,
+        "name": "Fission Power",
+        "type": "Typeless",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 105,
+        "name": "Flirt",
+        "type": "Typeless",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 106,
+        "name": "Focus",
+        "type": "Typeless",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 107,
+        "name": "Fog",
+        "type": "Water",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": "Unavoidable",
+        "cost": 4
+    },
+    {
+        "id": 108,
+        "name": "Fossil",
+        "type": "Earth",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 109,
+        "name": "Frozen Ground",
+        "type": "Ice",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": "Unavoidable",
+        "cost": 1
+    },
+    {
+        "id": 110,
+        "name": "Fusion Power",
+        "type": "Typeless",
+        "category": "Miscellaneous",
+        "power": 200,
+        "accuracy": 100,
+        "cost": 10
+    },
+    {
+        "id": 111,
+        "name": "Galactic Beatdown",
+        "type": "Astral",
+        "category": "Melee Attack",
+        "power": 90,
+        "accuracy": "Unavoidable",
+        "cost": 4
+    },
+    {
+        "id": 112,
+        "name": "Gambit",
+        "type": "Typeless",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 113,
+        "name": "Gasoline Spray",
+        "type": "Fire",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 114,
+        "name": "Gear Shear",
+        "type": "Metal",
+        "category": "Ranged Attack",
+        "power": 50,
+        "accuracy": 100,
+        "cost": 10
+    },
+    {
+        "id": 115,
+        "name": "Gemstone Wall",
+        "type": "Earth",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 116,
+        "name": "Glass Bonds",
+        "type": "Glass",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 117,
+        "name": "Glass Camouflage",
+        "type": "Glass",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 118,
+        "name": "Glass Cannon",
+        "type": "Glass",
+        "category": "Ranged Attack",
+        "power": 120,
+        "accuracy": 100,
+        "cost": 4
+    },
+    {
+        "id": 119,
+        "name": "Glass Coating",
+        "type": "Glass",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 120,
+        "name": "Glass Resistance",
+        "type": "Glass",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 121,
+        "name": "Glass Wall",
+        "type": "Glass",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 122,
+        "name": "Glitter Bomb",
+        "type": "Glitter",
+        "category": "Ranged Attack",
+        "power": 30,
+        "accuracy": 100,
+        "cost": 0
+    },
+    {
+        "id": 123,
+        "name": "Glitter Resistance",
+        "type": "Glitter",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 124,
+        "name": "Grounded",
+        "type": "Lightning",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 125,
+        "name": "Guzzle Fuel",
+        "type": "Fire",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 126,
+        "name": "Hardback",
+        "type": "Typeless",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 127,
+        "name": "Haunt",
+        "type": "Astral",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 128,
+        "name": "Headshot",
+        "type": "Typeless",
+        "category": "Ranged Attack",
+        "power": 200,
+        "accuracy": 100,
+        "cost": 10
+    },
+    {
+        "id": 129,
+        "name": "Heroic Blade",
+        "type": "Typeless",
+        "category": "Melee Attack",
+        "power": 90,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 130,
+        "name": "Hibernate",
+        "type": "Astral",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 131,
+        "name": "Hot Potato",
+        "type": "Fire",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 132,
+        "name": "Hurricane",
+        "type": "Air",
+        "category": "Ranged Attack",
+        "power": 90,
+        "accuracy": 100,
+        "cost": 5
+    },
+    {
+        "id": 133,
+        "name": "Hypnotise",
+        "type": "Astral",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 50,
+        "cost": 2
+    },
+    {
+        "id": 134,
+        "name": "Ice Breaker",
+        "type": "Ice",
+        "category": "Melee Attack",
+        "power": 90,
+        "accuracy": 100,
+        "cost": 4
+    },
+    {
+        "id": 135,
+        "name": "Ice Camouflage",
+        "type": "Ice",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 136,
+        "name": "Ice Coating",
+        "type": "Ice",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 137,
+        "name": "Ice Resistance",
+        "type": "Ice",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 138,
+        "name": "Ice Wall",
+        "type": "Ice",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 139,
+        "name": "Icicle Dart",
+        "type": "Ice",
+        "category": "Ranged Attack",
+        "power": 70,
+        "accuracy": 85,
+        "cost": 2
+    },
+    {
+        "id": 140,
+        "name": "Incinerate",
+        "type": "Fire",
+        "category": "Melee Attack",
+        "power": 40,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 141,
+        "name": "Inflame",
+        "type": "Fire",
+        "category": "Ranged Attack",
+        "power": 60,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 142,
+        "name": "Insomnia",
+        "type": "Astral",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 70,
+        "cost": "Passive"
+    },
+    {
+        "id": 143,
+        "name": "Ionised Air",
+        "type": "Lightning",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 144,
+        "name": "Iron Filings",
+        "type": "Metal",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 145,
+        "name": "Jagged Edge",
+        "type": "Typeless",
+        "category": "Melee Attack",
+        "power": 40,
+        "accuracy": "Unavoidable",
+        "cost": "Passive"
+    },
+    {
+        "id": 146,
+        "name": "Jump Scare",
+        "type": "Typeless",
+        "category": "Melee Attack",
+        "power": 30,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 147,
+        "name": "Last Rites",
+        "type": "Typeless",
+        "category": "Melee Attack",
+        "power": 200,
+        "accuracy": 100,
+        "cost": 10
+    },
+    {
+        "id": 148,
+        "name": "Leech",
+        "type": "Plant",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 149,
+        "name": "Life Absorb",
+        "type": "Plant",
+        "category": "Melee Attack",
+        "power": 30,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 150,
+        "name": "Liftoff",
+        "type": "Air",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 151,
+        "name": "Lightning Bolt",
+        "type": "Lightning",
+        "category": "Ranged Attack",
+        "power": 90,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 152,
+        "name": "Lightning Camouflage",
+        "type": "Lightning",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 153,
+        "name": "Lightning Coating",
+        "type": "Lightning",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 154,
+        "name": "Lightning Wall",
+        "type": "Lightning",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 155,
+        "name": "Liquid Body",
+        "type": "Poison",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 156,
+        "name": "Machine Curse",
+        "type": "Metal",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 157,
+        "name": "Magic Tome",
+        "type": "Astral",
+        "category": "Ranged Attack",
+        "power": 70,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 158,
+        "name": "Magnet",
+        "type": "Metal",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 159,
+        "name": "Meditate",
+        "type": "Astral",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 160,
+        "name": "Metal Camouflage",
+        "type": "Metal",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 161,
+        "name": "Metal Coating",
+        "type": "Metal",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 162,
+        "name": "Metal Resistance",
+        "type": "Metal",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 163,
+        "name": "Metal Riff",
+        "type": "Metal",
+        "category": "Ranged Attack",
+        "power": 60,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 164,
+        "name": "Metal Wall",
+        "type": "Metal",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 165,
+        "name": "Meteor Barrage",
+        "type": "Earth",
+        "category": "Ranged Attack",
+        "power": 20,
+        "accuracy": 100,
+        "cost": 4
+    },
+    {
+        "id": 166,
+        "name": "Mind-Meld",
+        "type": "Astral",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": "Unavoidable",
+        "cost": 2
+    },
+    {
+        "id": 167,
+        "name": "Moonshine",
+        "type": "Astral",
+        "category": "Ranged Attack",
+        "power": 30,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 168,
+        "name": "Mountain Smash",
+        "type": "Earth",
+        "category": "Melee Attack",
+        "power": 90,
+        "accuracy": 100,
+        "cost": 4
+    },
+    {
+        "id": 169,
+        "name": "Multi Shot",
+        "type": "Typeless",
+        "category": "Ranged Attack",
+        "power": 20,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 170,
+        "name": "Multi Smack",
+        "type": "Typeless",
+        "category": "Melee Attack",
+        "power": 20,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 171,
+        "name": "Multicopy",
+        "type": "Typeless",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 172,
+        "name": "Neutralise",
+        "type": "Water",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 173,
+        "name": "New Leaf",
+        "type": "Plant",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": "Unavoidable",
+        "cost": 3
+    },
+    {
+        "id": 174,
+        "name": "Nod",
+        "type": "Typeless",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 175,
+        "name": "Nurse",
+        "type": "Typeless",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": "Unavoidable",
+        "cost": 5
+    },
+    {
+        "id": 176,
+        "name": "Paint Swipe",
+        "type": "Typeless",
+        "category": "Melee Attack",
+        "power": 90,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 177,
+        "name": "Parry Stance",
+        "type": "Beast",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 178,
+        "name": "Peekaboo",
+        "type": "Typeless",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 179,
+        "name": "Phase Shift",
+        "type": "Astral",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 180,
+        "name": "Pity AP",
+        "type": "Typeless",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 181,
+        "name": "Plant Camouflage",
+        "type": "Plant",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 182,
+        "name": "Plant Coating",
+        "type": "Plant",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 183,
+        "name": "Plant Resistance",
+        "type": "Plant",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 184,
+        "name": "Plant Wall",
+        "type": "Plant",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 185,
+        "name": "Plastic Camouflage",
+        "type": "Plastic",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 186,
+        "name": "Plastic Coating",
+        "type": "Plastic",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 187,
+        "name": "Plastic Knife",
+        "type": "Plastic",
+        "category": "Melee Attack",
+        "power": 40,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 188,
+        "name": "Plastic Resistance",
+        "type": "Plastic",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 189,
+        "name": "Plastic Wall",
+        "type": "Plastic",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 190,
+        "name": "Poison Camouflage",
+        "type": "Poison",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 191,
+        "name": "Poison Coating",
+        "type": "Poison",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 192,
+        "name": "Poison Pollen",
+        "type": "Plant",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 193,
+        "name": "Poison Resistance",
+        "type": "Poison",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 194,
+        "name": "Poison Wall",
+        "type": "Poison",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 195,
+        "name": "Pole Vault Assault",
+        "type": "Air",
+        "category": "Melee Attack",
+        "power": 90,
+        "accuracy": 100,
+        "cost": 7
+    },
+    {
+        "id": 196,
+        "name": "Pre-emptive Strike",
+        "type": "Typeless",
+        "category": "Melee Attack",
+        "power": 30,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 197,
+        "name": "Prismatic",
+        "type": "Glitter",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": "Unavoidable",
+        "cost": "Passive"
+    },
+    {
+        "id": 198,
+        "name": "Provoke",
+        "type": "Poison",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 199,
+        "name": "Pumpkin Pie",
+        "type": "Plant",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": "Unavoidable",
+        "cost": 2
+    },
+    {
+        "id": 200,
+        "name": "Pustule Bomb",
+        "type": "Poison",
+        "category": "Ranged Attack",
+        "power": 60,
+        "accuracy": 100,
+        "cost": 4
+    },
+    {
+        "id": 201,
+        "name": "Quick Smack",
+        "type": "Typeless",
+        "category": "Melee Attack",
+        "power": 30,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 202,
+        "name": "Radiation Breath",
+        "type": "Poison",
+        "category": "Ranged Attack",
+        "power": 20,
+        "accuracy": 100,
+        "cost": 4
+    },
+    {
+        "id": 203,
+        "name": "Radioactive",
+        "type": "Fire",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": "Unavoidable",
+        "cost": "Passive"
+    },
+    {
+        "id": 204,
+        "name": "Raise Arms",
+        "type": "Typeless",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 205,
+        "name": "Raise Shields",
+        "type": "Typeless",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 206,
+        "name": "Random Starter",
+        "type": "Typeless",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 207,
+        "name": "Rapid Fire",
+        "type": "Fire",
+        "category": "Ranged Attack",
+        "power": 30,
+        "accuracy": 100,
+        "cost": 5
+    },
+    {
+        "id": 208,
+        "name": "Recycle",
+        "type": "Plastic",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 0
+    },
+    {
+        "id": 209,
+        "name": "Retribution",
+        "type": "Typeless",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": "Unavoidable",
+        "cost": "Passive"
+    },
+    {
+        "id": 210,
+        "name": "Return Fire",
+        "type": "Typeless",
+        "category": "Ranged Attack",
+        "power": 15,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 211,
+        "name": "Revenge Strike",
+        "type": "Typeless",
+        "category": "Melee Attack",
+        "power": 15,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 212,
+        "name": "Revolving Door",
+        "type": "Glass",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 213,
+        "name": "Ricochet",
+        "type": "Typeless",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 214,
+        "name": "Ritual",
+        "type": "Astral",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 6
+    },
+    {
+        "id": 215,
+        "name": "Roll Again",
+        "type": "Typeless",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 216,
+        "name": "Sandstorm",
+        "type": "Earth",
+        "category": "Ranged Attack",
+        "power": 60,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 217,
+        "name": "Scorch",
+        "type": "Fire",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 218,
+        "name": "Self-Assured",
+        "type": "Typeless",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 70,
+        "cost": "Passive"
+    },
+    {
+        "id": 219,
+        "name": "Self-Destruct",
+        "type": "Fire",
+        "category": "Ranged Attack",
+        "power": 60,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 220,
+        "name": "Sharp Edges",
+        "type": "Typeless",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 221,
+        "name": "Sharpen",
+        "type": "Typeless",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 222,
+        "name": "Shear Luck",
+        "type": "Typeless",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 223,
+        "name": "Shield Bash",
+        "type": "Metal",
+        "category": "Melee Attack",
+        "power": 90,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 224,
+        "name": "Shooting Star",
+        "type": "Astral",
+        "category": "Ranged Attack",
+        "power": 60,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 225,
+        "name": "Shrapnel",
+        "type": "Metal",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 226,
+        "name": "Silicon Slash",
+        "type": "Glass",
+        "category": "Melee Attack",
+        "power": 60,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 227,
+        "name": "Sleep Talk",
+        "type": "Typeless",
+        "category": "Ranged Attack",
+        "power": 120,
+        "accuracy": 1,
+        "cost": 0
+    },
+    {
+        "id": 228,
+        "name": "Sleep Walk",
+        "type": "Typeless",
+        "category": "Melee Attack",
+        "power": 120,
+        "accuracy": 1,
+        "cost": 0
+    },
+    {
+        "id": 229,
+        "name": "Slice",
+        "type": "Typeless",
+        "category": "Melee Attack",
+        "power": 30,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 230,
+        "name": "Smack",
+        "type": "Typeless",
+        "category": "Melee Attack",
+        "power": 30,
+        "accuracy": 100,
+        "cost": 0
+    },
+    {
+        "id": 231,
+        "name": "Snooze Spore",
+        "type": "Plant",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 50,
+        "cost": 2
+    },
+    {
+        "id": 232,
+        "name": "Snow Rush",
+        "type": "Ice",
+        "category": "Melee Attack",
+        "power": 60,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 233,
+        "name": "Sonic Boom",
+        "type": "Air",
+        "category": "Ranged Attack",
+        "power": 60,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 234,
+        "name": "Spit",
+        "type": "Typeless",
+        "category": "Ranged Attack",
+        "power": 30,
+        "accuracy": 100,
+        "cost": 0
+    },
+    {
+        "id": 235,
+        "name": "Splinter",
+        "type": "Plant",
+        "category": "Melee Attack",
+        "power": 15,
+        "accuracy": "Unavoidable",
+        "cost": "Passive"
+    },
+    {
+        "id": 236,
+        "name": "Spray",
+        "type": "Typeless",
+        "category": "Ranged Attack",
+        "power": 30,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 237,
+        "name": "Spring-Load",
+        "type": "Plastic",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": "Unavoidable",
+        "cost": "Passive"
+    },
+    {
+        "id": 238,
+        "name": "Sprint",
+        "type": "Typeless",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 239,
+        "name": "Stab In The Dark",
+        "type": "Typeless",
+        "category": "Melee Attack",
+        "power": 100,
+        "accuracy": 10,
+        "cost": 0
+    },
+    {
+        "id": 240,
+        "name": "Status Resistance",
+        "type": "Metal",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 241,
+        "name": "Sticker Trick",
+        "type": "Glitter",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 242,
+        "name": "Sticky Spray",
+        "type": "Poison",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 243,
+        "name": "Sticky Tongue",
+        "type": "Beast",
+        "category": "Melee Attack",
+        "power": 40,
+        "accuracy": 75,
+        "cost": 1
+    },
+    {
+        "id": 244,
+        "name": "Stony Look",
+        "type": "Earth",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 50,
+        "cost": 2
+    },
+    {
+        "id": 245,
+        "name": "Sturdy Armour",
+        "type": "Metal",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 246,
+        "name": "Suction Cup Dart",
+        "type": "Plastic",
+        "category": "Ranged Attack",
+        "power": 120,
+        "accuracy": 75,
+        "cost": 4
+    },
+    {
+        "id": 247,
+        "name": "Sugar Rush",
+        "type": "Typeless",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 248,
+        "name": "Suit Up",
+        "type": "Typeless",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": "Unavoidable",
+        "cost": 2
+    },
+    {
+        "id": 249,
+        "name": "Summon Tulpa",
+        "type": "Astral",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 1,
+        "cost": 0
+    },
+    {
+        "id": 250,
+        "name": "Superheated Fist",
+        "type": "Fire",
+        "category": "Melee Attack",
+        "power": 60,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 251,
+        "name": "Sure-Fire",
+        "type": "Fire",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 252,
+        "name": "Taunt",
+        "type": "Poison",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 253,
+        "name": "The Old 1-2",
+        "type": "Typeless",
+        "category": "Melee Attack",
+        "power": 60,
+        "accuracy": 100,
+        "cost": 5
+    },
+    {
+        "id": 254,
+        "name": "Throw",
+        "type": "Typeless",
+        "category": "Ranged Attack",
+        "power": 50,
+        "accuracy": 100,
+        "cost": 0
+    },
+    {
+        "id": 255,
+        "name": "Thunder Blast",
+        "type": "Lightning",
+        "category": "Ranged Attack",
+        "power": 60,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 256,
+        "name": "Torrent",
+        "type": "Water",
+        "category": "Ranged Attack",
+        "power": 40,
+        "accuracy": 100,
+        "cost": 4
+    },
+    {
+        "id": 257,
+        "name": "Tower Defence",
+        "type": "Earth",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 258,
+        "name": "Toxic Stab",
+        "type": "Poison",
+        "category": "Melee Attack",
+        "power": 90,
+        "accuracy": 100,
+        "cost": 4
+    },
+    {
+        "id": 259,
+        "name": "Toy Hammer",
+        "type": "Plastic",
+        "category": "Melee Attack",
+        "power": 60,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 260,
+        "name": "Traffic Jam",
+        "type": "Plastic",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": "Unavoidable",
+        "cost": 2
+    },
+    {
+        "id": 261,
+        "name": "Trap Jaw",
+        "type": "Beast",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 50,
+        "cost": "Passive"
+    },
+    {
+        "id": 262,
+        "name": "Treasure Dig",
+        "type": "Earth",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 50,
+        "cost": 2
+    },
+    {
+        "id": 263,
+        "name": "Treat",
+        "type": "Typeless",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": "Unavoidable",
+        "cost": 1
+    },
+    {
+        "id": 264,
+        "name": "Trick",
+        "type": "Typeless",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 265,
+        "name": "Trip",
+        "type": "Typeless",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 266,
+        "name": "Tripwire",
+        "type": "Metal",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 267,
+        "name": "Two Heads",
+        "type": "Typeless",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 268,
+        "name": "Undertow",
+        "type": "Water",
+        "category": "Ranged Attack",
+        "power": 90,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 269,
+        "name": "Unicast",
+        "type": "Lightning",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 270,
+        "name": "Unshakeable",
+        "type": "Earth",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 271,
+        "name": "Vampire",
+        "type": "Beast",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 272,
+        "name": "Vengeful Curse",
+        "type": "Astral",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 273,
+        "name": "Wallop",
+        "type": "Typeless",
+        "category": "Melee Attack",
+        "power": 60,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 274,
+        "name": "Water Camouflage",
+        "type": "Water",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 275,
+        "name": "Water Coating",
+        "type": "Water",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 276,
+        "name": "Water Dance",
+        "type": "Water",
+        "category": "Melee Attack",
+        "power": 90,
+        "accuracy": 85,
+        "cost": 2
+    },
+    {
+        "id": 277,
+        "name": "Water Wall",
+        "type": "Water",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 278,
+        "name": "Waterproof",
+        "type": "Water",
+        "category": "Miscellaneous",
+        "power": 0,
+        "accuracy": 100,
+        "cost": "Passive"
+    },
+    {
+        "id": 279,
+        "name": "Waterworks",
+        "type": "Water",
+        "category": "Ranged Attack",
+        "power": 100,
+        "accuracy": 90,
+        "cost": 5
+    },
+    {
+        "id": 280,
+        "name": "Web Wrap",
+        "type": "Poison",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 20,
+        "cost": 0
+    },
+    {
+        "id": 281,
+        "name": "Window",
+        "type": "Glass",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 282,
+        "name": "Wink",
+        "type": "Typeless",
+        "category": "Status Effect",
+        "power": 0,
+        "accuracy": 100,
+        "cost": 1
+    },
+    {
+        "id": 283,
+        "name": "Wonderful 7",
+        "type": "Astral",
+        "category": "Ranged Attack",
+        "power": 90,
+        "accuracy": 100,
+        "cost": 4
+    },
+    {
+        "id": 284,
+        "name": "Woodcutter",
+        "type": "Plant",
+        "category": "Melee Attack",
+        "power": 40,
+        "accuracy": 100,
+        "cost": 3
+    },
+    {
+        "id": 285,
+        "name": "Yule Regret That",
+        "type": "Ice",
+        "category": "Ranged Attack",
+        "power": 60,
+        "accuracy": 100,
+        "cost": 4
+    },
+    {
+        "id": 286,
+        "name": "Zephyr",
+        "type": "Air",
+        "category": "Ranged Attack",
+        "power": 60,
+        "accuracy": 100,
+        "cost": 2
+    },
+    {
+        "id": 287,
+        "name": "Zoomies",
+        "type": "Beast",
+        "category": "Melee Attack",
+        "power": 30,
+        "accuracy": 100,
+        "cost": 1
+    }
+]

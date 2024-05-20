@@ -1,0 +1,14 @@
+Astral:		#373F67
+Beast:		#B0AA82
+Poison:		#7629DB
+Air:		#206454
+Plastic:	#B12031
+Metal:		#78668A
+Earth:		#6F3945
+Plant:		#308245
+Lightning:	#D98A30
+Fire:		#D04D2F
+Water:		#4648CE
+Ice:		#3471B2
+Glass:		#9DACC3
+Glitter:	#C355C1

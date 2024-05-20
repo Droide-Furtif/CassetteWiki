@@ -1,0 +1,11 @@
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Jump Scare	Typeless	Melee Attack	30	100%	1 AP
+Initial	Peekaboo	Typeless	Status Effect	—	100%	1 AP
+Initial	Bite	Beast	Melee Attack	80	100%	3 AP
+Initial	Trick	Typeless	Status Effect	—	100%	1 AP
+Initial	Taunt	Poison	Status Effect	—	100%	1 AP
+Star-white.png	AP Steal	Poison	Miscellaneous	—	70%	0 AP
+Star-white.pngStar-white.png	Energy Shot	Typeless	Ranged Attack	60	100%	2 AP
+Star-white.pngStar-white.pngStar-white.png	Energy Wave	Typeless	Ranged Attack	60	100%	3 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Raise Arms	Typeless	Status Effect	—	100%	1 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Quick Smack	Typeless	Melee Attack	30	100%	1 AP

@@ -1,0 +1,7 @@
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Peekaboo	Typeless	Status Effect	—	100%	1 AP
+Star-white.png	Jump Scare	Typeless	Melee Attack	30	100%	1 AP
+Star-white.pngStar-white.png	Bite	Beast	Melee Attack	80	100%	3 AP
+Star-white.pngStar-white.pngStar-white.png	Trick	Typeless	Status Effect	—	100%	1 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Clobber	Typeless	Melee Attack	60	100%	5 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Taunt	Poison	Status Effect	—	100%	1 AP
