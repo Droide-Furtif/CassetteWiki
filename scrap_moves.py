@@ -51,7 +51,7 @@ def save_data(data, filename):
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 if __name__ == '__main__':
-    moves_path = 'test.txt'
+    moves_path = 'moves.txt'
     moves = parse_moves_from_text(moves_path)
     save_data(moves, 'moves.json')
     print("Les données ont été sauvegardées dans moves.json.")

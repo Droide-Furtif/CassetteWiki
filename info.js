@@ -1,18 +1,20 @@
 var monsters = [];  // Tableau pour stocker les données des monstres chargées
 var moves = [];     // Tableau pour stocker les données des mouvements chargées
 
+var currentLanguage = 'en';
+
 // Fonction pour charger les données des monstres et des mouvements au démarrage
 async function loadData() {
     try {
+	// besoin d'async pour charger le JSON même en locale (le client n'est pas en locale ducon)
         const monstersResponse = await fetch('monsters.json');
         const movesResponse = await fetch('moves.json');
 	const typesResponse = await fetch('assets/types.json');
         monsters = await monstersResponse.json();
         moves = await movesResponse.json();
 	types = await typesResponse.json();
-        console.log(monsters);
         if (monsters.length > 0) {
-            loadMonster(0);  // Charge le premier monstre après avoir chargé les données
+            loadMonster(1);  // Charge le premier monstre après avoir chargé les données
         } else {
             console.error("Aucun monstre trouvé dans le fichier JSON.");
         }
@@ -27,32 +29,39 @@ function loadMonster(index) {
     }
 
     var monster = monsters[index];
+    // récupération des données de types dans le json, selon type du monstre
     var typeInfo = types.find(type => type.name === monster.type) || { color_code: '#fff', image: '', name: 'Unknown' };
+    var langKey = currentLanguage === 'fr' ? '_fr' : '';
 
     if (!monster) {
         console.error("Données de monstre non trouvées à l'index:", index);
         return;
     }
 
+    // Mise en place des moves du monstre
     var monsterMoves = monster.moves.map(moveEntry => {
         var move = moves.find(m => m.id === moveEntry.move_id);
+        var moveTranslatedName = move['name' + langKey] || move.name;
+	console.log("movename:", moveTranslatedName);
         return move ? {
-            name: move.name,
-            type: move.type,
-            category: move.category,
+            name: moveTranslatedName,
+            type: currentLanguage === 'fr' ? translate(move.type, typeTranslations) : move.type,
+            category: currentLanguage === 'fr' ? translate(move.category, categoryTranslations) : move.category,
             power: move.power || '—',
-            accuracy: move.accuracy + '%',
-            cost: move.cost + ' AP',
+            accuracy: typeof move.accuracy === 'number' ? move.accuracy + '%' : move.accuracy,
+            cost: typeof move.cost === 'number' ? move.cost + (currentLanguage === 'fr' ? ' PA' : ' AP') : move.cost,
             unlockedLevel: moveEntry.unlockedLevel
         } : null;
     }).filter(m => m);  // Filtre les mouvements non trouvés
+
+    // Création de l'HTML des infos du monstre
     var monsterHtml = `
         <div>
             <button onclick="loadMonster(${index - 1 >= 0 ? index - 1 : monsters.length - 1})">Précédent</button>
             <button onclick="loadMonster(${index + 1 < monsters.length ? index + 1 : 0})">Suivant</button>
         </div>
 
-        <h2>${monster.name}</h2>
+        <h2>#${monster.id} ${monster['name' + langKey]}</h2>
         <img src="${monster.img}" alt="${monster.name}">
         <p>Type: <span class="type-info" style="background-color:${typeInfo.color_code};">
             <img src="${typeInfo.image}" alt="${typeInfo.name}" style="height:32px;margin: 5px"> ${typeInfo.name}
@@ -71,13 +80,13 @@ function loadMonster(index) {
         <h3>Movelist</h3>
         <table class="moves-table">
             <tr>
-                <th>Level Unlocked</th>
-                <th>Move</th>
-                <th>Type</th>
-                <th>Category</th>
-                <th>Power</th>
-                <th>Accuracy</th>
-                <th>Use Cost</th>
+                <th class="col-wide">${currentLanguage === 'fr' ? "Niveau d'obtention" : 'Unlocked at Level'}</th>
+                <th class="col-medium">${currentLanguage === 'fr' ? "Nom" : 'Name'}</th>
+                <th class="col-medium">Type</th>
+                <th class="col-medium">${currentLanguage === 'fr' ? "Catégorie" : 'Category'}</th>
+                <th class="col-small">${currentLanguage === 'fr' ? "Puissance" : 'Power'}</th>
+                <th class="col-small">${currentLanguage === 'fr' ? "Précision" : 'Accuracy'}</th>
+                <th class="col-small">${currentLanguage === 'fr' ? "Coût" : 'Cost'}</th>
             </tr>
             ${monsterMoves.map(move => `
                 <tr>
@@ -114,6 +123,11 @@ function generateStatsRow(statName, value) {
             </div>
         </div>
     `;
+}
+
+function changeLanguage() {
+    currentLanguage = document.getElementById('languageSelect').value;
+    loadMonster(currentMonsterIndex);
 }
 
 window.addEventListener('load', loadData);  // Appelle loadData lorsque la page est chargée

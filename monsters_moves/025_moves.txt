@@ -1,0 +1,13 @@
+Initial	Spit	Typeless	Ranged Attack	30	100%	0 AP
+Initial	Dodge	Typeless	Status Effect	—	100%	1 AP
+Initial	Sonic Boom	Air	Ranged Attack	60	100%	3 AP
+Initial	Call For Help	Typeless	Miscellaneous	—	50%	2 AP
+Initial	Air Wall	Air	Status Effect	—	100%	2 AP
+Initial	Taunt	Poison	Status Effect	—	100%	1 AP
+Initial	New Leaf	Plant	Miscellaneous	—	Unavoidable	3 AP
+Initial	Provoke	Poison	Status Effect	—	100%	1 AP
+Star-white.png	Echolocation	Air	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.png	Hurricane	Air	Ranged Attack	90	100%	5 AP
+Star-white.pngStar-white.pngStar-white.png	Metal Riff	Metal	Ranged Attack	60	100%	3 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Change the Record	Typeless	Miscellaneous	—	Unavoidable	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Nurse	Typeless	Miscellaneous	—	Unavoidable	5 AP

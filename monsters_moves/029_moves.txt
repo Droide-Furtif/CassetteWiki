@@ -1,0 +1,12 @@
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Nod	Typeless	Status Effect	—	100%	1 AP
+Initial	Bite	Beast	Melee Attack	80	100%	3 AP
+Initial	Abramacabra	Beast	Status Effect	—	100%	3 AP
+Initial	Bone Cannon	Beast	Ranged Attack	40	100%	3 AP
+Initial	Desperation	Typeless	Melee Attack	20	100%	1 AP
+Initial	Blood Donation	Beast	Miscellaneous	—	Unavoidable	2 AP
+Star-white.png	Copy That	Air	Miscellaneous	—	Unavoidable	2 AP
+Star-white.pngStar-white.png	Multi Smack	Typeless	Melee Attack	20	100%	3 AP
+Star-white.pngStar-white.pngStar-white.png	Crossfade	Typeless	Miscellaneous	—	100%	1 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Ritual	Astral	Status Effect	—	100%	6 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Clobber	Typeless	Melee Attack	60	100%	5 AP

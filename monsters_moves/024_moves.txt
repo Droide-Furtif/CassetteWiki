@@ -1,0 +1,8 @@
+Initial	Spit	Typeless	Ranged Attack	30	100%	0 AP
+Initial	Dodge	Typeless	Status Effect	—	100%	1 AP
+Initial	Call For Help	Typeless	Miscellaneous	—	50%	2 AP
+Star-white.png	Sonic Boom	Air	Ranged Attack	60	100%	3 AP
+Star-white.pngStar-white.png	Provoke	Poison	Status Effect	—	100%	1 AP
+Star-white.pngStar-white.pngStar-white.png	Air Wall	Air	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Taunt	Poison	Status Effect	—	100%	1 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	New Leaf	Plant	Miscellaneous	—	Unavoidable	3 AP

@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Infos Monstres</title>
     <link rel="stylesheet" href="styles.css">
+    <script src="translations.js"></script>
     <script src="info.js"></script> <!-- Script pour la logique de navigation et de recherche -->
 </head>
 <body>
@@ -19,6 +20,11 @@
         </nav>
         <input type="text" id="searchBox" placeholder="Rechercher un monstre..." oninput="searchMonster()">
     </header>
+    <select id="languageSelect" onchange="changeLanguage()">
+        <option value="en">English</option>
+        <option value="fr">Français</option>
+    </select>
+
     <main id="monsterInfo">
         <!-- Dynamically filled -->
     </main>

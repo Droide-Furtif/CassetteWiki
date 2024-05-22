@@ -1,0 +1,7 @@
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Traffic Jam	Plastic	Status Effect	—	Unavoidable	2 AP
+Star-white.png	Elemental Wall	Typeless	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.png	Inflame	Fire	Ranged Attack	60	100%	2 AP
+Star-white.pngStar-white.pngStar-white.png	Multi Smack	Typeless	Melee Attack	20	100%	3 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Water Coating	Water	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Undertow	Water	Ranged Attack	90	100%	2 AP

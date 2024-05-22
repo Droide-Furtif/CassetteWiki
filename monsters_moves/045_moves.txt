@@ -1,0 +1,7 @@
+Initial	Spit	Typeless	Ranged Attack	30	100%	0 AP
+Initial	Ice Coating	Ice	Status Effect	—	100%	2 AP
+Star-white.png	Elemental Wall	Typeless	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.png	Torrent	Water	Ranged Attack	40	100%	4 AP
+Star-white.pngStar-white.pngStar-white.png	Ice Resistance	Ice	Miscellaneous	—	100%	Passive
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Ice Breaker	Ice	Melee Attack	90	100%	4 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Undertow	Water	Ranged Attack	90	100%	2 AP

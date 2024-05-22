@@ -1,0 +1,13 @@
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Shear Luck	Typeless	Miscellaneous	—	100%	Passive
+Initial	Battering Ram	Typeless	Melee Attack	70	85%	3 AP
+Initial	Bite	Beast	Melee Attack	80	100%	3 AP
+Initial	Elemental Wall	Typeless	Status Effect	—	100%	2 AP
+Initial	Shooting Star	Astral	Ranged Attack	60	100%	2 AP
+Initial	Phase Shift	Astral	Miscellaneous	—	100%	Passive
+Initial	New Leaf	Plant	Miscellaneous	—	Unavoidable	3 AP
+Star-white.png	Ritual	Astral	Status Effect	—	100%	6 AP
+Star-white.pngStar-white.png	Mind-Meld	Astral	Status Effect	—	Unavoidable	2 AP
+Star-white.pngStar-white.pngStar-white.png	Galactic Beatdown	Astral	Melee Attack	90	Unavoidable	4 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Haunt	Astral	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Last Rites	Typeless	Melee Attack	200	100%	10 AP

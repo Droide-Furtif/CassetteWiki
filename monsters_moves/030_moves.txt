@@ -1,0 +1,7 @@
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Sprint	Typeless	Status Effect	—	100%	1 AP
+Star-white.png	Zephyr	Air	Ranged Attack	60	100%	2 AP
+Star-white.pngStar-white.png	Wallop	Typeless	Melee Attack	60	100%	2 AP
+Star-white.pngStar-white.pngStar-white.png	Taunt	Poison	Status Effect	—	100%	1 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Dodge	Typeless	Status Effect	—	100%	1 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Air Wall	Air	Status Effect	—	100%	2 AP

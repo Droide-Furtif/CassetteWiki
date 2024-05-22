@@ -1,0 +1,11 @@
+Initial	Spit	Typeless	Ranged Attack	30	100%	0 AP
+Initial	Sugar Rush	Typeless	Miscellaneous	—	100%	Passive
+Initial	Bon Bon Blast	Typeless	Ranged Attack	70	85%	3 AP
+Initial	Bite	Beast	Melee Attack	80	100%	3 AP
+Initial	Elemental Wall	Typeless	Status Effect	—	100%	2 AP
+Initial	Taunt	Poison	Status Effect	—	100%	1 AP
+Star-white.png	Treat	Typeless	Status Effect	—	Unavoidable	1 AP
+Star-white.pngStar-white.png	Coal Story	Earth	Ranged Attack	30	100%	1 AP
+Star-white.pngStar-white.pngStar-white.png	Multi Shot	Typeless	Ranged Attack	20	100%	3 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Raise Shields	Typeless	Status Effect	—	100%	1 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Magnet	Metal	Status Effect	—	100%	1 AP

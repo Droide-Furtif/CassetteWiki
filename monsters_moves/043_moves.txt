@@ -1,0 +1,13 @@
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Rapid Fire	Fire	Ranged Attack	30	100%	5 AP
+Initial	Raise Arms	Typeless	Status Effect	—	100%	1 AP
+Initial	Ricochet	Typeless	Miscellaneous	—	100%	Passive
+Initial	Multi Shot	Typeless	Ranged Attack	20	100%	3 AP
+Initial	Sure-Fire	Fire	Status Effect	—	100%	2 AP
+Initial	Acorn Mortar	Plant	Ranged Attack	100	75%	3 AP
+Initial	Headshot	Typeless	Ranged Attack	200	100%	10 AP
+Star-white.png	Meteor Barrage	Earth	Ranged Attack	20	100%	4 AP
+Star-white.pngStar-white.png	Bite	Beast	Melee Attack	80	100%	3 AP
+Star-white.pngStar-white.pngStar-white.png	Beast Wall	Beast	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Bone Cannon	Beast	Ranged Attack	40	100%	3 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Shrapnel	Metal	Status Effect	—	100%	1 AP

@@ -1,0 +1,7 @@
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Sharpen	Typeless	Status Effect	—	100%	1 AP
+Star-white.png	Copper Chop	Metal	Melee Attack	60	100%	3 AP
+Star-white.pngStar-white.png	Parry Stance	Beast	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.png	Quick Smack	Typeless	Melee Attack	30	100%	1 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Slice	Typeless	Melee Attack	30	100%	1 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Dodge	Typeless	Status Effect	—	100%	1 AP

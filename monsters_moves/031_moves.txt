@@ -1,0 +1,10 @@
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Zephyr	Air	Ranged Attack	60	100%	2 AP
+Initial	Taunt	Poison	Status Effect	—	100%	1 AP
+Initial	Dodge	Typeless	Status Effect	—	100%	1 AP
+Initial	Air Wall	Air	Status Effect	—	100%	2 AP
+Star-white.png	Thunder Blast	Lightning	Ranged Attack	60	100%	3 AP
+Star-white.pngStar-white.png	Air Coating	Air	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.png	Energy Shot	Typeless	Ranged Attack	60	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Fog	Water	Status Effect	—	Unavoidable	4 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Broadcast	Air	Status Effect	—	100%	2 AP

@@ -1,0 +1,8 @@
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Criticise	Typeless	Status Effect	—	100%	1 AP
+Initial	Charge	Lightning	Melee Attack	60	100%	2 AP
+Star-white.png	Zoomies	Beast	Melee Attack	30	100%	1 AP
+Star-white.pngStar-white.png	Double Smack	Typeless	Melee Attack	30	100%	2 AP
+Star-white.pngStar-white.pngStar-white.png	Energy Shot	Typeless	Ranged Attack	60	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Copycat	Beast	Miscellaneous	—	100%	0 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Broadcast	Air	Status Effect	—	100%	2 AP

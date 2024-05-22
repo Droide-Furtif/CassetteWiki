@@ -1,0 +1,13 @@
+Initial	Spit	Typeless	Ranged Attack	30	100%	0 AP
+Initial	Sugar Rush	Typeless	Miscellaneous	—	100%	Passive
+Initial	Bon Bon Blast	Typeless	Ranged Attack	70	85%	3 AP
+Initial	Bite	Beast	Melee Attack	80	100%	3 AP
+Initial	Elemental Wall	Typeless	Status Effect	—	100%	2 AP
+Initial	Treat	Typeless	Status Effect	—	Unavoidable	1 AP
+Initial	Multi Shot	Typeless	Ranged Attack	20	100%	3 AP
+Initial	Magnet	Metal	Status Effect	—	100%	1 AP
+Star-white.png	Ritual	Astral	Status Effect	—	100%	6 AP
+Star-white.pngStar-white.png	Shield Bash	Metal	Melee Attack	90	100%	3 AP
+Star-white.pngStar-white.pngStar-white.png	Shrapnel	Metal	Status Effect	—	100%	1 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Gambit	Typeless	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Headshot	Typeless	Ranged Attack	200	100%	10 AP

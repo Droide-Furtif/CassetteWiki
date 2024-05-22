@@ -114,10 +114,11 @@ ul {
 }
 
 .moves-table {
-    width: 90%;
+    width: 70%;
     border-collapse: collapse;
     margin-top: 20px;
     background-color: #f8f9fa;
+    table-layout: fixed;
 }
 
 .moves-table th, .moves-table td {
@@ -151,6 +152,18 @@ ul {
     color: #fafafa;
 }
 
+.moves-table .col-wide {
+    width: 30%;
+}
+
+.moves-table .col-medium {
+    width: 20%;
+}
+
+.moves-table .col-small {
+    width: 10%;
+}
+
 .type-info {
     height: 32px;
     padding: 5px;
@@ -164,4 +177,11 @@ ul {
     width: 32px;
     height: 32px;
     display: inline-flex;
+}
+
+#languageSelect {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    padding: 5px;
 }

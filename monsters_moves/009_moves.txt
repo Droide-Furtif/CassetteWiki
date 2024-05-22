@@ -1,0 +1,13 @@
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Sharpen	Typeless	Status Effect	—	100%	1 AP
+Initial	Revenge Strike	Typeless	Melee Attack	15	100%	Passive
+Initial	Bite	Beast	Melee Attack	80	100%	3 AP
+Initial	Déjà Vu	Astral	Status Effect	—	100%	2 AP
+Initial	Multi Smack	Typeless	Melee Attack	20	100%	3 AP
+Initial	Hypnotise	Astral	Status Effect	—	50%	2 AP
+Initial	Pre-emptive Strike	Typeless	Melee Attack	30	100%	Passive
+Star-white.png	Stony Look	Earth	Status Effect	—	50%	2 AP
+Star-white.pngStar-white.png	Two Heads	Typeless	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.png	AP Refund	Typeless	Miscellaneous	—	100%	Passive
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Elemental Wall	Typeless	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Provoke	Poison	Status Effect	—	100%	1 AP

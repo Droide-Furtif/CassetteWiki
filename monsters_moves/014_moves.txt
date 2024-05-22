@@ -1,0 +1,7 @@
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Sugar Rush	Typeless	Miscellaneous	—	100%	Passive
+Star-white.png	Bon Bon Blast	Typeless	Ranged Attack	70	85%	3 AP
+Star-white.pngStar-white.png	Raise Arms	Typeless	Status Effect	—	100%	1 AP
+Star-white.pngStar-white.pngStar-white.png	Bite	Beast	Melee Attack	80	100%	3 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Elemental Wall	Typeless	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Taunt	Poison	Status Effect	—	100%	1 AP

@@ -1,0 +1,13 @@
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Shear Luck	Typeless	Miscellaneous	—	100%	Passive
+Initial	Battering Ram	Typeless	Melee Attack	70	85%	3 AP
+Initial	Bite	Beast	Melee Attack	80	100%	3 AP
+Initial	Elemental Wall	Typeless	Status Effect	—	100%	2 AP
+Initial	Coal Story	Earth	Ranged Attack	30	100%	1 AP
+Initial	Multi Smack	Typeless	Melee Attack	20	100%	3 AP
+Initial	Crumble	Earth	Ranged Attack	30	Unavoidable	2 AP
+Star-white.png	Ritual	Astral	Status Effect	—	100%	6 AP
+Star-white.pngStar-white.png	Shield Bash	Metal	Melee Attack	90	100%	3 AP
+Star-white.pngStar-white.pngStar-white.png	Mountain Smash	Earth	Melee Attack	90	100%	4 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Haunt	Astral	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Last Rites	Typeless	Melee Attack	200	100%	10 AP

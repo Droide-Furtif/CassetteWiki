@@ -21,17 +21,36 @@
     <main>
         <section>
             <h2>Calculer les Dégâts</h2>
-            <form onsubmit="calculateDamage(); return false;">
-                <label for="level">Niveau du monstre:</label>
-                <input type="number" id="level" name="level" required><br>
-                <label for="power">Puissance de l'attaque:</label>
-                <input type="number" id="power" name="power" required><br>
-                <label for="stab">STAB:</label>
-                <input type="checkbox" id="stab" name="stab"><br>
-                <label for="crit">Coup critique:</label>
-                <input type="checkbox" id="crit" name="crit"><br>
-                <input type="submit" value="Calculer">
-            </form>
+		<form id="damageForm">
+        	<label for="power">Power:</label>
+        	<input type="number" id="power" required><br>
+
+        	<label for="attack">Attack:</label>
+        	<input type="number" id="attack" required><br>
+
+        	<label for="defense">Defense:</label>
+        	<input type="number" id="defense" required><br>
+
+        	<label for="level">Level:</label>
+        	<input type="number" id="level" required><br>
+
+        	<label for="stab">STAB (cochez si applicable):</label>
+        	<input type="checkbox" id="stab"><br>
+
+        	<label for="crit">Crit Multiplier (cochez si applicable):</label>
+        	<input type="checkbox" id="crit"><br>
+
+        	<label for="advantage">Advantage:</label>
+        	<input type="number" id="advantage" required><br>
+
+        	<label for="disadvantage">Disadvantage:</label>
+        	<input type="number" id="disadvantage" required><br>
+
+        	<label for="critAttribute">Crit Attribute (si Crit est coché):</label>
+        	<input type="number" id="critAttribute" value="0"><br>
+
+        	<button type="button" onclick="calculateDamage()">Calculer les Dommages</button>
+    		</form>
             <div id="result"></div>
         </section>
     </main>

@@ -1,0 +1,7 @@
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Nod	Typeless	Status Effect	—	100%	1 AP
+Star-white.png	Bite	Beast	Melee Attack	80	100%	3 AP
+Star-white.pngStar-white.png	Abramacabra	Beast	Status Effect	—	100%	3 AP
+Star-white.pngStar-white.pngStar-white.png	Bone Cannon	Beast	Ranged Attack	40	100%	3 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Desperation	Typeless	Melee Attack	20	100%	1 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Blood Donation	Beast	Miscellaneous	—	Unavoidable	2 AP

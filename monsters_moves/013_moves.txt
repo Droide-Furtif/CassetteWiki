@@ -1,0 +1,12 @@
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Traffic Jam	Plastic	Status Effect	—	Unavoidable	2 AP
+Initial	Elemental Wall	Typeless	Status Effect	—	100%	2 AP
+Initial	Inflame	Fire	Ranged Attack	60	100%	2 AP
+Initial	Multi Smack	Typeless	Melee Attack	20	100%	3 AP
+Initial	Water Coating	Water	Status Effect	—	100%	2 AP
+Initial	Undertow	Water	Ranged Attack	90	100%	2 AP
+Star-white.png	Shield Bash	Metal	Melee Attack	90	100%	3 AP
+Star-white.pngStar-white.png	Toy Hammer	Plastic	Melee Attack	60	100%	2 AP
+Star-white.pngStar-white.pngStar-white.png	Throw	Typeless	Ranged Attack	50	100%	0 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Recycle	Plastic	Miscellaneous	—	100%	0 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Revolving Door	Glass	Miscellaneous	—	100%	2 AP

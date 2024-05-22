@@ -1,0 +1,11 @@
+Initial	Spit	Typeless	Ranged Attack	30	100%	0 AP
+Initial	Elemental Wall	Typeless	Status Effect	—	100%	2 AP
+Initial	Torrent	Water	Ranged Attack	40	100%	4 AP
+Initial	Ice Resistance	Ice	Miscellaneous	—	100%	Passive
+Initial	Ice Breaker	Ice	Melee Attack	90	100%	4 AP
+Initial	Undertow	Water	Ranged Attack	90	100%	2 AP
+Star-white.png	Bite	Beast	Melee Attack	80	100%	3 AP
+Star-white.pngStar-white.png	Fog	Water	Status Effect	—	Unavoidable	4 AP
+Star-white.pngStar-white.pngStar-white.png	Energy Wave	Typeless	Ranged Attack	60	100%	3 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Boil	Water	Melee Attack	90	100%	3 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Multi Shot	Typeless	Ranged Attack	20	100%	3 AP

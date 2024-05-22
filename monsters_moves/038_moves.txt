@@ -1,0 +1,13 @@
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Criticise	Typeless	Status Effect	—	100%	1 AP
+Initial	Charge	Lightning	Melee Attack	60	100%	2 AP
+Initial	Zoomies	Beast	Melee Attack	30	100%	1 AP
+Initial	Energy Shot	Typeless	Ranged Attack	60	100%	2 AP
+Initial	Copycat	Beast	Miscellaneous	—	100%	0 AP
+Initial	Broadcast	Air	Status Effect	—	100%	2 AP
+Initial	Double Smack	Typeless	Melee Attack	30	100%	2 AP
+Star-white.png	Fire Wall	Fire	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.png	Battery	Lightning	Melee Attack	40	100%	3 AP
+Star-white.pngStar-white.pngStar-white.png	Silicon Slash	Glass	Melee Attack	60	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Critical AP	Typeless	Miscellaneous	—	100%	Passive
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Berserker	Beast	Status Effect	—	100%	Passive

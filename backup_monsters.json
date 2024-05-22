@@ -65,8 +65,7 @@
                 "move_id": 111,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "SPOILER_FR"
+        ]
     },
     {
         "id": "001",
@@ -114,8 +113,7 @@
                 "move_id": 252,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Springheel_FR"
+        ]
     },
     {
         "id": "002",
@@ -175,8 +173,7 @@
                 "move_id": 220,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Hopskin_FR"
+        ]
     },
     {
         "id": "003",
@@ -248,8 +245,7 @@
                 "move_id": 37,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Ripterra_FR"
+        ]
     },
     {
         "id": "004",
@@ -313,8 +309,7 @@
                 "move_id": 201,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Snoopin_FR"
+        ]
     },
     {
         "id": "005",
@@ -386,8 +381,7 @@
                 "move_id": 272,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Scampire_FR"
+        ]
     },
     {
         "id": "006",
@@ -435,8 +429,7 @@
                 "move_id": 170,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Carniviper_FR"
+        ]
     },
     {
         "id": "007",
@@ -496,8 +489,7 @@
                 "move_id": 196,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Masquerattle_FR"
+        ]
     },
     {
         "id": "008",
@@ -569,8 +561,7 @@
                 "move_id": 7,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Jormungold_FR"
+        ]
     },
     {
         "id": "009",
@@ -642,8 +633,7 @@
                 "move_id": 198,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Mardiusa_FR"
+        ]
     },
     {
         "id": "010",
@@ -715,8 +705,7 @@
                 "move_id": 35,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Aeroboros_FR"
+        ]
     },
     {
         "id": "011",
@@ -766,8 +755,7 @@
                 "move_id": 268,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Traffikrab_FR"
+        ]
     },
     {
         "id": "012",
@@ -835,8 +823,7 @@
                 "move_id": 24,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Weevilite_FR"
+        ]
     },
     {
         "id": "013",
@@ -904,8 +891,7 @@
                 "move_id": 212,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Lobstacle_FR"
+        ]
     },
     {
         "id": "014",
@@ -953,8 +939,7 @@
                 "move_id": 252,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Candevil_FR"
+        ]
     },
     {
         "id": "015",
@@ -1018,8 +1003,7 @@
                 "move_id": 191,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Malchemy_FR"
+        ]
     },
     {
         "id": "016",
@@ -1091,8 +1075,7 @@
                 "move_id": 128,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Miasmodeus_FR"
+        ]
     },
     {
         "id": "017",
@@ -1156,8 +1139,7 @@
                 "move_id": 158,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Vendemon_FR"
+        ]
     },
     {
         "id": "018",
@@ -1229,8 +1211,7 @@
                 "move_id": 128,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Gumbaal_FR"
+        ]
     },
     {
         "id": "019",
@@ -1278,8 +1259,7 @@
                 "move_id": 67,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Bansheep_FR"
+        ]
     },
     {
         "id": "020",
@@ -1343,8 +1323,7 @@
                 "move_id": 173,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Wooltergeist_FR"
+        ]
     },
     {
         "id": "021",
@@ -1416,8 +1395,7 @@
                 "move_id": 147,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Ramtasm_FR"
+        ]
     },
     {
         "id": "022",
@@ -1481,8 +1459,7 @@
                 "move_id": 72,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Zombleat_FR"
+        ]
     },
     {
         "id": "023",
@@ -1554,8 +1531,7 @@
                 "move_id": 147,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Capricorpse_FR"
+        ]
     },
     {
         "id": "024",
@@ -1607,8 +1583,7 @@
                 "move_id": 173,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Sirenade_FR"
+        ]
     },
     {
         "id": "025",
@@ -1680,8 +1655,7 @@
                 "move_id": 175,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Decibelle_FR"
+        ]
     },
     {
         "id": "026",
@@ -1729,8 +1703,7 @@
                 "move_id": 205,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Dandylion_FR"
+        ]
     },
     {
         "id": "027",
@@ -1798,8 +1771,7 @@
                 "move_id": 192,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Blossomaw_FR"
+        ]
     },
     {
         "id": "028",
@@ -1847,8 +1819,7 @@
                 "move_id": 36,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Macabra_FR"
+        ]
     },
     {
         "id": "029",
@@ -1916,8 +1887,7 @@
                 "move_id": 57,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Folklord_FR"
+        ]
     },
     {
         "id": "030",
@@ -1965,8 +1935,7 @@
                 "move_id": 7,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Dominoth_FR"
+        ]
     },
     {
         "id": "031",
@@ -2026,8 +1995,7 @@
                 "move_id": 47,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Wingloom_FR"
+        ]
     },
     {
         "id": "032",
@@ -2099,8 +2067,7 @@
                 "move_id": 158,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Mothmanic_FR"
+        ]
     },
     {
         "id": "033",
@@ -2164,8 +2131,7 @@
                 "move_id": 207,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Tokusect_FR"
+        ]
     },
     {
         "id": "034",
@@ -2213,8 +2179,7 @@
                 "move_id": 82,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Squirey_FR"
+        ]
     },
     {
         "id": "035",
@@ -2282,8 +2247,7 @@
                 "move_id": 253,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Manispear_FR"
+        ]
     },
     {
         "id": "036",
@@ -2351,8 +2315,7 @@
                 "move_id": 209,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Palangolin_FR"
+        ]
     },
     {
         "id": "037",
@@ -2404,8 +2367,7 @@
                 "move_id": 47,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Kittelly_FR"
+        ]
     },
     {
         "id": "038",
@@ -2477,8 +2439,7 @@
                 "move_id": 30,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Cat-5_FR"
+        ]
     },
     {
         "id": "039",
@@ -2526,8 +2487,7 @@
                 "move_id": 220,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Puppercut_FR"
+        ]
     },
     {
         "id": "040",
@@ -2591,8 +2551,7 @@
                 "move_id": 253,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Southpaw_FR"
+        ]
     },
     {
         "id": "041",
@@ -2640,8 +2599,7 @@
                 "move_id": 219,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Bulletino_FR"
+        ]
     },
     {
         "id": "042",
@@ -2701,8 +2659,7 @@
                 "move_id": 128,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Velocirifle_FR"
+        ]
     },
     {
         "id": "043",
@@ -2774,8 +2731,7 @@
                 "move_id": 225,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Artillerex_FR"
+        ]
     },
     {
         "id": "044",
@@ -2847,8 +2803,7 @@
                 "move_id": 145,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Gearyu_FR"
+        ]
     },
     {
         "id": "045",
@@ -2896,8 +2851,7 @@
                 "move_id": 268,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Diveal_FR"
+        ]
     },
     {
         "id": "046",
@@ -2961,8 +2915,7 @@
                 "move_id": 169,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Scubalrus_FR"
+        ]
     },
     {
         "id": "047",
@@ -3010,8 +2963,7 @@
                 "move_id": 258,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Nevermort_FR"
+        ]
     },
     {
         "id": "048",
@@ -3075,8 +3027,7 @@
                 "move_id": 147,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Apocrowlypse_FR"
+        ]
     },
     {
         "id": "049",
@@ -3128,8 +3079,7 @@
                 "move_id": 9,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Clocksley_FR"
+        ]
     },
     {
         "id": "050",
@@ -3201,8 +3151,7 @@
                 "move_id": 128,
                 "unlockedLevel": 5
             }
-        ],
-        "name_fr": "Robindam_FR"
+        ]
     },
     {
         "id": "051",
@@ -3221,8 +3170,7 @@
             "rangedDefense": 110,
             "speed": 180
         },
-        "moves": [],
-        "name_fr": "Thwackalope_FR"
+        "moves": []
     },
     {
         "id": "052",
@@ -3241,8 +3189,7 @@
             "rangedDefense": 80,
             "speed": 100
         },
-        "moves": [],
-        "name_fr": "Allseer_FR"
+        "moves": []
     },
     {
         "id": "053",
@@ -3261,8 +3208,7 @@
             "rangedDefense": 100,
             "speed": 120
         },
-        "moves": [],
-        "name_fr": "Khufo_FR"
+        "moves": []
     },
     {
         "id": "054",
@@ -3281,8 +3227,7 @@
             "rangedDefense": 140,
             "speed": 140
         },
-        "moves": [],
-        "name_fr": "Triphinx_FR"
+        "moves": []
     },
     {
         "id": "055",
@@ -3301,8 +3246,7 @@
             "rangedDefense": 90,
             "speed": 140
         },
-        "moves": [],
-        "name_fr": "Braxsuit_FR"
+        "moves": []
     },
     {
         "id": "056",
@@ -3321,8 +3265,7 @@
             "rangedDefense": 100,
             "speed": 180
         },
-        "moves": [],
-        "name_fr": "Flapwoods_FR"
+        "moves": []
     },
     {
         "id": "057",
@@ -3341,8 +3284,7 @@
             "rangedDefense": 110,
             "speed": 50
         },
-        "moves": [],
-        "name_fr": "Sanzatime_FR"
+        "moves": []
     },
     {
         "id": "058",
@@ -3361,8 +3303,7 @@
             "rangedDefense": 140,
             "speed": 80
         },
-        "moves": [],
-        "name_fr": "Fortiwinx_FR"
+        "moves": []
     },
     {
         "id": "059",
@@ -3381,8 +3322,7 @@
             "rangedDefense": 120,
             "speed": 100
         },
-        "moves": [],
-        "name_fr": "Salamagus_FR"
+        "moves": []
     },
     {
         "id": "060",
@@ -3401,8 +3341,7 @@
             "rangedDefense": 150,
             "speed": 140
         },
-        "moves": [],
-        "name_fr": "Pyromeleon_FR"
+        "moves": []
     },
     {
         "id": "061",
@@ -3421,8 +3360,7 @@
             "rangedDefense": 80,
             "speed": 120
         },
-        "moves": [],
-        "name_fr": "Muskrateer_FR"
+        "moves": []
     },
     {
         "id": "062",
@@ -3441,8 +3379,7 @@
             "rangedDefense": 136,
             "speed": 120
         },
-        "moves": [],
-        "name_fr": "Ratcousel_FR"
+        "moves": []
     },
     {
         "id": "063",
@@ -3461,8 +3398,7 @@
             "rangedDefense": 80,
             "speed": 120
         },
-        "moves": [],
-        "name_fr": "Padpole_FR"
+        "moves": []
     },
     {
         "id": "064",
@@ -3481,8 +3417,7 @@
             "rangedDefense": 100,
             "speed": 140
         },
-        "moves": [],
-        "name_fr": "Frillypad_FR"
+        "moves": []
     },
     {
         "id": "065",
@@ -3501,8 +3436,7 @@
             "rangedDefense": 100,
             "speed": 150
         },
-        "moves": [],
-        "name_fr": "Liligator_FR"
+        "moves": []
     },
     {
         "id": "066",
@@ -3521,8 +3455,7 @@
             "rangedDefense": 100,
             "speed": 100
         },
-        "moves": [],
-        "name_fr": "Elfless_FR"
+        "moves": []
     },
     {
         "id": "067",
@@ -3541,8 +3474,7 @@
             "rangedDefense": 130,
             "speed": 100
         },
-        "moves": [],
-        "name_fr": "Grampus_FR"
+        "moves": []
     },
     {
         "id": "068",
@@ -3561,8 +3493,7 @@
             "rangedDefense": 100,
             "speed": 160
         },
-        "moves": [],
-        "name_fr": "Faerious_FR"
+        "moves": []
     },
     {
         "id": "069",
@@ -3581,8 +3512,7 @@
             "rangedDefense": 110,
             "speed": 100
         },
-        "moves": [],
-        "name_fr": "Brushroom_FR"
+        "moves": []
     },
     {
         "id": "070",
@@ -3601,8 +3531,7 @@
             "rangedDefense": 140,
             "speed": 120
         },
-        "moves": [],
-        "name_fr": "Fungogh_FR"
+        "moves": []
     },
     {
         "id": "071",
@@ -3621,8 +3550,7 @@
             "rangedDefense": 90,
             "speed": 150
         },
-        "moves": [],
-        "name_fr": "Boltam_FR"
+        "moves": []
     },
     {
         "id": "072",
@@ -3641,8 +3569,7 @@
             "rangedDefense": 160,
             "speed": 160
         },
-        "moves": [],
-        "name_fr": "Plasmantler_FR"
+        "moves": []
     },
     {
         "id": "073",
@@ -3661,8 +3588,7 @@
             "rangedDefense": 90,
             "speed": 90
         },
-        "moves": [],
-        "name_fr": "Busheye_FR"
+        "moves": []
     },
     {
         "id": "074",
@@ -3681,8 +3607,7 @@
             "rangedDefense": 90,
             "speed": 140
         },
-        "moves": [],
-        "name_fr": "Huntorch_FR"
+        "moves": []
     },
     {
         "id": "075",
@@ -3701,8 +3626,7 @@
             "rangedDefense": 110,
             "speed": 150
         },
-        "moves": [],
-        "name_fr": "Hedgeherne_FR"
+        "moves": []
     },
     {
         "id": "076",
@@ -3721,8 +3645,7 @@
             "rangedDefense": 100,
             "speed": 80
         },
-        "moves": [],
-        "name_fr": "Terracooka_FR"
+        "moves": []
     },
     {
         "id": "077",
@@ -3741,8 +3664,7 @@
             "rangedDefense": 140,
             "speed": 90
         },
-        "moves": [],
-        "name_fr": "Coaldron_FR"
+        "moves": []
     },
     {
         "id": "078",
@@ -3761,8 +3683,7 @@
             "rangedDefense": 150,
             "speed": 40
         },
-        "moves": [],
-        "name_fr": "Stardigrade_FR"
+        "moves": []
     },
     {
         "id": "079",
@@ -3781,8 +3702,7 @@
             "rangedDefense": 150,
             "speed": 60
         },
-        "moves": [],
-        "name_fr": "Galagor_FR"
+        "moves": []
     },
     {
         "id": "080",
@@ -3801,8 +3721,7 @@
             "rangedDefense": 80,
             "speed": 70
         },
-        "moves": [],
-        "name_fr": "Mascotoy_FR"
+        "moves": []
     },
     {
         "id": "081",
@@ -3821,8 +3740,7 @@
             "rangedDefense": 110,
             "speed": 90
         },
-        "moves": [],
-        "name_fr": "Mascotorn_FR"
+        "moves": []
     },
     {
         "id": "082",
@@ -3841,8 +3759,7 @@
             "rangedDefense": 90,
             "speed": 50
         },
-        "moves": [],
-        "name_fr": "Binvader_FR"
+        "moves": []
     },
     {
         "id": "083",
@@ -3861,8 +3778,7 @@
             "rangedDefense": 110,
             "speed": 110
         },
-        "moves": [],
-        "name_fr": "Binterloper_FR"
+        "moves": []
     },
     {
         "id": "084",
@@ -3881,8 +3797,7 @@
             "rangedDefense": 150,
             "speed": 10
         },
-        "moves": [],
-        "name_fr": "Twirligig_FR"
+        "moves": []
     },
     {
         "id": "085",
@@ -3901,8 +3816,7 @@
             "rangedDefense": 110,
             "speed": 120
         },
-        "moves": [],
-        "name_fr": "Kirikuri_FR"
+        "moves": []
     },
     {
         "id": "086",
@@ -3921,8 +3835,7 @@
             "rangedDefense": 90,
             "speed": 110
         },
-        "moves": [],
-        "name_fr": "Jellyton_FR"
+        "moves": []
     },
     {
         "id": "087",
@@ -3941,8 +3854,7 @@
             "rangedDefense": 70,
             "speed": 140
         },
-        "moves": [],
-        "name_fr": "Spirouette_FR"
+        "moves": []
     },
     {
         "id": "088",
@@ -3961,8 +3873,7 @@
             "rangedDefense": 100,
             "speed": 170
         },
-        "moves": [],
-        "name_fr": "Regensea_FR"
+        "moves": []
     },
     {
         "id": "089",
@@ -3981,8 +3892,7 @@
             "rangedDefense": 100,
             "speed": 140
         },
-        "moves": [],
-        "name_fr": "Jumpkin_FR"
+        "moves": []
     },
     {
         "id": "090",
@@ -4001,8 +3911,7 @@
             "rangedDefense": 100,
             "speed": 165
         },
-        "moves": [],
-        "name_fr": "Beanstalker_FR"
+        "moves": []
     },
     {
         "id": "091",
@@ -4021,8 +3930,7 @@
             "rangedDefense": 125,
             "speed": 140
         },
-        "moves": [],
-        "name_fr": "Draculeaf_FR"
+        "moves": []
     },
     {
         "id": "092",
@@ -4041,8 +3949,7 @@
             "rangedDefense": 90,
             "speed": 90
         },
-        "moves": [],
-        "name_fr": "Pawndead_FR"
+        "moves": []
     },
     {
         "id": "093",
@@ -4061,8 +3968,7 @@
             "rangedDefense": 110,
             "speed": 110
         },
-        "moves": [],
-        "name_fr": "Skelevangelist_FR"
+        "moves": []
     },
     {
         "id": "094",
@@ -4081,8 +3987,7 @@
             "rangedDefense": 110,
             "speed": 110
         },
-        "moves": [],
-        "name_fr": "Kingrave_FR"
+        "moves": []
     },
     {
         "id": "095",
@@ -4101,8 +4006,7 @@
             "rangedDefense": 110,
             "speed": 200
         },
-        "moves": [],
-        "name_fr": "Queenyx_FR"
+        "moves": []
     },
     {
         "id": "096",
@@ -4121,8 +4025,7 @@
             "rangedDefense": 150,
             "speed": 40
         },
-        "moves": [],
-        "name_fr": "Burnace_FR"
+        "moves": []
     },
     {
         "id": "097",
@@ -4141,8 +4044,7 @@
             "rangedDefense": 195,
             "speed": 50
         },
-        "moves": [],
-        "name_fr": "Smogmagog_FR"
+        "moves": []
     },
     {
         "id": "098",
@@ -4161,8 +4063,7 @@
             "rangedDefense": 100,
             "speed": 90
         },
-        "moves": [],
-        "name_fr": "Faucetear_FR"
+        "moves": []
     },
     {
         "id": "099",
@@ -4181,8 +4082,7 @@
             "rangedDefense": 135,
             "speed": 125
         },
-        "moves": [],
-        "name_fr": "Fountess_FR"
+        "moves": []
     },
     {
         "id": "100",
@@ -4201,8 +4101,7 @@
             "rangedDefense": 90,
             "speed": 100
         },
-        "moves": [],
-        "name_fr": "Cluckabilly_FR"
+        "moves": []
     },
     {
         "id": "101",
@@ -4221,8 +4120,7 @@
             "rangedDefense": 130,
             "speed": 130
         },
-        "moves": [],
-        "name_fr": "Rockertrice_FR"
+        "moves": []
     },
     {
         "id": "102",
@@ -4241,8 +4139,7 @@
             "rangedDefense": 100,
             "speed": 100
         },
-        "moves": [],
-        "name_fr": "Pondwalker_FR"
+        "moves": []
     },
     {
         "id": "103",
@@ -4261,8 +4158,7 @@
             "rangedDefense": 140,
             "speed": 110
         },
-        "moves": [],
-        "name_fr": "Sharktanker_FR"
+        "moves": []
     },
     {
         "id": "104",
@@ -4281,8 +4177,7 @@
             "rangedDefense": 120,
             "speed": 100
         },
-        "moves": [],
-        "name_fr": "Pombomb_FR"
+        "moves": []
     },
     {
         "id": "105",
@@ -4301,8 +4196,7 @@
             "rangedDefense": 140,
             "speed": 120
         },
-        "moves": [],
-        "name_fr": "Spitzfyre_FR"
+        "moves": []
     },
     {
         "id": "106",
@@ -4321,8 +4215,7 @@
             "rangedDefense": 80,
             "speed": 190
         },
-        "moves": [],
-        "name_fr": "Icepeck_FR"
+        "moves": []
     },
     {
         "id": "107",
@@ -4341,8 +4234,7 @@
             "rangedDefense": 90,
             "speed": 200
         },
-        "moves": [],
-        "name_fr": "Cryoshear_FR"
+        "moves": []
     },
     {
         "id": "108",
@@ -4361,8 +4253,7 @@
             "rangedDefense": 90,
             "speed": 150
         },
-        "moves": [],
-        "name_fr": "Sparktan_FR"
+        "moves": []
     },
     {
         "id": "109",
@@ -4381,8 +4272,7 @@
             "rangedDefense": 130,
             "speed": 200
         },
-        "moves": [],
-        "name_fr": "Zeustrike_FR"
+        "moves": []
     },
     {
         "id": "110",
@@ -4401,8 +4291,7 @@
             "rangedDefense": 115,
             "speed": 115
         },
-        "moves": [],
-        "name_fr": "Kuneko_FR"
+        "moves": []
     },
     {
         "id": "111",
@@ -4421,8 +4310,7 @@
             "rangedDefense": 140,
             "speed": 140
         },
-        "moves": [],
-        "name_fr": "Shining Kuneko_FR"
+        "moves": []
     },
     {
         "id": "112",
@@ -4441,8 +4329,7 @@
             "rangedDefense": 100,
             "speed": 150
         },
-        "moves": [],
-        "name_fr": "Djinn Entonic_FR"
+        "moves": []
     },
     {
         "id": "113",
@@ -4461,8 +4348,7 @@
             "rangedDefense": 100,
             "speed": 250
         },
-        "moves": [],
-        "name_fr": "Arkidd_FR"
+        "moves": []
     },
     {
         "id": "114",
@@ -4481,8 +4367,7 @@
             "rangedDefense": 110,
             "speed": 110
         },
-        "moves": [],
-        "name_fr": "Undyin_FR"
+        "moves": []
     },
     {
         "id": "115",
@@ -4501,8 +4386,7 @@
             "rangedDefense": 130,
             "speed": 100
         },
-        "moves": [],
-        "name_fr": "Spooki-onna_FR"
+        "moves": []
     },
     {
         "id": "116",
@@ -4521,8 +4405,7 @@
             "rangedDefense": 250,
             "speed": 79
         },
-        "moves": [],
-        "name_fr": "Khepri_FR"
+        "moves": []
     },
     {
         "id": "117",
@@ -4541,8 +4424,7 @@
             "rangedDefense": 150,
             "speed": 190
         },
-        "moves": [],
-        "name_fr": "Averevoir_FR"
+        "moves": []
     },
     {
         "id": "118",
@@ -4561,8 +4443,7 @@
             "rangedDefense": 90,
             "speed": 220
         },
-        "moves": [],
-        "name_fr": "Glaistain_FR"
+        "moves": []
     },
     {
         "id": "119",
@@ -4581,8 +4462,7 @@
             "rangedDefense": 110,
             "speed": 150
         },
-        "moves": [],
-        "name_fr": "Miss Mimic_FR"
+        "moves": []
     },
     {
         "id": "120",
@@ -4601,8 +4481,7 @@
             "rangedDefense": 130,
             "speed": 85
         },
-        "moves": [],
-        "name_fr": "Anathema_FR"
+        "moves": []
     },
     {
         "id": "121",
@@ -4621,8 +4500,7 @@
             "rangedDefense": 105,
             "speed": 190
         },
-        "moves": [],
-        "name_fr": "Pinbolt_FR"
+        "moves": []
     },
     {
         "id": "122",
@@ -4641,8 +4519,7 @@
             "rangedDefense": 135,
             "speed": 130
         },
-        "moves": [],
-        "name_fr": "Diveberg_FR"
+        "moves": []
     },
     {
         "id": "123",
@@ -4661,8 +4538,7 @@
             "rangedDefense": 180,
             "speed": 100
         },
-        "moves": [],
-        "name_fr": "Adeptile_FR"
+        "moves": []
     },
     {
         "id": "124",
@@ -4681,8 +4557,7 @@
             "rangedDefense": 120,
             "speed": 90
         },
-        "moves": [],
-        "name_fr": "Trapwurm_FR"
+        "moves": []
     },
     {
         "id": "125",
@@ -4701,8 +4576,7 @@
             "rangedDefense": 130,
             "speed": 100
         },
-        "moves": [],
-        "name_fr": "Wyrmaw_FR"
+        "moves": []
     },
     {
         "id": "126",
@@ -4721,8 +4595,7 @@
             "rangedDefense": 140,
             "speed": 140
         },
-        "moves": [],
-        "name_fr": "Ferriclaw_FR"
+        "moves": []
     },
     {
         "id": "127",
@@ -4741,8 +4614,7 @@
             "rangedDefense": 170,
             "speed": 160
         },
-        "moves": [],
-        "name_fr": "Auriclaw_FR"
+        "moves": []
     },
     {
         "id": "128",
@@ -4761,8 +4633,7 @@
             "rangedDefense": 130,
             "speed": 150
         },
-        "moves": [],
-        "name_fr": "Picksie_FR"
+        "moves": []
     },
     {
         "id": "???",
@@ -4781,8 +4652,7 @@
             "rangedDefense": 80,
             "speed": 80
         },
-        "moves": [],
-        "name_fr": "Amphare_FR"
+        "moves": []
     },
     {
         "id": "???",
@@ -4801,8 +4671,7 @@
             "rangedDefense": 100,
             "speed": 130
         },
-        "moves": [],
-        "name_fr": "Blunderbusk_FR"
+        "moves": []
     },
     {
         "id": "???",
@@ -4821,8 +4690,7 @@
             "rangedDefense": 100,
             "speed": 110
         },
-        "moves": [],
-        "name_fr": "Charlequin_FR"
+        "moves": []
     },
     {
         "id": "???",
@@ -4841,8 +4709,7 @@
             "rangedDefense": 160,
             "speed": 130
         },
-        "moves": [],
-        "name_fr": "Fragliacci_FR"
+        "moves": []
     },
     {
         "id": "???",
@@ -4861,8 +4728,7 @@
             "rangedDefense": 80,
             "speed": 100
         },
-        "moves": [],
-        "name_fr": "Hauntome_FR"
+        "moves": []
     },
     {
         "id": "???",
@@ -4881,8 +4747,7 @@
             "rangedDefense": 150,
             "speed": 100
         },
-        "moves": [],
-        "name_fr": "Lapacitor_FR"
+        "moves": []
     },
     {
         "id": "???",
@@ -4901,8 +4766,7 @@
             "rangedDefense": 100,
             "speed": 100
         },
-        "moves": [],
-        "name_fr": "Littlered_FR"
+        "moves": []
     },
     {
         "id": "???",
@@ -4921,8 +4785,7 @@
             "rangedDefense": 110,
             "speed": 130
         },
-        "moves": [],
-        "name_fr": "Majortom_FR"
+        "moves": []
     },
     {
         "id": "???",
@@ -4941,8 +4804,7 @@
             "rangedDefense": 70,
             "speed": 70
         },
-        "moves": [],
-        "name_fr": "Minortom_FR"
+        "moves": []
     },
     {
         "id": "???",
@@ -4961,8 +4823,7 @@
             "rangedDefense": 110,
             "speed": 160
         },
-        "moves": [],
-        "name_fr": "Rosehood_FR"
+        "moves": []
     },
     {
         "id": "???",
@@ -4981,8 +4842,7 @@
             "rangedDefense": 160,
             "speed": 110
         },
-        "moves": [],
-        "name_fr": "Scarleteeth_FR"
+        "moves": []
     },
     {
         "id": "???",
@@ -5001,7 +4861,6 @@
             "rangedDefense": 200,
             "speed": 60
         },
-        "moves": [],
-        "name_fr": "Umbrahella_FR"
+        "moves": []
     }
 ]
