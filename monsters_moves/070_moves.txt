@@ -1,0 +1,14 @@
+https://wiki.cassettebeasts.com/images/3/3f/Fungogh.png
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Plastic Coating	Plastic	Status Effect	—	100%	2 AP
+Initial	Paint Swipe	Typeless	Melee Attack	90	100%	1 AP
+Initial	Elemental Wall	Typeless	Status Effect	—	100%	2 AP
+Initial	Water Coating	Water	Status Effect	—	100%	2 AP
+Initial	Poison Pollen	Plant	Status Effect	—	100%	1 AP
+Initial	Snooze Spore	Plant	Status Effect	—	50%	2 AP
+Initial	Leech	Plant	Status Effect	—	100%	1 AP
+Star-white.png	Throw	Typeless	Ranged Attack	50	100%	0 AP
+Star-white.pngStar-white.png	Glitter Bomb	Glitter	Ranged Attack	30	100%	0 AP
+Star-white.pngStar-white.pngStar-white.png	Woodcutter	Plant	Melee Attack	40	100%	3 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Doc Leaf	Plant	Status Effect	—	100%	1 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	The Old 1-2	Typeless	Melee Attack	60	100%	5 AP

@@ -1,3 +1,4 @@
+https://wiki.cassettebeasts.com/images/1/1a/Mothmanic.png
 Initial	Spit	Typeless	Ranged Attack	30	100%	0 AP
 Initial	Zephyr	Air	Ranged Attack	60	100%	2 AP
 Initial	Dodge	Typeless	Status Effect	—	100%	1 AP

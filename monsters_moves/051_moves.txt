@@ -1,0 +1,8 @@
+https://wiki.cassettebeasts.com/images/8/81/Thwackalope.png
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Sprint	Typeless	Status Effect	—	100%	1 AP
+Star-white.png	Zoomies	Beast	Melee Attack	30	100%	1 AP
+Star-white.pngStar-white.png	Charge	Lightning	Melee Attack	60	100%	2 AP
+Star-white.pngStar-white.pngStar-white.png	Air Wall	Air	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Clobber	Typeless	Melee Attack	60	100%	5 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Pole Vault Assault	Air	Melee Attack	90	100%	7 AP

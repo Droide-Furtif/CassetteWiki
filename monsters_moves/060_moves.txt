@@ -1,0 +1,13 @@
+https://wiki.cassettebeasts.com/images/e/ef/Pyromeleon.png
+Initial	Spit	Typeless	Ranged Attack	30	100%	0 AP
+Initial	Raise Arms	Typeless	Status Effect	—	100%	1 AP
+Initial	Inflame	Fire	Ranged Attack	60	100%	2 AP
+Initial	Damage Roll	Typeless	Ranged Attack	9	100%	3 AP
+Initial	Roll Again	Typeless	Miscellaneous	—	100%	Passive
+Initial	Fire Wall	Fire	Status Effect	—	100%	2 AP
+Initial	Sure-Fire	Fire	Status Effect	—	100%	2 AP
+Star-white.png	Frozen Ground	Ice	Status Effect	—	Unavoidable	1 AP
+Star-white.pngStar-white.png	Guzzle Fuel	Fire	Miscellaneous	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.png	Crossfade	Typeless	Miscellaneous	—	100%	1 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Energy Wave	Typeless	Ranged Attack	60	100%	3 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Mind-Meld	Astral	Status Effect	—	Unavoidable	2 AP

@@ -6,7 +6,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Abramacabra_FR"
     },
     {
         "id": 2,
@@ -15,7 +16,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": "Unavoidable",
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Acid Reflex_FR"
     },
     {
         "id": 3,
@@ -24,7 +26,8 @@
         "category": "Ranged Attack",
         "power": 100,
         "accuracy": 75,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Acorn Mortar_FR"
     },
     {
         "id": 4,
@@ -33,7 +36,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Air Camouflage_FR"
     },
     {
         "id": 5,
@@ -42,7 +46,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Air Coating_FR"
     },
     {
         "id": 6,
@@ -51,7 +56,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Air Resistance_FR"
     },
     {
         "id": 7,
@@ -60,7 +66,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Air Wall_FR"
     },
     {
         "id": 8,
@@ -69,7 +76,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "AP Boost_FR"
     },
     {
         "id": 9,
@@ -78,7 +86,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": "Unavoidable",
-        "cost": 1
+        "cost": 1,
+        "name_fr": "AP Donate_FR"
     },
     {
         "id": 10,
@@ -87,7 +96,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "AP Drain_FR"
     },
     {
         "id": 11,
@@ -96,7 +106,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": "Unavoidable",
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "AP Factory_FR"
     },
     {
         "id": 12,
@@ -105,7 +116,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "AP Refund_FR"
     },
     {
         "id": 13,
@@ -114,7 +126,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "AP Starter_FR"
     },
     {
         "id": 14,
@@ -123,7 +136,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 70,
-        "cost": 0
+        "cost": 0,
+        "name_fr": "AP Steal_FR"
     },
     {
         "id": 15,
@@ -132,7 +146,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Astral Camouflage_FR"
     },
     {
         "id": 16,
@@ -141,7 +156,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Astral Coating_FR"
     },
     {
         "id": 17,
@@ -150,7 +166,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Astral Resistance_FR"
     },
     {
         "id": 18,
@@ -159,7 +176,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Astral Wall_FR"
     },
     {
         "id": 19,
@@ -168,7 +186,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Automation_FR"
     },
     {
         "id": 20,
@@ -177,7 +196,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": "Unavoidable",
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Avalanche_FR"
     },
     {
         "id": 21,
@@ -186,7 +206,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 50,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Bad Forecast_FR"
     },
     {
         "id": 22,
@@ -195,7 +216,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": "Unavoidable",
-        "cost": 0
+        "cost": 0,
+        "name_fr": "Bad Joke_FR"
     },
     {
         "id": 23,
@@ -204,7 +226,8 @@
         "category": "Melee Attack",
         "power": 70,
         "accuracy": 85,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Battering Ram_FR"
     },
     {
         "id": 24,
@@ -213,7 +236,8 @@
         "category": "Melee Attack",
         "power": 40,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Battery_FR"
     },
     {
         "id": 25,
@@ -222,7 +246,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": 0
+        "cost": 0,
+        "name_fr": "bE rAnDoM!!_FR"
     },
     {
         "id": 26,
@@ -231,7 +256,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Beast Camouflage_FR"
     },
     {
         "id": 27,
@@ -240,7 +266,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Beast Coating_FR"
     },
     {
         "id": 28,
@@ -249,7 +276,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Beast Resistance_FR"
     },
     {
         "id": 29,
@@ -258,7 +286,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Beast Wall_FR"
     },
     {
         "id": 30,
@@ -267,7 +296,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Berserker_FR"
     },
     {
         "id": 31,
@@ -276,7 +306,8 @@
         "category": "Ranged Attack",
         "power": 30,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Binvasion_FR"
     },
     {
         "id": 32,
@@ -285,7 +316,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 50,
-        "cost": 4
+        "cost": 4,
+        "name_fr": "Binvitation_FR"
     },
     {
         "id": 33,
@@ -294,7 +326,8 @@
         "category": "Melee Attack",
         "power": 60,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Bish Bash Bosh_FR"
     },
     {
         "id": 34,
@@ -303,7 +336,8 @@
         "category": "Melee Attack",
         "power": 80,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Bite_FR"
     },
     {
         "id": 35,
@@ -312,7 +346,8 @@
         "category": "Ranged Attack",
         "power": 60,
         "accuracy": 100,
-        "cost": 5
+        "cost": 5,
+        "name_fr": "Blizzard_FR"
     },
     {
         "id": 36,
@@ -321,7 +356,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": "Unavoidable",
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Blood Donation_FR"
     },
     {
         "id": 37,
@@ -330,7 +366,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": "Unavoidable",
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Bloodlust_FR"
     },
     {
         "id": 38,
@@ -339,7 +376,8 @@
         "category": "Melee Attack",
         "power": 90,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Boil_FR"
     },
     {
         "id": 39,
@@ -348,7 +386,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 50,
-        "cost": 4
+        "cost": 4,
+        "name_fr": "Bolt From The Blue_FR"
     },
     {
         "id": 40,
@@ -357,7 +396,8 @@
         "category": "Ranged Attack",
         "power": 70,
         "accuracy": 85,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Bon Bon Blast_FR"
     },
     {
         "id": 41,
@@ -366,7 +406,8 @@
         "category": "Ranged Attack",
         "power": 40,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Bone Cannon_FR"
     },
     {
         "id": 42,
@@ -375,7 +416,8 @@
         "category": "Miscellaneous",
         "power": 30,
         "accuracy": 100,
-        "cost": 0
+        "cost": 0,
+        "name_fr": "Booby Trap_FR"
     },
     {
         "id": 43,
@@ -384,7 +426,8 @@
         "category": "Ranged Attack",
         "power": 40,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Bottle Volley_FR"
     },
     {
         "id": 44,
@@ -393,7 +436,8 @@
         "category": "Melee Attack",
         "power": 120,
         "accuracy": 100,
-        "cost": 4
+        "cost": 4,
+        "name_fr": "Brace for Impact_FR"
     },
     {
         "id": 45,
@@ -402,7 +446,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 50,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Breathing Technique_FR"
     },
     {
         "id": 46,
@@ -411,7 +456,8 @@
         "category": "Ranged Attack",
         "power": 40,
         "accuracy": 100,
-        "cost": 4
+        "cost": 4,
+        "name_fr": "Brick Blast_FR"
     },
     {
         "id": 47,
@@ -420,7 +466,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Broadcast_FR"
     },
     {
         "id": 48,
@@ -429,7 +476,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Burning Passion_FR"
     },
     {
         "id": 49,
@@ -438,7 +486,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": "Unavoidable",
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Bushfire_FR"
     },
     {
         "id": 50,
@@ -447,7 +496,8 @@
         "category": "Ranged Attack",
         "power": 30,
         "accuracy": 100,
-        "cost": 0
+        "cost": 0,
+        "name_fr": "Butterfly Effect_FR"
     },
     {
         "id": 51,
@@ -456,7 +506,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 50,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Call For Help_FR"
     },
     {
         "id": 52,
@@ -465,7 +516,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Carnivore_FR"
     },
     {
         "id": 53,
@@ -474,7 +526,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": "Unavoidable",
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Change the Record_FR"
     },
     {
         "id": 54,
@@ -483,7 +536,8 @@
         "category": "Melee Attack",
         "power": 60,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Charge_FR"
     },
     {
         "id": 55,
@@ -492,7 +546,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Chemical Imbalance_FR"
     },
     {
         "id": 56,
@@ -501,7 +556,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": "Unavoidable",
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Clay-Fired_FR"
     },
     {
         "id": 57,
@@ -510,7 +566,8 @@
         "category": "Melee Attack",
         "power": 60,
         "accuracy": 100,
-        "cost": 5
+        "cost": 5,
+        "name_fr": "Clobber_FR"
     },
     {
         "id": 58,
@@ -519,7 +576,8 @@
         "category": "Melee Attack",
         "power": 120,
         "accuracy": 100,
-        "cost": 5
+        "cost": 5,
+        "name_fr": "Clockwork Mouse_FR"
     },
     {
         "id": 59,
@@ -528,7 +586,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Close Encounter_FR"
     },
     {
         "id": 60,
@@ -537,7 +596,8 @@
         "category": "Ranged Attack",
         "power": 30,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Coal Story_FR"
     },
     {
         "id": 61,
@@ -546,7 +606,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": "Unavoidable",
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Cold Fusion_FR"
     },
     {
         "id": 62,
@@ -555,7 +616,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Compliment_FR"
     },
     {
         "id": 63,
@@ -564,7 +626,8 @@
         "category": "Melee Attack",
         "power": 60,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Copper Chop_FR"
     },
     {
         "id": 64,
@@ -573,7 +636,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": "Unavoidable",
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Copy That_FR"
     },
     {
         "id": 65,
@@ -582,7 +646,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": 0
+        "cost": 0,
+        "name_fr": "Copycat_FR"
     },
     {
         "id": 66,
@@ -591,7 +656,8 @@
         "category": "Ranged Attack",
         "power": 150,
         "accuracy": 100,
-        "cost": 10
+        "cost": 10,
+        "name_fr": "Cosmic Kunai_FR"
     },
     {
         "id": 67,
@@ -600,7 +666,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": "Unavoidable",
-        "cost": 4
+        "cost": 4,
+        "name_fr": "Cotton On_FR"
     },
     {
         "id": 68,
@@ -609,7 +676,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Critical AP_FR"
     },
     {
         "id": 69,
@@ -618,7 +686,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Critical Mass_FR"
     },
     {
         "id": 70,
@@ -627,7 +696,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Criticise_FR"
     },
     {
         "id": 71,
@@ -636,7 +706,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Crossfade_FR"
     },
     {
         "id": 72,
@@ -645,7 +716,8 @@
         "category": "Ranged Attack",
         "power": 30,
         "accuracy": "Unavoidable",
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Crumble_FR"
     },
     {
         "id": 73,
@@ -654,7 +726,8 @@
         "category": "Ranged Attack",
         "power": 60,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Crystal Lens_FR"
     },
     {
         "id": 74,
@@ -663,7 +736,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Custom Starter_FR"
     },
     {
         "id": 75,
@@ -672,7 +746,8 @@
         "category": "Ranged Attack",
         "power": 9,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Damage Roll_FR"
     },
     {
         "id": 76,
@@ -681,7 +756,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Deep Freeze_FR"
     },
     {
         "id": 77,
@@ -690,7 +766,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Defend_FR"
     },
     {
         "id": 78,
@@ -699,7 +776,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Delegate_FR"
     },
     {
         "id": 79,
@@ -708,7 +786,8 @@
         "category": "Melee Attack",
         "power": 20,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Desperation_FR"
     },
     {
         "id": 80,
@@ -717,7 +796,8 @@
         "category": "Ranged Attack",
         "power": 90,
         "accuracy": 100,
-        "cost": 4
+        "cost": 4,
+        "name_fr": "Djinntoxicate_FR"
     },
     {
         "id": 81,
@@ -726,7 +806,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Doc Leaf_FR"
     },
     {
         "id": 82,
@@ -735,7 +816,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Dodge_FR"
     },
     {
         "id": 83,
@@ -744,7 +826,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": 4
+        "cost": 4,
+        "name_fr": "Dog Years_FR"
     },
     {
         "id": 84,
@@ -753,7 +836,8 @@
         "category": "Melee Attack",
         "power": 30,
         "accuracy": 100,
-        "cost": 4
+        "cost": 4,
+        "name_fr": "Double Slice_FR"
     },
     {
         "id": 85,
@@ -762,7 +846,8 @@
         "category": "Melee Attack",
         "power": 30,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Double Smack_FR"
     },
     {
         "id": 86,
@@ -771,16 +856,18 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Dual Wield_FR"
     },
     {
         "id": 87,
-        "name": "Déjà Vu",
+        "name": "D\u00e9j\u00e0 Vu",
         "type": "Astral",
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "D\u00e9j\u00e0 Vu_FR"
     },
     {
         "id": 88,
@@ -789,7 +876,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Earth Camouflage_FR"
     },
     {
         "id": 89,
@@ -798,7 +886,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Earth Coating_FR"
     },
     {
         "id": 90,
@@ -807,7 +896,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Earth Resistance_FR"
     },
     {
         "id": 91,
@@ -816,7 +906,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Earth Wall_FR"
     },
     {
         "id": 92,
@@ -825,7 +916,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Echolocation_FR"
     },
     {
         "id": 93,
@@ -834,7 +926,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Elemental Coating_FR"
     },
     {
         "id": 94,
@@ -843,7 +936,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Elemental Wall_FR"
     },
     {
         "id": 95,
@@ -852,7 +946,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Energy Reserves_FR"
     },
     {
         "id": 96,
@@ -861,7 +956,8 @@
         "category": "Ranged Attack",
         "power": 60,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Energy Shot_FR"
     },
     {
         "id": 97,
@@ -870,7 +966,8 @@
         "category": "Ranged Attack",
         "power": 60,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Energy Wave_FR"
     },
     {
         "id": 98,
@@ -879,7 +976,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": "Unavoidable",
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Fair Fight_FR"
     },
     {
         "id": 99,
@@ -888,7 +986,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Final Breath_FR"
     },
     {
         "id": 100,
@@ -897,7 +996,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Fire Camouflage_FR"
     },
     {
         "id": 101,
@@ -906,7 +1006,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Fire Coating_FR"
     },
     {
         "id": 102,
@@ -915,7 +1016,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Fire Wall_FR"
     },
     {
         "id": 103,
@@ -924,7 +1026,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Fireproof_FR"
     },
     {
         "id": 104,
@@ -933,7 +1036,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Fission Power_FR"
     },
     {
         "id": 105,
@@ -942,7 +1046,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Flirt_FR"
     },
     {
         "id": 106,
@@ -951,7 +1056,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Focus_FR"
     },
     {
         "id": 107,
@@ -960,7 +1066,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": "Unavoidable",
-        "cost": 4
+        "cost": 4,
+        "name_fr": "Fog_FR"
     },
     {
         "id": 108,
@@ -969,7 +1076,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Fossil_FR"
     },
     {
         "id": 109,
@@ -978,7 +1086,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": "Unavoidable",
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Frozen Ground_FR"
     },
     {
         "id": 110,
@@ -987,7 +1096,8 @@
         "category": "Miscellaneous",
         "power": 200,
         "accuracy": 100,
-        "cost": 10
+        "cost": 10,
+        "name_fr": "Fusion Power_FR"
     },
     {
         "id": 111,
@@ -996,7 +1106,8 @@
         "category": "Melee Attack",
         "power": 90,
         "accuracy": "Unavoidable",
-        "cost": 4
+        "cost": 4,
+        "name_fr": "Galactic Beatdown_FR"
     },
     {
         "id": 112,
@@ -1005,7 +1116,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Gambit_FR"
     },
     {
         "id": 113,
@@ -1014,7 +1126,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Gasoline Spray_FR"
     },
     {
         "id": 114,
@@ -1023,7 +1136,8 @@
         "category": "Ranged Attack",
         "power": 50,
         "accuracy": 100,
-        "cost": 10
+        "cost": 10,
+        "name_fr": "Gear Shear_FR"
     },
     {
         "id": 115,
@@ -1032,7 +1146,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Gemstone Wall_FR"
     },
     {
         "id": 116,
@@ -1041,7 +1156,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Glass Bonds_FR"
     },
     {
         "id": 117,
@@ -1050,7 +1166,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Glass Camouflage_FR"
     },
     {
         "id": 118,
@@ -1059,7 +1176,8 @@
         "category": "Ranged Attack",
         "power": 120,
         "accuracy": 100,
-        "cost": 4
+        "cost": 4,
+        "name_fr": "Glass Cannon_FR"
     },
     {
         "id": 119,
@@ -1068,7 +1186,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Glass Coating_FR"
     },
     {
         "id": 120,
@@ -1077,7 +1196,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Glass Resistance_FR"
     },
     {
         "id": 121,
@@ -1086,7 +1206,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Glass Wall_FR"
     },
     {
         "id": 122,
@@ -1095,7 +1216,8 @@
         "category": "Ranged Attack",
         "power": 30,
         "accuracy": 100,
-        "cost": 0
+        "cost": 0,
+        "name_fr": "Glitter Bomb_FR"
     },
     {
         "id": 123,
@@ -1104,7 +1226,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Glitter Resistance_FR"
     },
     {
         "id": 124,
@@ -1113,7 +1236,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Grounded_FR"
     },
     {
         "id": 125,
@@ -1122,7 +1246,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Guzzle Fuel_FR"
     },
     {
         "id": 126,
@@ -1131,7 +1256,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Hardback_FR"
     },
     {
         "id": 127,
@@ -1140,7 +1266,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Haunt_FR"
     },
     {
         "id": 128,
@@ -1149,7 +1276,8 @@
         "category": "Ranged Attack",
         "power": 200,
         "accuracy": 100,
-        "cost": 10
+        "cost": 10,
+        "name_fr": "Headshot_FR"
     },
     {
         "id": 129,
@@ -1158,7 +1286,8 @@
         "category": "Melee Attack",
         "power": 90,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Heroic Blade_FR"
     },
     {
         "id": 130,
@@ -1167,7 +1296,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Hibernate_FR"
     },
     {
         "id": 131,
@@ -1176,7 +1306,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Hot Potato_FR"
     },
     {
         "id": 132,
@@ -1185,7 +1316,8 @@
         "category": "Ranged Attack",
         "power": 90,
         "accuracy": 100,
-        "cost": 5
+        "cost": 5,
+        "name_fr": "Hurricane_FR"
     },
     {
         "id": 133,
@@ -1194,7 +1326,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 50,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Hypnotise_FR"
     },
     {
         "id": 134,
@@ -1203,7 +1336,8 @@
         "category": "Melee Attack",
         "power": 90,
         "accuracy": 100,
-        "cost": 4
+        "cost": 4,
+        "name_fr": "Ice Breaker_FR"
     },
     {
         "id": 135,
@@ -1212,7 +1346,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Ice Camouflage_FR"
     },
     {
         "id": 136,
@@ -1221,7 +1356,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Ice Coating_FR"
     },
     {
         "id": 137,
@@ -1230,7 +1366,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Ice Resistance_FR"
     },
     {
         "id": 138,
@@ -1239,7 +1376,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Ice Wall_FR"
     },
     {
         "id": 139,
@@ -1248,7 +1386,8 @@
         "category": "Ranged Attack",
         "power": 70,
         "accuracy": 85,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Icicle Dart_FR"
     },
     {
         "id": 140,
@@ -1257,7 +1396,8 @@
         "category": "Melee Attack",
         "power": 40,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Incinerate_FR"
     },
     {
         "id": 141,
@@ -1266,7 +1406,8 @@
         "category": "Ranged Attack",
         "power": 60,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Inflame_FR"
     },
     {
         "id": 142,
@@ -1275,7 +1416,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 70,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Insomnia_FR"
     },
     {
         "id": 143,
@@ -1284,7 +1426,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Ionised Air_FR"
     },
     {
         "id": 144,
@@ -1293,7 +1436,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Iron Filings_FR"
     },
     {
         "id": 145,
@@ -1302,7 +1446,8 @@
         "category": "Melee Attack",
         "power": 40,
         "accuracy": "Unavoidable",
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Jagged Edge_FR"
     },
     {
         "id": 146,
@@ -1311,7 +1456,8 @@
         "category": "Melee Attack",
         "power": 30,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Jump Scare_FR"
     },
     {
         "id": 147,
@@ -1320,7 +1466,8 @@
         "category": "Melee Attack",
         "power": 200,
         "accuracy": 100,
-        "cost": 10
+        "cost": 10,
+        "name_fr": "Last Rites_FR"
     },
     {
         "id": 148,
@@ -1329,7 +1476,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Leech_FR"
     },
     {
         "id": 149,
@@ -1338,7 +1486,8 @@
         "category": "Melee Attack",
         "power": 30,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Life Absorb_FR"
     },
     {
         "id": 150,
@@ -1347,7 +1496,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Liftoff_FR"
     },
     {
         "id": 151,
@@ -1356,7 +1506,8 @@
         "category": "Ranged Attack",
         "power": 90,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Lightning Bolt_FR"
     },
     {
         "id": 152,
@@ -1365,7 +1516,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Lightning Camouflage_FR"
     },
     {
         "id": 153,
@@ -1374,7 +1526,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Lightning Coating_FR"
     },
     {
         "id": 154,
@@ -1383,7 +1536,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Lightning Wall_FR"
     },
     {
         "id": 155,
@@ -1392,7 +1546,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Liquid Body_FR"
     },
     {
         "id": 156,
@@ -1401,7 +1556,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Machine Curse_FR"
     },
     {
         "id": 157,
@@ -1410,7 +1566,8 @@
         "category": "Ranged Attack",
         "power": 70,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Magic Tome_FR"
     },
     {
         "id": 158,
@@ -1419,7 +1576,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Magnet_FR"
     },
     {
         "id": 159,
@@ -1428,7 +1586,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Meditate_FR"
     },
     {
         "id": 160,
@@ -1437,7 +1596,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Metal Camouflage_FR"
     },
     {
         "id": 161,
@@ -1446,7 +1606,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Metal Coating_FR"
     },
     {
         "id": 162,
@@ -1455,7 +1616,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Metal Resistance_FR"
     },
     {
         "id": 163,
@@ -1464,7 +1626,8 @@
         "category": "Ranged Attack",
         "power": 60,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Metal Riff_FR"
     },
     {
         "id": 164,
@@ -1473,7 +1636,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Metal Wall_FR"
     },
     {
         "id": 165,
@@ -1482,7 +1646,8 @@
         "category": "Ranged Attack",
         "power": 20,
         "accuracy": 100,
-        "cost": 4
+        "cost": 4,
+        "name_fr": "Meteor Barrage_FR"
     },
     {
         "id": 166,
@@ -1491,7 +1656,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": "Unavoidable",
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Mind-Meld_FR"
     },
     {
         "id": 167,
@@ -1500,7 +1666,8 @@
         "category": "Ranged Attack",
         "power": 30,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Moonshine_FR"
     },
     {
         "id": 168,
@@ -1509,7 +1676,8 @@
         "category": "Melee Attack",
         "power": 90,
         "accuracy": 100,
-        "cost": 4
+        "cost": 4,
+        "name_fr": "Mountain Smash_FR"
     },
     {
         "id": 169,
@@ -1518,7 +1686,8 @@
         "category": "Ranged Attack",
         "power": 20,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Multi Shot_FR"
     },
     {
         "id": 170,
@@ -1527,7 +1696,8 @@
         "category": "Melee Attack",
         "power": 20,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Multi Smack_FR"
     },
     {
         "id": 171,
@@ -1536,7 +1706,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Multicopy_FR"
     },
     {
         "id": 172,
@@ -1545,7 +1716,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Neutralise_FR"
     },
     {
         "id": 173,
@@ -1554,7 +1726,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": "Unavoidable",
-        "cost": 3
+        "cost": 3,
+        "name_fr": "New Leaf_FR"
     },
     {
         "id": 174,
@@ -1563,7 +1736,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Nod_FR"
     },
     {
         "id": 175,
@@ -1572,7 +1746,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": "Unavoidable",
-        "cost": 5
+        "cost": 5,
+        "name_fr": "Nurse_FR"
     },
     {
         "id": 176,
@@ -1581,7 +1756,8 @@
         "category": "Melee Attack",
         "power": 90,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Paint Swipe_FR"
     },
     {
         "id": 177,
@@ -1590,7 +1766,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Parry Stance_FR"
     },
     {
         "id": 178,
@@ -1599,7 +1776,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Peekaboo_FR"
     },
     {
         "id": 179,
@@ -1608,7 +1786,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Phase Shift_FR"
     },
     {
         "id": 180,
@@ -1617,7 +1796,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Pity AP_FR"
     },
     {
         "id": 181,
@@ -1626,7 +1806,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Plant Camouflage_FR"
     },
     {
         "id": 182,
@@ -1635,7 +1816,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Plant Coating_FR"
     },
     {
         "id": 183,
@@ -1644,7 +1826,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Plant Resistance_FR"
     },
     {
         "id": 184,
@@ -1653,7 +1836,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Plant Wall_FR"
     },
     {
         "id": 185,
@@ -1662,7 +1846,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Plastic Camouflage_FR"
     },
     {
         "id": 186,
@@ -1671,7 +1856,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Plastic Coating_FR"
     },
     {
         "id": 187,
@@ -1680,7 +1866,8 @@
         "category": "Melee Attack",
         "power": 40,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Plastic Knife_FR"
     },
     {
         "id": 188,
@@ -1689,7 +1876,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Plastic Resistance_FR"
     },
     {
         "id": 189,
@@ -1698,7 +1886,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Plastic Wall_FR"
     },
     {
         "id": 190,
@@ -1707,7 +1896,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Poison Camouflage_FR"
     },
     {
         "id": 191,
@@ -1716,7 +1906,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Poison Coating_FR"
     },
     {
         "id": 192,
@@ -1725,7 +1916,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Poison Pollen_FR"
     },
     {
         "id": 193,
@@ -1734,7 +1926,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Poison Resistance_FR"
     },
     {
         "id": 194,
@@ -1743,7 +1936,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Poison Wall_FR"
     },
     {
         "id": 195,
@@ -1752,7 +1946,8 @@
         "category": "Melee Attack",
         "power": 90,
         "accuracy": 100,
-        "cost": 7
+        "cost": 7,
+        "name_fr": "Pole Vault Assault_FR"
     },
     {
         "id": 196,
@@ -1761,7 +1956,8 @@
         "category": "Melee Attack",
         "power": 30,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Pre-emptive Strike_FR"
     },
     {
         "id": 197,
@@ -1770,7 +1966,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": "Unavoidable",
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Prismatic_FR"
     },
     {
         "id": 198,
@@ -1779,7 +1976,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Provoke_FR"
     },
     {
         "id": 199,
@@ -1788,7 +1986,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": "Unavoidable",
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Pumpkin Pie_FR"
     },
     {
         "id": 200,
@@ -1797,7 +1996,8 @@
         "category": "Ranged Attack",
         "power": 60,
         "accuracy": 100,
-        "cost": 4
+        "cost": 4,
+        "name_fr": "Pustule Bomb_FR"
     },
     {
         "id": 201,
@@ -1806,7 +2006,8 @@
         "category": "Melee Attack",
         "power": 30,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Quick Smack_FR"
     },
     {
         "id": 202,
@@ -1815,7 +2016,8 @@
         "category": "Ranged Attack",
         "power": 20,
         "accuracy": 100,
-        "cost": 4
+        "cost": 4,
+        "name_fr": "Radiation Breath_FR"
     },
     {
         "id": 203,
@@ -1824,7 +2026,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": "Unavoidable",
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Radioactive_FR"
     },
     {
         "id": 204,
@@ -1833,7 +2036,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Raise Arms_FR"
     },
     {
         "id": 205,
@@ -1842,7 +2046,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Raise Shields_FR"
     },
     {
         "id": 206,
@@ -1851,7 +2056,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Random Starter_FR"
     },
     {
         "id": 207,
@@ -1860,7 +2066,8 @@
         "category": "Ranged Attack",
         "power": 30,
         "accuracy": 100,
-        "cost": 5
+        "cost": 5,
+        "name_fr": "Rapid Fire_FR"
     },
     {
         "id": 208,
@@ -1869,7 +2076,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": 0
+        "cost": 0,
+        "name_fr": "Recycle_FR"
     },
     {
         "id": 209,
@@ -1878,7 +2086,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": "Unavoidable",
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Retribution_FR"
     },
     {
         "id": 210,
@@ -1887,7 +2096,8 @@
         "category": "Ranged Attack",
         "power": 15,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Return Fire_FR"
     },
     {
         "id": 211,
@@ -1896,7 +2106,8 @@
         "category": "Melee Attack",
         "power": 15,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Revenge Strike_FR"
     },
     {
         "id": 212,
@@ -1905,7 +2116,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Revolving Door_FR"
     },
     {
         "id": 213,
@@ -1914,7 +2126,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Ricochet_FR"
     },
     {
         "id": 214,
@@ -1923,7 +2136,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 6
+        "cost": 6,
+        "name_fr": "Ritual_FR"
     },
     {
         "id": 215,
@@ -1932,7 +2146,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Roll Again_FR"
     },
     {
         "id": 216,
@@ -1941,7 +2156,8 @@
         "category": "Ranged Attack",
         "power": 60,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Sandstorm_FR"
     },
     {
         "id": 217,
@@ -1950,7 +2166,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Scorch_FR"
     },
     {
         "id": 218,
@@ -1959,7 +2176,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 70,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Self-Assured_FR"
     },
     {
         "id": 219,
@@ -1968,7 +2186,8 @@
         "category": "Ranged Attack",
         "power": 60,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Self-Destruct_FR"
     },
     {
         "id": 220,
@@ -1977,7 +2196,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Sharp Edges_FR"
     },
     {
         "id": 221,
@@ -1986,7 +2206,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Sharpen_FR"
     },
     {
         "id": 222,
@@ -1995,7 +2216,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Shear Luck_FR"
     },
     {
         "id": 223,
@@ -2004,7 +2226,8 @@
         "category": "Melee Attack",
         "power": 90,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Shield Bash_FR"
     },
     {
         "id": 224,
@@ -2013,7 +2236,8 @@
         "category": "Ranged Attack",
         "power": 60,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Shooting Star_FR"
     },
     {
         "id": 225,
@@ -2022,7 +2246,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Shrapnel_FR"
     },
     {
         "id": 226,
@@ -2031,7 +2256,8 @@
         "category": "Melee Attack",
         "power": 60,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Silicon Slash_FR"
     },
     {
         "id": 227,
@@ -2040,7 +2266,8 @@
         "category": "Ranged Attack",
         "power": 120,
         "accuracy": 1,
-        "cost": 0
+        "cost": 0,
+        "name_fr": "Sleep Talk_FR"
     },
     {
         "id": 228,
@@ -2049,7 +2276,8 @@
         "category": "Melee Attack",
         "power": 120,
         "accuracy": 1,
-        "cost": 0
+        "cost": 0,
+        "name_fr": "Sleep Walk_FR"
     },
     {
         "id": 229,
@@ -2058,7 +2286,8 @@
         "category": "Melee Attack",
         "power": 30,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Slice_FR"
     },
     {
         "id": 230,
@@ -2067,7 +2296,8 @@
         "category": "Melee Attack",
         "power": 30,
         "accuracy": 100,
-        "cost": 0
+        "cost": 0,
+        "name_fr": "Smack_FR"
     },
     {
         "id": 231,
@@ -2076,7 +2306,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 50,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Snooze Spore_FR"
     },
     {
         "id": 232,
@@ -2085,7 +2316,8 @@
         "category": "Melee Attack",
         "power": 60,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Snow Rush_FR"
     },
     {
         "id": 233,
@@ -2094,7 +2326,8 @@
         "category": "Ranged Attack",
         "power": 60,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Sonic Boom_FR"
     },
     {
         "id": 234,
@@ -2103,7 +2336,8 @@
         "category": "Ranged Attack",
         "power": 30,
         "accuracy": 100,
-        "cost": 0
+        "cost": 0,
+        "name_fr": "Spit_FR"
     },
     {
         "id": 235,
@@ -2112,7 +2346,8 @@
         "category": "Melee Attack",
         "power": 15,
         "accuracy": "Unavoidable",
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Splinter_FR"
     },
     {
         "id": 236,
@@ -2121,7 +2356,8 @@
         "category": "Ranged Attack",
         "power": 30,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Spray_FR"
     },
     {
         "id": 237,
@@ -2130,7 +2366,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": "Unavoidable",
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Spring-Load_FR"
     },
     {
         "id": 238,
@@ -2139,7 +2376,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Sprint_FR"
     },
     {
         "id": 239,
@@ -2148,7 +2386,8 @@
         "category": "Melee Attack",
         "power": 100,
         "accuracy": 10,
-        "cost": 0
+        "cost": 0,
+        "name_fr": "Stab In The Dark_FR"
     },
     {
         "id": 240,
@@ -2157,7 +2396,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Status Resistance_FR"
     },
     {
         "id": 241,
@@ -2166,7 +2406,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Sticker Trick_FR"
     },
     {
         "id": 242,
@@ -2175,7 +2416,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Sticky Spray_FR"
     },
     {
         "id": 243,
@@ -2184,7 +2426,8 @@
         "category": "Melee Attack",
         "power": 40,
         "accuracy": 75,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Sticky Tongue_FR"
     },
     {
         "id": 244,
@@ -2193,7 +2436,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 50,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Stony Look_FR"
     },
     {
         "id": 245,
@@ -2202,7 +2446,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Sturdy Armour_FR"
     },
     {
         "id": 246,
@@ -2211,7 +2456,8 @@
         "category": "Ranged Attack",
         "power": 120,
         "accuracy": 75,
-        "cost": 4
+        "cost": 4,
+        "name_fr": "Suction Cup Dart_FR"
     },
     {
         "id": 247,
@@ -2220,7 +2466,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Sugar Rush_FR"
     },
     {
         "id": 248,
@@ -2229,7 +2476,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": "Unavoidable",
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Suit Up_FR"
     },
     {
         "id": 249,
@@ -2238,7 +2486,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 1,
-        "cost": 0
+        "cost": 0,
+        "name_fr": "Summon Tulpa_FR"
     },
     {
         "id": 250,
@@ -2247,7 +2496,8 @@
         "category": "Melee Attack",
         "power": 60,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Superheated Fist_FR"
     },
     {
         "id": 251,
@@ -2256,7 +2506,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Sure-Fire_FR"
     },
     {
         "id": 252,
@@ -2265,7 +2516,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Taunt_FR"
     },
     {
         "id": 253,
@@ -2274,7 +2526,8 @@
         "category": "Melee Attack",
         "power": 60,
         "accuracy": 100,
-        "cost": 5
+        "cost": 5,
+        "name_fr": "The Old 1-2_FR"
     },
     {
         "id": 254,
@@ -2283,7 +2536,8 @@
         "category": "Ranged Attack",
         "power": 50,
         "accuracy": 100,
-        "cost": 0
+        "cost": 0,
+        "name_fr": "Throw_FR"
     },
     {
         "id": 255,
@@ -2292,7 +2546,8 @@
         "category": "Ranged Attack",
         "power": 60,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Thunder Blast_FR"
     },
     {
         "id": 256,
@@ -2301,7 +2556,8 @@
         "category": "Ranged Attack",
         "power": 40,
         "accuracy": 100,
-        "cost": 4
+        "cost": 4,
+        "name_fr": "Torrent_FR"
     },
     {
         "id": 257,
@@ -2310,7 +2566,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Tower Defence_FR"
     },
     {
         "id": 258,
@@ -2319,7 +2576,8 @@
         "category": "Melee Attack",
         "power": 90,
         "accuracy": 100,
-        "cost": 4
+        "cost": 4,
+        "name_fr": "Toxic Stab_FR"
     },
     {
         "id": 259,
@@ -2328,7 +2586,8 @@
         "category": "Melee Attack",
         "power": 60,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Toy Hammer_FR"
     },
     {
         "id": 260,
@@ -2337,7 +2596,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": "Unavoidable",
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Traffic Jam_FR"
     },
     {
         "id": 261,
@@ -2346,7 +2606,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 50,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Trap Jaw_FR"
     },
     {
         "id": 262,
@@ -2355,7 +2616,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 50,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Treasure Dig_FR"
     },
     {
         "id": 263,
@@ -2364,7 +2626,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": "Unavoidable",
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Treat_FR"
     },
     {
         "id": 264,
@@ -2373,7 +2636,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Trick_FR"
     },
     {
         "id": 265,
@@ -2382,7 +2646,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Trip_FR"
     },
     {
         "id": 266,
@@ -2391,7 +2656,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Tripwire_FR"
     },
     {
         "id": 267,
@@ -2400,7 +2666,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Two Heads_FR"
     },
     {
         "id": 268,
@@ -2409,7 +2676,8 @@
         "category": "Ranged Attack",
         "power": 90,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Undertow_FR"
     },
     {
         "id": 269,
@@ -2418,7 +2686,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Unicast_FR"
     },
     {
         "id": 270,
@@ -2427,7 +2696,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Unshakeable_FR"
     },
     {
         "id": 271,
@@ -2436,7 +2706,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Vampire_FR"
     },
     {
         "id": 272,
@@ -2445,7 +2716,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Vengeful Curse_FR"
     },
     {
         "id": 273,
@@ -2454,7 +2726,8 @@
         "category": "Melee Attack",
         "power": 60,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Wallop_FR"
     },
     {
         "id": 274,
@@ -2463,7 +2736,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Water Camouflage_FR"
     },
     {
         "id": 275,
@@ -2472,7 +2746,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Water Coating_FR"
     },
     {
         "id": 276,
@@ -2481,7 +2756,8 @@
         "category": "Melee Attack",
         "power": 90,
         "accuracy": 85,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Water Dance_FR"
     },
     {
         "id": 277,
@@ -2490,7 +2766,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Water Wall_FR"
     },
     {
         "id": 278,
@@ -2499,7 +2776,8 @@
         "category": "Miscellaneous",
         "power": 0,
         "accuracy": 100,
-        "cost": "Passive"
+        "cost": "Passive",
+        "name_fr": "Waterproof_FR"
     },
     {
         "id": 279,
@@ -2508,7 +2786,8 @@
         "category": "Ranged Attack",
         "power": 100,
         "accuracy": 90,
-        "cost": 5
+        "cost": 5,
+        "name_fr": "Waterworks_FR"
     },
     {
         "id": 280,
@@ -2517,7 +2796,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 20,
-        "cost": 0
+        "cost": 0,
+        "name_fr": "Web Wrap_FR"
     },
     {
         "id": 281,
@@ -2526,7 +2806,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Window_FR"
     },
     {
         "id": 282,
@@ -2535,7 +2816,8 @@
         "category": "Status Effect",
         "power": 0,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Wink_FR"
     },
     {
         "id": 283,
@@ -2544,7 +2826,8 @@
         "category": "Ranged Attack",
         "power": 90,
         "accuracy": 100,
-        "cost": 4
+        "cost": 4,
+        "name_fr": "Wonderful 7_FR"
     },
     {
         "id": 284,
@@ -2553,7 +2836,8 @@
         "category": "Melee Attack",
         "power": 40,
         "accuracy": 100,
-        "cost": 3
+        "cost": 3,
+        "name_fr": "Woodcutter_FR"
     },
     {
         "id": 285,
@@ -2562,7 +2846,8 @@
         "category": "Ranged Attack",
         "power": 60,
         "accuracy": 100,
-        "cost": 4
+        "cost": 4,
+        "name_fr": "Yule Regret That_FR"
     },
     {
         "id": 286,
@@ -2571,7 +2856,8 @@
         "category": "Ranged Attack",
         "power": 60,
         "accuracy": 100,
-        "cost": 2
+        "cost": 2,
+        "name_fr": "Zephyr_FR"
     },
     {
         "id": 287,
@@ -2580,6 +2866,7 @@
         "category": "Melee Attack",
         "power": 30,
         "accuracy": 100,
-        "cost": 1
+        "cost": 1,
+        "name_fr": "Zoomies_FR"
     }
 ]

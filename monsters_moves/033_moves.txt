@@ -1,3 +1,4 @@
+https://wiki.cassettebeasts.com/images/d/d7/Tokusect.png
 Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
 Initial	Zephyr	Air	Ranged Attack	60	100%	2 AP
 Initial	Wallop	Typeless	Melee Attack	60	100%	2 AP

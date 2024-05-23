@@ -1,0 +1,13 @@
+https://wiki.cassettebeasts.com/images/3/3c/Grampus.png
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Sprint	Typeless	Status Effect	—	100%	1 AP
+Initial	Treat	Typeless	Status Effect	—	Unavoidable	1 AP
+Initial	Snow Rush	Ice	Melee Attack	60	100%	3 AP
+Initial	AP Donate	Typeless	Miscellaneous	—	Unavoidable	1 AP
+Initial	Ice Wall	Ice	Status Effect	—	100%	2 AP
+Initial	Toy Hammer	Plastic	Melee Attack	60	100%	2 AP
+Star-white.png	Yule Regret That	Ice	Ranged Attack	60	100%	4 AP
+Star-white.pngStar-white.png	Trick	Typeless	Status Effect	—	100%	1 AP
+Star-white.pngStar-white.pngStar-white.png	AP Steal	Poison	Miscellaneous	—	70%	0 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Ice Breaker	Ice	Melee Attack	90	100%	4 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Avalanche	Ice	Status Effect	—	Unavoidable	2 AP

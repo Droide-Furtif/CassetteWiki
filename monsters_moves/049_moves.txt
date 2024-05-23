@@ -1,3 +1,4 @@
+https://wiki.cassettebeasts.com/images/d/d4/Clocksley.png
 Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
 Initial	Spring-Load	Plastic	Status Effect	—	Unavoidable	Passive
 Initial	Toy Hammer	Plastic	Melee Attack	60	100%	2 AP

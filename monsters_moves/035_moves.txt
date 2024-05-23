@@ -1,3 +1,4 @@
+https://wiki.cassettebeasts.com/images/e/e5/Manispear.png
 Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
 Initial	Sharpen	Typeless	Status Effect	—	100%	1 AP
 Initial	Copper Chop	Metal	Melee Attack	60	100%	3 AP

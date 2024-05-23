@@ -1,3 +1,4 @@
+https://wiki.cassettebeasts.com/images/3/37/Sirenade.png
 Initial	Spit	Typeless	Ranged Attack	30	100%	0 AP
 Initial	Dodge	Typeless	Status Effect	—	100%	1 AP
 Initial	Call For Help	Typeless	Miscellaneous	—	50%	2 AP

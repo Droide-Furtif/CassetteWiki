@@ -1,3 +1,4 @@
+https://wiki.cassettebeasts.com/images/5/5b/Blossomaw.png
 Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
 Initial	Defend	Typeless	Status Effect	—	100%	1 AP
 Initial	Elemental Wall	Typeless	Status Effect	—	100%	2 AP

@@ -1,0 +1,14 @@
+https://wiki.cassettebeasts.com/images/c/c7/Khufo.png
+Initial	Spit	Typeless	Ranged Attack	30	100%	0 AP
+Initial	Raise Shields	Typeless	Status Effect	—	100%	1 AP
+Initial	Wonderful 7	Astral	Ranged Attack	90	100%	4 AP
+Initial	Shooting Star	Astral	Ranged Attack	60	100%	2 AP
+Initial	Broadcast	Air	Status Effect	—	100%	2 AP
+Initial	Shield Bash	Metal	Melee Attack	90	100%	3 AP
+Initial	Close Encounter	Astral	Status Effect	—	100%	1 AP
+Star-white.png	Astral Wall	Astral	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.png	Mind-Meld	Astral	Status Effect	—	Unavoidable	2 AP
+Star-white.pngStar-white.pngStar-white.png	Déjà Vu	Astral	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Ritual	Astral	Status Effect	—	100%	6 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Galactic Beatdown	Astral	Melee Attack	90	Unavoidable	4 AP
+

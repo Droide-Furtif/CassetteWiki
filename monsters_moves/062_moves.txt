@@ -1,0 +1,12 @@
+https://wiki.cassettebeasts.com/images/5/5b/Ratcousel.png
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Peekaboo	Typeless	Status Effect	—	100%	1 AP
+Initial	Toy Hammer	Plastic	Melee Attack	60	100%	2 AP
+Initial	Plastic Wall	Plastic	Status Effect	—	100%	2 AP
+Initial	Retribution	Typeless	Status Effect	—	Unavoidable	Passive
+Initial	Parry Stance	Beast	Status Effect	—	100%	2 AP
+Star-white.png	Treat	Typeless	Status Effect	—	Unavoidable	1 AP
+Star-white.pngStar-white.png	Clockwork Mouse	Plastic	Melee Attack	120	100%	5 AP
+Star-white.pngStar-white.pngStar-white.png	Glitter Bomb	Glitter	Ranged Attack	30	100%	0 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	bE rAnDoM!!	Astral	Miscellaneous	—	100%	0 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Self-Assured	Typeless	Miscellaneous	—	70%	Passive

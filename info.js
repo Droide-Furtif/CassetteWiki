@@ -42,7 +42,6 @@ function loadMonster(index) {
     var monsterMoves = monster.moves.map(moveEntry => {
         var move = moves.find(m => m.id === moveEntry.move_id);
         var moveTranslatedName = move['name' + langKey] || move.name;
-	console.log("movename:", moveTranslatedName);
         return move ? {
             name: moveTranslatedName,
             type: currentLanguage === 'fr' ? translate(move.type, typeTranslations) : move.type,
@@ -105,10 +104,19 @@ function loadMonster(index) {
 }
 
 function searchMonster() {
-    var searchText = document.getElementById('searchBox').value.toLowerCase();
-    var foundIndex = monsters.findIndex(monster => monster.name.toLowerCase().includes(searchText));
+    var searchText = document.getElementById('searchBox').value.trim();  // Récupère le texte entré dans le champ de recherche
+    var searchNumber = parseInt(searchText, 10);  // Tente de convertir le texte en nombre
+
+    // Trouve l'index du monstre soit par ID (si searchText est numérique) soit par nom
+    var foundIndex = monsters.findIndex(monster =>
+        monster.name.toLowerCase().includes(searchText.toLowerCase()) ||
+        parseInt(monster.id) === searchNumber
+    );
+
     if (foundIndex !== -1) {
-        loadMonster(foundIndex);
+        loadMonster(foundIndex);  // Charge le monstre trouvé
+    } else {
+        document.getElementById('monsterInfo').innerHTML = '<p>Aucun monstre trouvé.</p>';  // Affiche un message si aucun monstre n'est trouvé
     }
 }
 

@@ -1,3 +1,4 @@
+https://wiki.cassettebeasts.com/images/9/9d/Scubalrus.png
 Initial	Spit	Typeless	Ranged Attack	30	100%	0 AP
 Initial	Elemental Wall	Typeless	Status Effect	—	100%	2 AP
 Initial	Torrent	Water	Ranged Attack	40	100%	4 AP

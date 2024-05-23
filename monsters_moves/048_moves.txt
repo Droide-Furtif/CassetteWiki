@@ -1,3 +1,4 @@
+https://wiki.cassettebeasts.com/images/c/c8/Apocrowlypse.png
 Initial	Spit	Typeless	Ranged Attack	30	100%	0 AP
 Initial	Call For Help	Typeless	Miscellaneous	—	50%	2 AP
 Initial	Pustule Bomb	Poison	Ranged Attack	60	100%	4 AP

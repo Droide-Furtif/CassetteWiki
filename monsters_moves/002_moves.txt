@@ -1,3 +1,4 @@
+https://wiki.cassettebeasts.com/images/a/ab/Hopskin.png
 Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
 Initial	Peekaboo	Typeless	Status Effect	—	100%	1 AP
 Initial	Jump Scare	Typeless	Melee Attack	30	100%	1 AP

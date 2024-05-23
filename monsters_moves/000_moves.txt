@@ -1,3 +1,4 @@
+
 Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
 Initial	Traffic Jam	Plastic	Status Effect	—	Unavoidable	2 AP
 Initial	Elemental Wall	Typeless	Status Effect	—	100%	2 AP

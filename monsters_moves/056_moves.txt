@@ -1,0 +1,13 @@
+https://wiki.cassettebeasts.com/images/8/8a/Flapwoods.png
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Suit Up	Typeless	Status Effect	—	Unavoidable	2 AP
+Initial	Slice	Typeless	Melee Attack	30	100%	1 AP
+Initial	Astral Wall	Astral	Status Effect	—	100%	2 AP
+Initial	Sonic Boom	Air	Ranged Attack	60	100%	3 AP
+Initial	Déjà Vu	Astral	Status Effect	—	100%	2 AP
+Initial	Shooting Star	Astral	Ranged Attack	60	100%	2 AP
+Star-white.png	Multi Shot	Typeless	Ranged Attack	20	100%	3 AP
+Star-white.pngStar-white.png	Mind-Meld	Astral	Status Effect	—	Unavoidable	2 AP
+Star-white.pngStar-white.pngStar-white.png	Galactic Beatdown	Astral	Melee Attack	90	Unavoidable	4 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Broadcast	Air	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Close Encounter	Astral	Status Effect	—	100%	1 AP

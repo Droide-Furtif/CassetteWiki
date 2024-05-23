@@ -1,3 +1,4 @@
+https://wiki.cassettebeasts.com/images/1/19/Carniviper.png
 Initial	Spit	Typeless	Ranged Attack	30	100%	0 AP
 Initial	Raise Arms	Typeless	Status Effect	—	100%	1 AP
 Star-white.png	Toxic Stab	Poison	Melee Attack	90	100%	4 AP

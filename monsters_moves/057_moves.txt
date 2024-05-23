@@ -1,0 +1,8 @@
+https://wiki.cassettebeasts.com/images/7/76/Sanzatime.png
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Sharp Edges	Typeless	Status Effect	—	100%	2 AP
+Star-white.png	Sandstorm	Earth	Ranged Attack	60	100%	3 AP
+Star-white.pngStar-white.png	Déjà Vu	Astral	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.png	Crumble	Earth	Ranged Attack	30	Unavoidable	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Clobber	Typeless	Melee Attack	60	100%	5 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Dog Years	Beast	Miscellaneous	—	100%	4 AP

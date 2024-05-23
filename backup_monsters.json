@@ -11,8 +11,8 @@
         "stats": {
             "hp": 105,
             "meleeAttack": 160,
-            "rangedAttack": 105,
-            "meleeDefense": 160,
+            "rangedAttack": 160,
+            "meleeDefense": 105,
             "rangedDefense": 150,
             "speed": 120
         },
@@ -65,7 +65,8 @@
                 "move_id": 111,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "SPOILER_FR"
     },
     {
         "id": "001",
@@ -113,7 +114,8 @@
                 "move_id": 252,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Springheel_FR"
     },
     {
         "id": "002",
@@ -127,8 +129,8 @@
         "stats": {
             "hp": 90,
             "meleeAttack": 170,
-            "rangedAttack": 100,
-            "meleeDefense": 90,
+            "rangedAttack": 90,
+            "meleeDefense": 100,
             "rangedDefense": 100,
             "speed": 150
         },
@@ -173,7 +175,8 @@
                 "move_id": 220,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Hopskin_FR"
     },
     {
         "id": "003",
@@ -187,8 +190,8 @@
         "stats": {
             "hp": 120,
             "meleeAttack": 200,
-            "rangedAttack": 100,
-            "meleeDefense": 90,
+            "rangedAttack": 90,
+            "meleeDefense": 100,
             "rangedDefense": 120,
             "speed": 170
         },
@@ -245,7 +248,8 @@
                 "move_id": 37,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Ripterra_FR"
     },
     {
         "id": "004",
@@ -259,8 +263,8 @@
         "stats": {
             "hp": 90,
             "meleeAttack": 160,
-            "rangedAttack": 80,
-            "meleeDefense": 150,
+            "rangedAttack": 150,
+            "meleeDefense": 80,
             "rangedDefense": 90,
             "speed": 130
         },
@@ -309,7 +313,8 @@
                 "move_id": 201,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Snoopin_FR"
     },
     {
         "id": "005",
@@ -323,8 +328,8 @@
         "stats": {
             "hp": 120,
             "meleeAttack": 160,
-            "rangedAttack": 80,
-            "meleeDefense": 180,
+            "rangedAttack": 180,
+            "meleeDefense": 80,
             "rangedDefense": 90,
             "speed": 170
         },
@@ -381,7 +386,8 @@
                 "move_id": 272,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Scampire_FR"
     },
     {
         "id": "006",
@@ -395,8 +401,8 @@
         "stats": {
             "hp": 60,
             "meleeAttack": 120,
-            "rangedAttack": 80,
-            "meleeDefense": 120,
+            "rangedAttack": 120,
+            "meleeDefense": 80,
             "rangedDefense": 80,
             "speed": 140
         },
@@ -429,7 +435,8 @@
                 "move_id": 170,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Carniviper_FR"
     },
     {
         "id": "007",
@@ -443,8 +450,8 @@
         "stats": {
             "hp": 90,
             "meleeAttack": 140,
-            "rangedAttack": 80,
-            "meleeDefense": 140,
+            "rangedAttack": 140,
+            "meleeDefense": 80,
             "rangedDefense": 90,
             "speed": 160
         },
@@ -489,7 +496,8 @@
                 "move_id": 196,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Masquerattle_FR"
     },
     {
         "id": "008",
@@ -503,8 +511,8 @@
         "stats": {
             "hp": 100,
             "meleeAttack": 155,
-            "rangedAttack": 100,
-            "meleeDefense": 155,
+            "rangedAttack": 155,
+            "meleeDefense": 100,
             "rangedDefense": 100,
             "speed": 190
         },
@@ -561,7 +569,8 @@
                 "move_id": 7,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Jormungold_FR"
     },
     {
         "id": "009",
@@ -575,8 +584,8 @@
         "stats": {
             "hp": 130,
             "meleeAttack": 160,
-            "rangedAttack": 100,
-            "meleeDefense": 120,
+            "rangedAttack": 120,
+            "meleeDefense": 100,
             "rangedDefense": 130,
             "speed": 160
         },
@@ -633,7 +642,8 @@
                 "move_id": 198,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Mardiusa_FR"
     },
     {
         "id": "010",
@@ -647,8 +657,8 @@
         "stats": {
             "hp": 190,
             "meleeAttack": 30,
-            "rangedAttack": 100,
-            "meleeDefense": 160,
+            "rangedAttack": 160,
+            "meleeDefense": 100,
             "rangedDefense": 160,
             "speed": 160
         },
@@ -705,7 +715,8 @@
                 "move_id": 35,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Aeroboros_FR"
     },
     {
         "id": "011",
@@ -721,8 +732,8 @@
         "stats": {
             "hp": 80,
             "meleeAttack": 120,
-            "rangedAttack": 80,
-            "meleeDefense": 120,
+            "rangedAttack": 120,
+            "meleeDefense": 80,
             "rangedDefense": 110,
             "speed": 90
         },
@@ -755,7 +766,8 @@
                 "move_id": 268,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Traffikrab_FR"
     },
     {
         "id": "012",
@@ -769,8 +781,8 @@
         "stats": {
             "hp": 120,
             "meleeAttack": 120,
-            "rangedAttack": 120,
-            "meleeDefense": 160,
+            "rangedAttack": 160,
+            "meleeDefense": 120,
             "rangedDefense": 120,
             "speed": 160
         },
@@ -823,7 +835,8 @@
                 "move_id": 24,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Weevilite_FR"
     },
     {
         "id": "013",
@@ -837,8 +850,8 @@
         "stats": {
             "hp": 150,
             "meleeAttack": 120,
-            "rangedAttack": 160,
-            "meleeDefense": 120,
+            "rangedAttack": 120,
+            "meleeDefense": 160,
             "rangedDefense": 160,
             "speed": 90
         },
@@ -891,7 +904,8 @@
                 "move_id": 212,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Lobstacle_FR"
     },
     {
         "id": "014",
@@ -905,8 +919,8 @@
         "stats": {
             "hp": 115,
             "meleeAttack": 110,
-            "rangedAttack": 100,
-            "meleeDefense": 110,
+            "rangedAttack": 110,
+            "meleeDefense": 100,
             "rangedDefense": 105,
             "speed": 100
         },
@@ -939,7 +953,8 @@
                 "move_id": 252,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Candevil_FR"
     },
     {
         "id": "015",
@@ -953,8 +968,8 @@
         "stats": {
             "hp": 120,
             "meleeAttack": 125,
-            "rangedAttack": 110,
-            "meleeDefense": 145,
+            "rangedAttack": 145,
+            "meleeDefense": 110,
             "rangedDefense": 110,
             "speed": 130
         },
@@ -1003,7 +1018,8 @@
                 "move_id": 191,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Malchemy_FR"
     },
     {
         "id": "016",
@@ -1017,8 +1033,8 @@
         "stats": {
             "hp": 130,
             "meleeAttack": 150,
-            "rangedAttack": 120,
-            "meleeDefense": 170,
+            "rangedAttack": 170,
+            "meleeDefense": 120,
             "rangedDefense": 120,
             "speed": 150
         },
@@ -1075,7 +1091,8 @@
                 "move_id": 128,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Miasmodeus_FR"
     },
     {
         "id": "017",
@@ -1089,8 +1106,8 @@
         "stats": {
             "hp": 130,
             "meleeAttack": 110,
-            "rangedAttack": 130,
-            "meleeDefense": 120,
+            "rangedAttack": 120,
+            "meleeDefense": 130,
             "rangedDefense": 130,
             "speed": 120
         },
@@ -1139,7 +1156,8 @@
                 "move_id": 158,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Vendemon_FR"
     },
     {
         "id": "018",
@@ -1153,8 +1171,8 @@
         "stats": {
             "hp": 150,
             "meleeAttack": 110,
-            "rangedAttack": 160,
-            "meleeDefense": 130,
+            "rangedAttack": 130,
+            "meleeDefense": 160,
             "rangedDefense": 160,
             "speed": 130
         },
@@ -1211,7 +1229,8 @@
                 "move_id": 128,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Gumbaal_FR"
     },
     {
         "id": "019",
@@ -1225,8 +1244,8 @@
         "stats": {
             "hp": 115,
             "meleeAttack": 110,
-            "rangedAttack": 105,
-            "meleeDefense": 110,
+            "rangedAttack": 110,
+            "meleeDefense": 105,
             "rangedDefense": 100,
             "speed": 100
         },
@@ -1259,7 +1278,8 @@
                 "move_id": 67,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Bansheep_FR"
     },
     {
         "id": "020",
@@ -1273,8 +1293,8 @@
         "stats": {
             "hp": 120,
             "meleeAttack": 145,
-            "rangedAttack": 110,
-            "meleeDefense": 125,
+            "rangedAttack": 125,
+            "meleeDefense": 110,
             "rangedDefense": 110,
             "speed": 130
         },
@@ -1323,7 +1343,8 @@
                 "move_id": 173,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Wooltergeist_FR"
     },
     {
         "id": "021",
@@ -1337,8 +1358,8 @@
         "stats": {
             "hp": 130,
             "meleeAttack": 170,
-            "rangedAttack": 120,
-            "meleeDefense": 150,
+            "rangedAttack": 150,
+            "meleeDefense": 120,
             "rangedDefense": 120,
             "speed": 150
         },
@@ -1395,7 +1416,8 @@
                 "move_id": 147,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Ramtasm_FR"
     },
     {
         "id": "022",
@@ -1409,8 +1431,8 @@
         "stats": {
             "hp": 130,
             "meleeAttack": 130,
-            "rangedAttack": 130,
-            "meleeDefense": 110,
+            "rangedAttack": 110,
+            "meleeDefense": 130,
             "rangedDefense": 130,
             "speed": 110
         },
@@ -1459,7 +1481,8 @@
                 "move_id": 72,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Zombleat_FR"
     },
     {
         "id": "023",
@@ -1473,8 +1496,8 @@
         "stats": {
             "hp": 160,
             "meleeAttack": 140,
-            "rangedAttack": 160,
-            "meleeDefense": 110,
+            "rangedAttack": 110,
+            "meleeDefense": 160,
             "rangedDefense": 160,
             "speed": 110
         },
@@ -1531,7 +1554,8 @@
                 "move_id": 147,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Capricorpse_FR"
     },
     {
         "id": "024",
@@ -1545,8 +1569,8 @@
         "stats": {
             "hp": 110,
             "meleeAttack": 70,
-            "rangedAttack": 80,
-            "meleeDefense": 130,
+            "rangedAttack": 130,
+            "meleeDefense": 80,
             "rangedDefense": 120,
             "speed": 90
         },
@@ -1583,7 +1607,8 @@
                 "move_id": 173,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Sirenade_FR"
     },
     {
         "id": "025",
@@ -1597,8 +1622,8 @@
         "stats": {
             "hp": 135,
             "meleeAttack": 100,
-            "rangedAttack": 110,
-            "meleeDefense": 170,
+            "rangedAttack": 170,
+            "meleeDefense": 110,
             "rangedDefense": 160,
             "speed": 125
         },
@@ -1655,7 +1680,8 @@
                 "move_id": 175,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Decibelle_FR"
     },
     {
         "id": "026",
@@ -1669,8 +1695,8 @@
         "stats": {
             "hp": 120,
             "meleeAttack": 80,
-            "rangedAttack": 120,
-            "meleeDefense": 100,
+            "rangedAttack": 100,
+            "meleeDefense": 120,
             "rangedDefense": 120,
             "speed": 60
         },
@@ -1703,7 +1729,8 @@
                 "move_id": 205,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Dandylion_FR"
     },
     {
         "id": "027",
@@ -1717,8 +1744,8 @@
         "stats": {
             "hp": 160,
             "meleeAttack": 100,
-            "rangedAttack": 160,
-            "meleeDefense": 130,
+            "rangedAttack": 130,
+            "meleeDefense": 160,
             "rangedDefense": 160,
             "speed": 90
         },
@@ -1771,7 +1798,8 @@
                 "move_id": 192,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Blossomaw_FR"
     },
     {
         "id": "028",
@@ -1785,8 +1813,8 @@
         "stats": {
             "hp": 140,
             "meleeAttack": 120,
-            "rangedAttack": 60,
-            "meleeDefense": 100,
+            "rangedAttack": 100,
+            "meleeDefense": 60,
             "rangedDefense": 100,
             "speed": 120
         },
@@ -1819,7 +1847,8 @@
                 "move_id": 36,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Macabra_FR"
     },
     {
         "id": "029",
@@ -1833,8 +1862,8 @@
         "stats": {
             "hp": 140,
             "meleeAttack": 135,
-            "rangedAttack": 135,
-            "meleeDefense": 100,
+            "rangedAttack": 100,
+            "meleeDefense": 135,
             "rangedDefense": 120,
             "speed": 120
         },
@@ -1887,7 +1916,8 @@
                 "move_id": 57,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Folklord_FR"
     },
     {
         "id": "030",
@@ -1935,7 +1965,8 @@
                 "move_id": 7,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Dominoth_FR"
     },
     {
         "id": "031",
@@ -1949,8 +1980,8 @@
         "stats": {
             "hp": 120,
             "meleeAttack": 100,
-            "rangedAttack": 120,
-            "meleeDefense": 100,
+            "rangedAttack": 100,
+            "meleeDefense": 120,
             "rangedDefense": 120,
             "speed": 90
         },
@@ -1995,7 +2026,8 @@
                 "move_id": 47,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Wingloom_FR"
     },
     {
         "id": "032",
@@ -2009,8 +2041,8 @@
         "stats": {
             "hp": 130,
             "meleeAttack": 110,
-            "rangedAttack": 120,
-            "meleeDefense": 180,
+            "rangedAttack": 180,
+            "meleeDefense": 120,
             "rangedDefense": 140,
             "speed": 120
         },
@@ -2067,7 +2099,8 @@
                 "move_id": 158,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Mothmanic_FR"
     },
     {
         "id": "033",
@@ -2081,8 +2114,8 @@
         "stats": {
             "hp": 120,
             "meleeAttack": 170,
-            "rangedAttack": 120,
-            "meleeDefense": 100,
+            "rangedAttack": 100,
+            "meleeDefense": 120,
             "rangedDefense": 120,
             "speed": 170
         },
@@ -2131,7 +2164,8 @@
                 "move_id": 207,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Tokusect_FR"
     },
     {
         "id": "034",
@@ -2145,8 +2179,8 @@
         "stats": {
             "hp": 90,
             "meleeAttack": 110,
-            "rangedAttack": 110,
-            "meleeDefense": 100,
+            "rangedAttack": 100,
+            "meleeDefense": 110,
             "rangedDefense": 90,
             "speed": 100
         },
@@ -2179,7 +2213,8 @@
                 "move_id": 82,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Squirey_FR"
     },
     {
         "id": "035",
@@ -2193,8 +2228,8 @@
         "stats": {
             "hp": 110,
             "meleeAttack": 120,
-            "rangedAttack": 170,
-            "meleeDefense": 100,
+            "rangedAttack": 100,
+            "meleeDefense": 170,
             "rangedDefense": 150,
             "speed": 100
         },
@@ -2247,7 +2282,8 @@
                 "move_id": 253,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Manispear_FR"
     },
     {
         "id": "036",
@@ -2261,8 +2297,8 @@
         "stats": {
             "hp": 150,
             "meleeAttack": 120,
-            "rangedAttack": 120,
-            "meleeDefense": 100,
+            "rangedAttack": 100,
+            "meleeDefense": 120,
             "rangedDefense": 100,
             "speed": 160
         },
@@ -2315,7 +2351,8 @@
                 "move_id": 209,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Palangolin_FR"
     },
     {
         "id": "037",
@@ -2329,8 +2366,8 @@
         "stats": {
             "hp": 100,
             "meleeAttack": 110,
-            "rangedAttack": 90,
-            "meleeDefense": 110,
+            "rangedAttack": 110,
+            "meleeDefense": 90,
             "rangedDefense": 90,
             "speed": 100
         },
@@ -2367,7 +2404,8 @@
                 "move_id": 47,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Kittelly_FR"
     },
     {
         "id": "038",
@@ -2381,8 +2419,8 @@
         "stats": {
             "hp": 150,
             "meleeAttack": 160,
-            "rangedAttack": 100,
-            "meleeDefense": 120,
+            "rangedAttack": 120,
+            "meleeDefense": 100,
             "rangedDefense": 120,
             "speed": 150
         },
@@ -2439,7 +2477,8 @@
                 "move_id": 30,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Cat-5_FR"
     },
     {
         "id": "039",
@@ -2453,8 +2492,8 @@
         "stats": {
             "hp": 100,
             "meleeAttack": 120,
-            "rangedAttack": 110,
-            "meleeDefense": 80,
+            "rangedAttack": 80,
+            "meleeDefense": 110,
             "rangedDefense": 80,
             "speed": 110
         },
@@ -2487,7 +2526,8 @@
                 "move_id": 220,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Puppercut_FR"
     },
     {
         "id": "040",
@@ -2501,8 +2541,8 @@
         "stats": {
             "hp": 130,
             "meleeAttack": 160,
-            "rangedAttack": 140,
-            "meleeDefense": 110,
+            "rangedAttack": 110,
+            "meleeDefense": 140,
             "rangedDefense": 110,
             "speed": 150
         },
@@ -2551,7 +2591,8 @@
                 "move_id": 253,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Southpaw_FR"
     },
     {
         "id": "041",
@@ -2565,8 +2606,8 @@
         "stats": {
             "hp": 80,
             "meleeAttack": 70,
-            "rangedAttack": 70,
-            "meleeDefense": 100,
+            "rangedAttack": 100,
+            "meleeDefense": 70,
             "rangedDefense": 70,
             "speed": 200
         },
@@ -2599,7 +2640,8 @@
                 "move_id": 219,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Bulletino_FR"
     },
     {
         "id": "042",
@@ -2613,8 +2655,8 @@
         "stats": {
             "hp": 100,
             "meleeAttack": 100,
-            "rangedAttack": 100,
-            "meleeDefense": 140,
+            "rangedAttack": 140,
+            "meleeDefense": 100,
             "rangedDefense": 100,
             "speed": 160
         },
@@ -2659,7 +2701,8 @@
                 "move_id": 128,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Velocirifle_FR"
     },
     {
         "id": "043",
@@ -2673,8 +2716,8 @@
         "stats": {
             "hp": 110,
             "meleeAttack": 170,
-            "rangedAttack": 120,
-            "meleeDefense": 170,
+            "rangedAttack": 170,
+            "meleeDefense": 120,
             "rangedDefense": 110,
             "speed": 120
         },
@@ -2731,7 +2774,8 @@
                 "move_id": 225,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Artillerex_FR"
     },
     {
         "id": "044",
@@ -2803,7 +2847,8 @@
                 "move_id": 145,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Gearyu_FR"
     },
     {
         "id": "045",
@@ -2851,7 +2896,8 @@
                 "move_id": 268,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Diveal_FR"
     },
     {
         "id": "046",
@@ -2915,7 +2961,8 @@
                 "move_id": 169,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Scubalrus_FR"
     },
     {
         "id": "047",
@@ -2929,8 +2976,8 @@
         "stats": {
             "hp": 150,
             "meleeAttack": 70,
-            "rangedAttack": 75,
-            "meleeDefense": 80,
+            "rangedAttack": 80,
+            "meleeDefense": 75,
             "rangedDefense": 75,
             "speed": 150
         },
@@ -2963,7 +3010,8 @@
                 "move_id": 258,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Nevermort_FR"
     },
     {
         "id": "048",
@@ -3027,7 +3075,8 @@
                 "move_id": 147,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Apocrowlypse_FR"
     },
     {
         "id": "049",
@@ -3041,8 +3090,8 @@
         "stats": {
             "hp": 80,
             "meleeAttack": 80,
-            "rangedAttack": 80,
-            "meleeDefense": 150,
+            "rangedAttack": 150,
+            "meleeDefense": 80,
             "rangedDefense": 130,
             "speed": 80
         },
@@ -3079,7 +3128,8 @@
                 "move_id": 9,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Clocksley_FR"
     },
     {
         "id": "050",
@@ -3093,8 +3143,8 @@
         "stats": {
             "hp": 110,
             "meleeAttack": 110,
-            "rangedAttack": 110,
-            "meleeDefense": 200,
+            "rangedAttack": 200,
+            "meleeDefense": 110,
             "rangedDefense": 150,
             "speed": 120
         },
@@ -3151,7 +3201,8 @@
                 "move_id": 128,
                 "unlockedLevel": 5
             }
-        ]
+        ],
+        "name_fr": "Robindam_FR"
     },
     {
         "id": "051",
@@ -3170,7 +3221,8 @@
             "rangedDefense": 110,
             "speed": 180
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Thwackalope_FR"
     },
     {
         "id": "052",
@@ -3184,12 +3236,13 @@
         "stats": {
             "hp": 100,
             "meleeAttack": 50,
-            "rangedAttack": 120,
-            "meleeDefense": 150,
+            "rangedAttack": 150,
+            "meleeDefense": 120,
             "rangedDefense": 80,
             "speed": 100
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Allseer_FR"
     },
     {
         "id": "053",
@@ -3203,12 +3256,13 @@
         "stats": {
             "hp": 120,
             "meleeAttack": 160,
-            "rangedAttack": 140,
-            "meleeDefense": 160,
+            "rangedAttack": 160,
+            "meleeDefense": 140,
             "rangedDefense": 100,
             "speed": 120
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Khufo_FR"
     },
     {
         "id": "054",
@@ -3222,12 +3276,13 @@
         "stats": {
             "hp": 140,
             "meleeAttack": 50,
-            "rangedAttack": 140,
-            "meleeDefense": 190,
+            "rangedAttack": 190,
+            "meleeDefense": 140,
             "rangedDefense": 140,
             "speed": 140
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Triphinx_FR"
     },
     {
         "id": "055",
@@ -3241,12 +3296,13 @@
         "stats": {
             "hp": 100,
             "meleeAttack": 100,
-            "rangedAttack": 70,
-            "meleeDefense": 100,
+            "rangedAttack": 100,
+            "meleeDefense": 70,
             "rangedDefense": 90,
             "speed": 140
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Braxsuit_FR"
     },
     {
         "id": "056",
@@ -3260,12 +3316,13 @@
         "stats": {
             "hp": 140,
             "meleeAttack": 140,
-            "rangedAttack": 100,
-            "meleeDefense": 140,
+            "rangedAttack": 140,
+            "meleeDefense": 100,
             "rangedDefense": 100,
             "speed": 180
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Flapwoods_FR"
     },
     {
         "id": "057",
@@ -3279,12 +3336,13 @@
         "stats": {
             "hp": 100,
             "meleeAttack": 120,
-            "rangedAttack": 120,
-            "meleeDefense": 100,
+            "rangedAttack": 100,
+            "meleeDefense": 120,
             "rangedDefense": 110,
             "speed": 50
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Sanzatime_FR"
     },
     {
         "id": "058",
@@ -3298,12 +3356,13 @@
         "stats": {
             "hp": 130,
             "meleeAttack": 165,
-            "rangedAttack": 155,
-            "meleeDefense": 130,
+            "rangedAttack": 130,
+            "meleeDefense": 155,
             "rangedDefense": 140,
             "speed": 80
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Fortiwinx_FR"
     },
     {
         "id": "059",
@@ -3317,12 +3376,13 @@
         "stats": {
             "hp": 100,
             "meleeAttack": 50,
-            "rangedAttack": 80,
-            "meleeDefense": 150,
+            "rangedAttack": 150,
+            "meleeDefense": 80,
             "rangedDefense": 120,
             "speed": 100
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Salamagus_FR"
     },
     {
         "id": "060",
@@ -3336,12 +3396,13 @@
         "stats": {
             "hp": 150,
             "meleeAttack": 60,
-            "rangedAttack": 100,
-            "meleeDefense": 200,
+            "rangedAttack": 200,
+            "meleeDefense": 100,
             "rangedDefense": 150,
             "speed": 140
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Pyromeleon_FR"
     },
     {
         "id": "061",
@@ -3360,7 +3421,8 @@
             "rangedDefense": 80,
             "speed": 120
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Muskrateer_FR"
     },
     {
         "id": "062",
@@ -3379,7 +3441,8 @@
             "rangedDefense": 136,
             "speed": 120
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Ratcousel_FR"
     },
     {
         "id": "063",
@@ -3398,7 +3461,8 @@
             "rangedDefense": 80,
             "speed": 120
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Padpole_FR"
     },
     {
         "id": "064",
@@ -3417,7 +3481,8 @@
             "rangedDefense": 100,
             "speed": 140
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Frillypad_FR"
     },
     {
         "id": "065",
@@ -3436,7 +3501,8 @@
             "rangedDefense": 100,
             "speed": 150
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Liligator_FR"
     },
     {
         "id": "066",
@@ -3455,7 +3521,8 @@
             "rangedDefense": 100,
             "speed": 100
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Elfless_FR"
     },
     {
         "id": "067",
@@ -3469,12 +3536,13 @@
         "stats": {
             "hp": 160,
             "meleeAttack": 150,
-            "rangedAttack": 160,
-            "meleeDefense": 100,
+            "rangedAttack": 100,
+            "meleeDefense": 160,
             "rangedDefense": 130,
             "speed": 100
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Grampus_FR"
     },
     {
         "id": "068",
@@ -3488,12 +3556,13 @@
         "stats": {
             "hp": 160,
             "meleeAttack": 160,
-            "rangedAttack": 100,
-            "meleeDefense": 120,
+            "rangedAttack": 120,
+            "meleeDefense": 100,
             "rangedDefense": 100,
             "speed": 160
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Faerious_FR"
     },
     {
         "id": "069",
@@ -3507,12 +3576,13 @@
         "stats": {
             "hp": 100,
             "meleeAttack": 100,
-            "rangedAttack": 100,
-            "meleeDefense": 90,
+            "rangedAttack": 90,
+            "meleeDefense": 100,
             "rangedDefense": 110,
             "speed": 100
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Brushroom_FR"
     },
     {
         "id": "070",
@@ -3526,12 +3596,13 @@
         "stats": {
             "hp": 120,
             "meleeAttack": 160,
-            "rangedAttack": 160,
-            "meleeDefense": 100,
+            "rangedAttack": 100,
+            "meleeDefense": 160,
             "rangedDefense": 140,
             "speed": 120
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Fungogh_FR"
     },
     {
         "id": "071",
@@ -3550,7 +3621,8 @@
             "rangedDefense": 90,
             "speed": 150
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Boltam_FR"
     },
     {
         "id": "072",
@@ -3569,7 +3641,8 @@
             "rangedDefense": 160,
             "speed": 160
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Plasmantler_FR"
     },
     {
         "id": "073",
@@ -3588,7 +3661,8 @@
             "rangedDefense": 90,
             "speed": 90
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Busheye_FR"
     },
     {
         "id": "074",
@@ -3607,7 +3681,8 @@
             "rangedDefense": 90,
             "speed": 140
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Huntorch_FR"
     },
     {
         "id": "075",
@@ -3621,12 +3696,13 @@
         "stats": {
             "hp": 150,
             "meleeAttack": 140,
-            "rangedAttack": 110,
-            "meleeDefense": 140,
+            "rangedAttack": 140,
+            "meleeDefense": 110,
             "rangedDefense": 110,
             "speed": 150
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Hedgeherne_FR"
     },
     {
         "id": "076",
@@ -3640,12 +3716,13 @@
         "stats": {
             "hp": 100,
             "meleeAttack": 110,
-            "rangedAttack": 110,
-            "meleeDefense": 100,
+            "rangedAttack": 100,
+            "meleeDefense": 110,
             "rangedDefense": 100,
             "speed": 80
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Terracooka_FR"
     },
     {
         "id": "077",
@@ -3659,12 +3736,13 @@
         "stats": {
             "hp": 160,
             "meleeAttack": 110,
-            "rangedAttack": 140,
-            "meleeDefense": 160,
+            "rangedAttack": 160,
+            "meleeDefense": 140,
             "rangedDefense": 140,
             "speed": 90
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Coaldron_FR"
     },
     {
         "id": "078",
@@ -3678,12 +3756,13 @@
         "stats": {
             "hp": 180,
             "meleeAttack": 40,
-            "rangedAttack": 150,
-            "meleeDefense": 40,
+            "rangedAttack": 40,
+            "meleeDefense": 150,
             "rangedDefense": 150,
             "speed": 40
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Stardigrade_FR"
     },
     {
         "id": "079",
@@ -3697,12 +3776,13 @@
         "stats": {
             "hp": 200,
             "meleeAttack": 60,
-            "rangedAttack": 180,
-            "meleeDefense": 150,
+            "rangedAttack": 150,
+            "meleeDefense": 180,
             "rangedDefense": 150,
             "speed": 60
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Galagor_FR"
     },
     {
         "id": "080",
@@ -3716,12 +3796,13 @@
         "stats": {
             "hp": 120,
             "meleeAttack": 150,
-            "rangedAttack": 100,
-            "meleeDefense": 80,
+            "rangedAttack": 80,
+            "meleeDefense": 100,
             "rangedDefense": 80,
             "speed": 70
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Mascotoy_FR"
     },
     {
         "id": "081",
@@ -3735,12 +3816,13 @@
         "stats": {
             "hp": 150,
             "meleeAttack": 200,
-            "rangedAttack": 150,
-            "meleeDefense": 100,
+            "rangedAttack": 100,
+            "meleeDefense": 150,
             "rangedDefense": 110,
             "speed": 90
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Mascotorn_FR"
     },
     {
         "id": "082",
@@ -3759,7 +3841,8 @@
             "rangedDefense": 90,
             "speed": 50
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Binvader_FR"
     },
     {
         "id": "083",
@@ -3778,7 +3861,8 @@
             "rangedDefense": 110,
             "speed": 110
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Binterloper_FR"
     },
     {
         "id": "084",
@@ -3792,12 +3876,13 @@
         "stats": {
             "hp": 190,
             "meleeAttack": 50,
-            "rangedAttack": 150,
-            "meleeDefense": 50,
+            "rangedAttack": 50,
+            "meleeDefense": 150,
             "rangedDefense": 150,
             "speed": 10
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Twirligig_FR"
     },
     {
         "id": "085",
@@ -3811,12 +3896,13 @@
         "stats": {
             "hp": 190,
             "meleeAttack": 160,
-            "rangedAttack": 150,
-            "meleeDefense": 70,
+            "rangedAttack": 70,
+            "meleeDefense": 150,
             "rangedDefense": 110,
             "speed": 120
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Kirikuri_FR"
     },
     {
         "id": "086",
@@ -3830,12 +3916,13 @@
         "stats": {
             "hp": 120,
             "meleeAttack": 200,
-            "rangedAttack": 130,
-            "meleeDefense": 150,
+            "rangedAttack": 150,
+            "meleeDefense": 130,
             "rangedDefense": 90,
             "speed": 110
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Jellyton_FR"
     },
     {
         "id": "087",
@@ -3849,12 +3936,13 @@
         "stats": {
             "hp": 140,
             "meleeAttack": 70,
-            "rangedAttack": 70,
-            "meleeDefense": 110,
+            "rangedAttack": 110,
+            "meleeDefense": 70,
             "rangedDefense": 70,
             "speed": 140
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Spirouette_FR"
     },
     {
         "id": "088",
@@ -3868,12 +3956,13 @@
         "stats": {
             "hp": 170,
             "meleeAttack": 115,
-            "rangedAttack": 100,
-            "meleeDefense": 145,
+            "rangedAttack": 145,
+            "meleeDefense": 100,
             "rangedDefense": 100,
             "speed": 170
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Regensea_FR"
     },
     {
         "id": "089",
@@ -3887,12 +3976,13 @@
         "stats": {
             "hp": 130,
             "meleeAttack": 100,
-            "rangedAttack": 100,
-            "meleeDefense": 75,
+            "rangedAttack": 75,
+            "meleeDefense": 100,
             "rangedDefense": 100,
             "speed": 140
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Jumpkin_FR"
     },
     {
         "id": "090",
@@ -3906,12 +3996,13 @@
         "stats": {
             "hp": 140,
             "meleeAttack": 185,
-            "rangedAttack": 110,
-            "meleeDefense": 100,
+            "rangedAttack": 100,
+            "meleeDefense": 110,
             "rangedDefense": 100,
             "speed": 165
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Beanstalker_FR"
     },
     {
         "id": "091",
@@ -3930,7 +4021,8 @@
             "rangedDefense": 125,
             "speed": 140
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Draculeaf_FR"
     },
     {
         "id": "092",
@@ -3949,7 +4041,8 @@
             "rangedDefense": 90,
             "speed": 90
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Pawndead_FR"
     },
     {
         "id": "093",
@@ -3968,7 +4061,8 @@
             "rangedDefense": 110,
             "speed": 110
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Skelevangelist_FR"
     },
     {
         "id": "094",
@@ -3982,12 +4076,13 @@
         "stats": {
             "hp": 110,
             "meleeAttack": 220,
-            "rangedAttack": 110,
-            "meleeDefense": 160,
+            "rangedAttack": 160,
+            "meleeDefense": 110,
             "rangedDefense": 110,
             "speed": 110
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Kingrave_FR"
     },
     {
         "id": "095",
@@ -4006,7 +4101,8 @@
             "rangedDefense": 110,
             "speed": 200
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Queenyx_FR"
     },
     {
         "id": "096",
@@ -4020,12 +4116,13 @@
         "stats": {
             "hp": 100,
             "meleeAttack": 60,
-            "rangedAttack": 150,
-            "meleeDefense": 100,
+            "rangedAttack": 100,
+            "meleeDefense": 150,
             "rangedDefense": 150,
             "speed": 40
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Burnace_FR"
     },
     {
         "id": "097",
@@ -4039,12 +4136,13 @@
         "stats": {
             "hp": 140,
             "meleeAttack": 110,
-            "rangedAttack": 195,
-            "meleeDefense": 110,
+            "rangedAttack": 110,
+            "meleeDefense": 195,
             "rangedDefense": 195,
             "speed": 50
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Smogmagog_FR"
     },
     {
         "id": "098",
@@ -4058,12 +4156,13 @@
         "stats": {
             "hp": 90,
             "meleeAttack": 100,
-            "rangedAttack": 90,
-            "meleeDefense": 110,
+            "rangedAttack": 110,
+            "meleeDefense": 90,
             "rangedDefense": 100,
             "speed": 90
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Faucetear_FR"
     },
     {
         "id": "099",
@@ -4077,12 +4176,13 @@
         "stats": {
             "hp": 125,
             "meleeAttack": 135,
-            "rangedAttack": 125,
-            "meleeDefense": 155,
+            "rangedAttack": 155,
+            "meleeDefense": 125,
             "rangedDefense": 135,
             "speed": 125
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Fountess_FR"
     },
     {
         "id": "100",
@@ -4096,12 +4196,13 @@
         "stats": {
             "hp": 100,
             "meleeAttack": 115,
-            "rangedAttack": 90,
-            "meleeDefense": 105,
+            "rangedAttack": 105,
+            "meleeDefense": 90,
             "rangedDefense": 90,
             "speed": 100
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Cluckabilly_FR"
     },
     {
         "id": "101",
@@ -4115,12 +4216,13 @@
         "stats": {
             "hp": 130,
             "meleeAttack": 145,
-            "rangedAttack": 130,
-            "meleeDefense": 135,
+            "rangedAttack": 135,
+            "meleeDefense": 130,
             "rangedDefense": 130,
             "speed": 130
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Rockertrice_FR"
     },
     {
         "id": "102",
@@ -4139,7 +4241,8 @@
             "rangedDefense": 100,
             "speed": 100
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Pondwalker_FR"
     },
     {
         "id": "103",
@@ -4153,12 +4256,13 @@
         "stats": {
             "hp": 130,
             "meleeAttack": 150,
-            "rangedAttack": 140,
-            "meleeDefense": 130,
+            "rangedAttack": 130,
+            "meleeDefense": 140,
             "rangedDefense": 140,
             "speed": 110
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Sharktanker_FR"
     },
     {
         "id": "104",
@@ -4172,12 +4276,13 @@
         "stats": {
             "hp": 100,
             "meleeAttack": 90,
-            "rangedAttack": 90,
-            "meleeDefense": 100,
+            "rangedAttack": 100,
+            "meleeDefense": 90,
             "rangedDefense": 120,
             "speed": 100
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Pombomb_FR"
     },
     {
         "id": "105",
@@ -4191,12 +4296,13 @@
         "stats": {
             "hp": 120,
             "meleeAttack": 100,
-            "rangedAttack": 100,
-            "meleeDefense": 150,
+            "rangedAttack": 150,
+            "meleeDefense": 100,
             "rangedDefense": 140,
             "speed": 120
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Spitzfyre_FR"
     },
     {
         "id": "106",
@@ -4215,7 +4321,8 @@
             "rangedDefense": 80,
             "speed": 190
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Icepeck_FR"
     },
     {
         "id": "107",
@@ -4234,7 +4341,8 @@
             "rangedDefense": 90,
             "speed": 200
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Cryoshear_FR"
     },
     {
         "id": "108",
@@ -4253,7 +4361,8 @@
             "rangedDefense": 90,
             "speed": 150
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Sparktan_FR"
     },
     {
         "id": "109",
@@ -4267,12 +4376,13 @@
         "stats": {
             "hp": 140,
             "meleeAttack": 100,
-            "rangedAttack": 110,
-            "meleeDefense": 120,
+            "rangedAttack": 120,
+            "meleeDefense": 110,
             "rangedDefense": 130,
             "speed": 200
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Zeustrike_FR"
     },
     {
         "id": "110",
@@ -4291,7 +4401,8 @@
             "rangedDefense": 115,
             "speed": 115
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Kuneko_FR"
     },
     {
         "id": "111",
@@ -4310,7 +4421,8 @@
             "rangedDefense": 140,
             "speed": 140
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Shining Kuneko_FR"
     },
     {
         "id": "112",
@@ -4329,7 +4441,8 @@
             "rangedDefense": 100,
             "speed": 150
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Djinn Entonic_FR"
     },
     {
         "id": "113",
@@ -4348,7 +4461,8 @@
             "rangedDefense": 100,
             "speed": 250
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Arkidd_FR"
     },
     {
         "id": "114",
@@ -4362,12 +4476,13 @@
         "stats": {
             "hp": 200,
             "meleeAttack": 110,
-            "rangedAttack": 110,
-            "meleeDefense": 160,
+            "rangedAttack": 160,
+            "meleeDefense": 110,
             "rangedDefense": 110,
             "speed": 110
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Undyin_FR"
     },
     {
         "id": "115",
@@ -4386,7 +4501,8 @@
             "rangedDefense": 130,
             "speed": 100
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Spooki-onna_FR"
     },
     {
         "id": "116",
@@ -4400,12 +4516,13 @@
         "stats": {
             "hp": 100,
             "meleeAttack": 1,
-            "rangedAttack": 100,
-            "meleeDefense": 300,
+            "rangedAttack": 300,
+            "meleeDefense": 100,
             "rangedDefense": 250,
             "speed": 79
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Khepri_FR"
     },
     {
         "id": "117",
@@ -4419,12 +4536,13 @@
         "stats": {
             "hp": 150,
             "meleeAttack": 100,
-            "rangedAttack": 150,
-            "meleeDefense": 100,
+            "rangedAttack": 100,
+            "meleeDefense": 150,
             "rangedDefense": 150,
             "speed": 190
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Averevoir_FR"
     },
     {
         "id": "118",
@@ -4438,12 +4556,13 @@
         "stats": {
             "hp": 120,
             "meleeAttack": 160,
-            "rangedAttack": 90,
-            "meleeDefense": 160,
+            "rangedAttack": 160,
+            "meleeDefense": 90,
             "rangedDefense": 90,
             "speed": 220
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Glaistain_FR"
     },
     {
         "id": "119",
@@ -4462,7 +4581,8 @@
             "rangedDefense": 110,
             "speed": 150
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Miss Mimic_FR"
     },
     {
         "id": "120",
@@ -4481,7 +4601,8 @@
             "rangedDefense": 130,
             "speed": 85
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Anathema_FR"
     },
     {
         "id": "121",
@@ -4495,12 +4616,13 @@
         "stats": {
             "hp": 120,
             "meleeAttack": 120,
-            "rangedAttack": 105,
-            "meleeDefense": 160,
+            "rangedAttack": 160,
+            "meleeDefense": 105,
             "rangedDefense": 105,
             "speed": 190
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Pinbolt_FR"
     },
     {
         "id": "122",
@@ -4514,12 +4636,13 @@
         "stats": {
             "hp": 100,
             "meleeAttack": 160,
-            "rangedAttack": 150,
-            "meleeDefense": 125,
+            "rangedAttack": 125,
+            "meleeDefense": 150,
             "rangedDefense": 135,
             "speed": 130
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Diveberg_FR"
     },
     {
         "id": "123",
@@ -4533,12 +4656,13 @@
         "stats": {
             "hp": 110,
             "meleeAttack": 80,
-            "rangedAttack": 180,
-            "meleeDefense": 150,
+            "rangedAttack": 150,
+            "meleeDefense": 180,
             "rangedDefense": 180,
             "speed": 100
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Adeptile_FR"
     },
     {
         "id": "124",
@@ -4552,12 +4676,13 @@
         "stats": {
             "hp": 120,
             "meleeAttack": 150,
-            "rangedAttack": 120,
-            "meleeDefense": 90,
+            "rangedAttack": 90,
+            "meleeDefense": 120,
             "rangedDefense": 120,
             "speed": 90
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Trapwurm_FR"
     },
     {
         "id": "125",
@@ -4571,12 +4696,13 @@
         "stats": {
             "hp": 150,
             "meleeAttack": 180,
-            "rangedAttack": 130,
-            "meleeDefense": 110,
+            "rangedAttack": 110,
+            "meleeDefense": 130,
             "rangedDefense": 130,
             "speed": 100
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Wyrmaw_FR"
     },
     {
         "id": "126",
@@ -4590,12 +4716,13 @@
         "stats": {
             "hp": 90,
             "meleeAttack": 140,
-            "rangedAttack": 100,
-            "meleeDefense": 90,
+            "rangedAttack": 90,
+            "meleeDefense": 100,
             "rangedDefense": 140,
             "speed": 140
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Ferriclaw_FR"
     },
     {
         "id": "127",
@@ -4614,7 +4741,8 @@
             "rangedDefense": 170,
             "speed": 160
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Auriclaw_FR"
     },
     {
         "id": "128",
@@ -4633,7 +4761,8 @@
             "rangedDefense": 130,
             "speed": 150
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Picksie_FR"
     },
     {
         "id": "???",
@@ -4647,12 +4776,13 @@
         "stats": {
             "hp": 120,
             "meleeAttack": 100,
-            "rangedAttack": 120,
-            "meleeDefense": 100,
+            "rangedAttack": 100,
+            "meleeDefense": 120,
             "rangedDefense": 80,
             "speed": 80
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Amphare_FR"
     },
     {
         "id": "???",
@@ -4671,7 +4801,8 @@
             "rangedDefense": 100,
             "speed": 130
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Blunderbusk_FR"
     },
     {
         "id": "???",
@@ -4685,12 +4816,13 @@
         "stats": {
             "hp": 80,
             "meleeAttack": 110,
-            "rangedAttack": 80,
-            "meleeDefense": 120,
+            "rangedAttack": 120,
+            "meleeDefense": 80,
             "rangedDefense": 100,
             "speed": 110
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Charlequin_FR"
     },
     {
         "id": "???",
@@ -4704,12 +4836,13 @@
         "stats": {
             "hp": 100,
             "meleeAttack": 140,
-            "rangedAttack": 100,
-            "meleeDefense": 170,
+            "rangedAttack": 170,
+            "meleeDefense": 100,
             "rangedDefense": 160,
             "speed": 130
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Fragliacci_FR"
     },
     {
         "id": "???",
@@ -4723,12 +4856,13 @@
         "stats": {
             "hp": 110,
             "meleeAttack": 180,
-            "rangedAttack": 150,
-            "meleeDefense": 180,
+            "rangedAttack": 180,
+            "meleeDefense": 150,
             "rangedDefense": 80,
             "speed": 100
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Hauntome_FR"
     },
     {
         "id": "???",
@@ -4742,12 +4876,13 @@
         "stats": {
             "hp": 150,
             "meleeAttack": 125,
-            "rangedAttack": 150,
-            "meleeDefense": 125,
+            "rangedAttack": 125,
+            "meleeDefense": 150,
             "rangedDefense": 150,
             "speed": 100
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Lapacitor_FR"
     },
     {
         "id": "???",
@@ -4766,7 +4901,8 @@
             "rangedDefense": 100,
             "speed": 100
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Littlered_FR"
     },
     {
         "id": "???",
@@ -4780,12 +4916,13 @@
         "stats": {
             "hp": 150,
             "meleeAttack": 150,
-            "rangedAttack": 150,
-            "meleeDefense": 110,
+            "rangedAttack": 110,
+            "meleeDefense": 150,
             "rangedDefense": 110,
             "speed": 130
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Majortom_FR"
     },
     {
         "id": "???",
@@ -4799,12 +4936,13 @@
         "stats": {
             "hp": 130,
             "meleeAttack": 130,
-            "rangedAttack": 130,
-            "meleeDefense": 70,
+            "rangedAttack": 70,
+            "meleeDefense": 130,
             "rangedDefense": 70,
             "speed": 70
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Minortom_FR"
     },
     {
         "id": "???",
@@ -4818,12 +4956,13 @@
         "stats": {
             "hp": 160,
             "meleeAttack": 110,
-            "rangedAttack": 100,
-            "meleeDefense": 160,
+            "rangedAttack": 160,
+            "meleeDefense": 100,
             "rangedDefense": 110,
             "speed": 160
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Rosehood_FR"
     },
     {
         "id": "???",
@@ -4837,12 +4976,13 @@
         "stats": {
             "hp": 110,
             "meleeAttack": 160,
-            "rangedAttack": 160,
-            "meleeDefense": 100,
+            "rangedAttack": 100,
+            "meleeDefense": 160,
             "rangedDefense": 160,
             "speed": 110
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Scarleteeth_FR"
     },
     {
         "id": "???",
@@ -4856,11 +4996,12 @@
         "stats": {
             "hp": 150,
             "meleeAttack": 120,
-            "rangedAttack": 140,
-            "meleeDefense": 170,
+            "rangedAttack": 170,
+            "meleeDefense": 140,
             "rangedDefense": 200,
             "speed": 60
         },
-        "moves": []
+        "moves": [],
+        "name_fr": "Umbrahella_FR"
     }
 ]
