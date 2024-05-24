@@ -1,0 +1,13 @@
+https://wiki.cassettebeasts.com/images/d/d2/Draculeaf.png
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Pumpkin Pie	Plant	Status Effect	—	Unavoidable	2 AP
+Initial	Jump Scare	Typeless	Melee Attack	30	100%	1 AP
+Initial	Trick	Typeless	Status Effect	—	100%	1 AP
+Initial	Treat	Typeless	Status Effect	—	Unavoidable	1 AP
+Initial	Bite	Beast	Melee Attack	80	100%	3 AP
+Initial	Plant Wall	Plant	Status Effect	—	100%	2 AP
+Star-white.png	Snooze Spore	Plant	Status Effect	—	50%	2 AP
+Star-white.pngStar-white.png	Ritual	Astral	Status Effect	—	100%	6 AP
+Star-white.pngStar-white.pngStar-white.png	Vampire	Beast	Miscellaneous	—	100%	Passive
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Leech	Plant	Status Effect	—	100%	1 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Déjà Vu	Astral	Status Effect	—	100%	2 AP

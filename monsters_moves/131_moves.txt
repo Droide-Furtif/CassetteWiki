@@ -1,0 +1,9 @@
+https://wiki.cassettebeasts.com/images/c/ce/Charlequin.png
+Initial	Spit	Typeless	Ranged Attack	30	100%	0 AP
+Initial	Prismatic	Glitter	Status Effect	—	Unavoidable	Passive
+Initial	Bad Joke	Typeless	Miscellaneous	—	Unavoidable	0 AP
+Star-white.png	Inflame	Fire	Ranged Attack	60	100%	2 AP
+Star-white.pngStar-white.png	Gasoline Spray	Fire	Status Effect	—	100%	3 AP
+Star-white.pngStar-white.pngStar-white.png	Multi Shot	Typeless	Ranged Attack	20	100%	3 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Sticker Trick	Glitter	Status Effect	—	100%	3 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	bE rAnDoM!!	Astral	Miscellaneous	—	100%	0 AP

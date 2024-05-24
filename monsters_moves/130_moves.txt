@@ -1,0 +1,14 @@
+https://wiki.cassettebeasts.com/images/6/63/Blunderbusk.png
+Initial	Spit	Typeless	Ranged Attack	30	100%	0 AP
+Initial	Prismatic	Glitter	Status Effect	—	Unavoidable	Passive
+Initial	Bad Joke	Typeless	Miscellaneous	—	Unavoidable	0 AP
+Initial	Inflame	Fire	Ranged Attack	60	100%	2 AP
+Initial	Gasoline Spray	Fire	Status Effect	—	100%	3 AP
+Initial	Multi Shot	Typeless	Ranged Attack	20	100%	3 AP
+Initial	Sticker Trick	Glitter	Status Effect	—	100%	3 AP
+Initial	bE rAnDoM!!	Astral	Miscellaneous	—	100%	0 AP
+Star-white.png	Roll Again	Typeless	Miscellaneous	—	100%	Passive
+Star-white.pngStar-white.png	Neutralise	Water	Miscellaneous	—	100%	Passive
+Star-white.pngStar-white.pngStar-white.png	Elemental Wall	Typeless	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Hot Potato	Fire	Status Effect	—	100%	3 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Self-Destruct	Fire	Ranged Attack	60	100%	Passive

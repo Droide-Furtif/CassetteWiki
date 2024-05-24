@@ -1,0 +1,9 @@
+https://wiki.cassettebeasts.com/images/1/11/Jellyton.png
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Acid Reflex	Poison	Status Effect	—	Unavoidable	Passive
+Initial	Liquid Body	Poison	Miscellaneous	—	100%	Passive
+Star-white.png	Bone Cannon	Beast	Ranged Attack	40	100%	3 AP
+Star-white.pngStar-white.png	Toxic Stab	Poison	Melee Attack	90	100%	4 AP
+Star-white.pngStar-white.pngStar-white.png	Double Slice	Typeless	Melee Attack	30	100%	4 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Poison Wall	Poison	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Multi Smack	Typeless	Melee Attack	20	100%	3 AP

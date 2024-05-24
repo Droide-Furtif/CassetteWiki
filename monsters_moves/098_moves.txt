@@ -1,0 +1,9 @@
+https://wiki.cassettebeasts.com/images/d/db/Faucetear.png
+Initial	Spit	Typeless	Ranged Attack	30	100%	0 AP
+Initial	Call For Help	Typeless	Miscellaneous	—	50%	2 AP
+Star-white.png	Spray	Typeless	Ranged Attack	30	100%	1 AP
+Star-white.pngStar-white.png	Waterworks	Water	Ranged Attack	100	90%	5 AP
+Star-white.pngStar-white.pngStar-white.png	Fog	Water	Status Effect	—	Unavoidable	4 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Torrent	Water	Ranged Attack	40	100%	4 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Elemental Wall	Typeless	Status Effect	—	100%	2 AP
+

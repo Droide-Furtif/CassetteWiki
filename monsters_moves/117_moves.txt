@@ -1,0 +1,8 @@
+https://wiki.cassettebeasts.com/images/5/5b/Averevoir.png
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Raise Shields	Typeless	Status Effect	—	100%	1 AP
+Star-white.png	Tower Defence	Earth	Status Effect	—	100%	Passive
+Star-white.pngStar-white.png	Grounded	Lightning	Miscellaneous	—	100%	Passive
+Star-white.pngStar-white.pngStar-white.png	Sonic Boom	Air	Ranged Attack	60	100%	3 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Brick Blast	Plastic	Ranged Attack	40	100%	4 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Copper Chop	Metal	Melee Attack	60	100%	3 AP

@@ -1,0 +1,8 @@
+https://wiki.cassettebeasts.com/images/7/73/Glaistain.png
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Dodge	Typeless	Status Effect	—	100%	1 AP
+Star-white.png	Crystal Lens	Glass	Ranged Attack	60	100%	2 AP
+Star-white.pngStar-white.png	Jagged Edge	Typeless	Melee Attack	40	Unavoidable	Passive
+Star-white.pngStar-white.pngStar-white.png	Window	Glass	Status Effect	—	100%	1 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Glass Bonds	Glass	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Glass Cannon	Glass	Ranged Attack	120	100%	4 AP

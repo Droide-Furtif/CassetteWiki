@@ -1,0 +1,8 @@
+https://wiki.cassettebeasts.com/images/9/94/Djinn_Entonic.png
+Initial	Spit	Typeless	Ranged Attack	30	100%	0 AP
+Initial	Compliment	Typeless	Status Effect	—	100%	1 AP
+Star-white.png	Moonshine	Astral	Ranged Attack	30	100%	1 AP
+Star-white.pngStar-white.png	Bottle Volley	Glass	Ranged Attack	40	100%	3 AP
+Star-white.pngStar-white.pngStar-white.png	Glass Cannon	Glass	Ranged Attack	120	100%	4 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Haunt	Astral	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Djinntoxicate	Astral	Ranged Attack	90	100%	4 AP

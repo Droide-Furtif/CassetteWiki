@@ -432,7 +432,7 @@
                 "unlockedLevel": 5
             }
         ],
-        "name_fr": "Carniviper_FR"
+        "name_fr": "Carnivipère"
     },
     {
         "id": "007",
@@ -4399,7 +4399,7 @@
     {
         "id": "071",
         "name": "Boltam",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/5/52/Boltam.png",
         "type": "Lightning",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4413,13 +4413,42 @@
             "rangedDefense": 90,
             "speed": 150
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 47,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 54,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 24,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 255,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 63,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 39,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Boltam_FR"
     },
     {
         "id": "072",
         "name": "Plasmantler",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/e/e6/Plasmantler.png",
         "type": "Lightning",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4433,13 +4462,58 @@
             "rangedDefense": 160,
             "speed": 160
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 47,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 54,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 24,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 255,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 39,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 158,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 154,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 97,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 253,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 144,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Plasmantler_FR"
     },
     {
         "id": "073",
         "name": "Busheye",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/d/d3/Busheye.png",
         "type": "Plant",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4453,13 +4527,42 @@
             "rangedDefense": 90,
             "speed": 90
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 178,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 236,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 273,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 94,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 81,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 3,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Busheye_FR"
     },
     {
         "id": "074",
         "name": "Huntorch",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/1/13/Huntorch.png",
         "type": "Plant",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4473,13 +4576,58 @@
             "rangedDefense": 90,
             "speed": 140
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 178,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 273,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 94,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 81,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 3,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 49,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 217,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 173,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 131,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 79,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Huntorch_FR"
     },
     {
         "id": "075",
         "name": "Hedgeherne",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/e/e9/Hedgeherne.png",
         "type": "Plant",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4493,13 +4641,66 @@
             "rangedDefense": 110,
             "speed": 150
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 94,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 81,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 3,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 49,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 173,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 131,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 79,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 140,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 48,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 284,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 235,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 219,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Hedgeherne_FR"
     },
     {
         "id": "076",
         "name": "Terracooka",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/1/13/Terracooka.png",
         "type": "Earth",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4513,13 +4714,42 @@
             "rangedDefense": 100,
             "speed": 80
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 56,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 60,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 131,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 91,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 216,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 72,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Terracooka_FR"
     },
     {
         "id": "077",
         "name": "Coaldron",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/1/1e/Coaldron.png",
         "type": "Earth",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4533,13 +4763,58 @@
             "rangedDefense": 140,
             "speed": 90
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 234,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 56,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 131,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 91,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 216,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 72,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 38,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 12,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 169,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 106,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 128,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Coaldron_FR"
     },
     {
         "id": "078",
         "name": "Stardigrade",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/6/63/Stardigrade.png",
         "type": "Astral",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4553,13 +4828,42 @@
             "rangedDefense": 150,
             "speed": 40
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 106,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 159,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 130,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 166,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 198,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 87,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Stardigrade_FR"
     },
     {
         "id": "079",
         "name": "Galagor",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/7/77/Galagor.png",
         "type": "Astral",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4573,13 +4877,62 @@
             "rangedDefense": 150,
             "speed": 60
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 234,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 106,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 159,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 130,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 166,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 198,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 87,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 47,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 45,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 18,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 224,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 158,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Galagor_FR"
     },
     {
         "id": "080",
         "name": "Mascotoy",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/6/6c/Mascotoy.png",
         "type": "Plastic",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4593,13 +4946,42 @@
             "rangedDefense": 80,
             "speed": 70
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 265,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 259,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 34,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 187,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 178,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 264,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Mascotoy_FR"
     },
     {
         "id": "081",
         "name": "Mascotorn",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/c/c2/Mascotorn.png",
         "type": "Plastic",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4613,13 +4995,58 @@
             "rangedDefense": 110,
             "speed": 90
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 259,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 34,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 187,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 178,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 264,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 127,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 239,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 84,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 180,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 214,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Mascotorn_FR"
     },
     {
         "id": "082",
         "name": "Binvader",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/4/42/Binvader.png",
         "type": "Metal",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4633,13 +5060,42 @@
             "rangedDefense": 90,
             "speed": 50
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 234,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 204,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 164,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 32,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 43,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 96,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 31,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Binvader_FR"
     },
     {
         "id": "083",
         "name": "Binterloper",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/4/40/Binterloper.png",
         "type": "Plastic",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4653,13 +5109,62 @@
             "rangedDefense": 110,
             "speed": 110
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 234,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 204,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 164,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 32,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 43,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 96,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 31,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 208,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 140,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 224,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 47,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 111,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Binterloper_FR"
     },
     {
         "id": "084",
         "name": "Twirligig",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/0/0b/Twirligig.png",
         "type": "Plant",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4673,13 +5178,42 @@
             "rangedDefense": 150,
             "speed": 10
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 282,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 184,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 77,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 235,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 205,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 79,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Twirligig_FR"
     },
     {
         "id": "085",
         "name": "Kirikuri",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/4/4d/Kirikuri.png",
         "type": "Plant",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4693,13 +5227,62 @@
             "rangedDefense": 110,
             "speed": 120
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 282,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 184,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 77,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 235,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 205,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 79,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 177,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 201,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 284,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 221,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 209,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Kirikuri_FR"
     },
     {
         "id": "086",
         "name": "Jellyton",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/1/11/Jellyton.png",
         "type": "Poison",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4713,13 +5296,46 @@
             "rangedDefense": 90,
             "speed": 110
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 2,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 155,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 41,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 258,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 84,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 194,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 170,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Jellyton_FR"
     },
     {
         "id": "087",
         "name": "Spirouette",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/a/a2/Spirouette.png",
         "type": "Water",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4733,13 +5349,46 @@
             "rangedDefense": 70,
             "speed": 140
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 234,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 238,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 139,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 277,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 201,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 275,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 256,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 107,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Spirouette_FR"
     },
     {
         "id": "088",
         "name": "Regensea",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/1/1d/Regensea.png",
         "type": "Water",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4753,13 +5402,66 @@
             "rangedDefense": 100,
             "speed": 170
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 234,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 238,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 139,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 277,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 201,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 275,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 256,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 107,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 268,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 78,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 97,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 276,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 128,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Regensea_FR"
     },
     {
         "id": "089",
         "name": "Jumpkin",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/4/40/Jumpkin.png",
         "type": "Plant",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4773,13 +5475,42 @@
             "rangedDefense": 100,
             "speed": 140
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 199,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 146,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 264,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 263,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 34,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 184,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Jumpkin_FR"
     },
     {
         "id": "090",
         "name": "Beanstalker",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/c/c8/Beanstalker.png",
         "type": "Plant",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4793,13 +5524,62 @@
             "rangedDefense": 100,
             "speed": 165
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 199,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 146,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 264,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 263,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 34,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 184,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 284,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 258,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 220,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 187,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 239,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Beanstalker_FR"
     },
     {
         "id": "091",
         "name": "Draculeaf",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/d/d2/Draculeaf.png",
         "type": "Plant",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4813,13 +5593,62 @@
             "rangedDefense": 125,
             "speed": 140
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 199,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 146,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 264,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 263,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 34,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 184,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 231,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 214,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 271,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 148,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 87,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Draculeaf_FR"
     },
     {
         "id": "092",
         "name": "Pawndead",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/a/a2/Pawndead.png",
         "type": "Earth",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4833,13 +5662,42 @@
             "rangedDefense": 90,
             "speed": 90
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 108,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 41,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 75,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 89,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 9,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 36,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Pawndead_FR"
     },
     {
         "id": "093",
         "name": "Skelevangelist",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/3/36/Skelevangelist.png",
         "type": "Earth",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4853,13 +5711,58 @@
             "rangedDefense": 110,
             "speed": 110
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 108,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 41,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 75,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 9,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 36,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 29,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 147,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 51,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 214,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 149,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Skelevangelist_FR"
     },
     {
         "id": "094",
         "name": "Kingrave",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/f/f8/Kingrave.png",
         "type": "Earth",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4873,13 +5776,66 @@
             "rangedDefense": 110,
             "speed": 110
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 108,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 41,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 75,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 29,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 147,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 214,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 149,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 78,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 272,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 33,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 209,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 127,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Kingrave_FR"
     },
     {
         "id": "095",
         "name": "Queenyx",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/a/a0/Queenyx.png",
         "type": "Earth",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4893,13 +5849,66 @@
             "rangedDefense": 110,
             "speed": 200
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 108,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 41,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 75,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 29,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 147,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 214,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 149,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 78,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 112,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 238,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 139,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 87,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Queenyx_FR"
     },
     {
         "id": "096",
         "name": "Burnace",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/1/16/Burnace.png",
         "type": "Fire",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4913,13 +5922,42 @@
             "rangedDefense": 150,
             "speed": 40
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 234,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 60,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 125,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 19,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 140,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 46,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 219,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Burnace_FR"
     },
     {
         "id": "097",
         "name": "Smogmagog",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/c/c7/Smogmagog.png",
         "type": "Fire",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4933,13 +5971,58 @@
             "rangedDefense": 195,
             "speed": 50
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 60,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 125,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 19,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 140,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 219,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 250,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 69,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 202,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 158,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 223,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Smogmagog_FR"
     },
     {
         "id": "098",
         "name": "Faucetear",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/d/db/Faucetear.png",
         "type": "Water",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4953,13 +6036,42 @@
             "rangedDefense": 100,
             "speed": 90
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 234,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 51,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 236,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 279,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 107,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 256,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 94,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Faucetear_FR"
     },
     {
         "id": "099",
         "name": "Fountess",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/4/45/Fountess.png",
         "type": "Water",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4973,13 +6085,58 @@
             "rangedDefense": 135,
             "speed": 125
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 234,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 236,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 279,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 107,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 256,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 94,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 70,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 38,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 97,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 169,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 128,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Fountess_FR"
     },
     {
         "id": "100",
         "name": "Cluckabilly",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/5/59/Cluckabilly.png",
         "type": "Air",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -4993,13 +6150,42 @@
             "rangedDefense": 90,
             "speed": 100
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 174,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 85,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 51,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 7,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 25,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 163,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Cluckabilly_FR"
     },
     {
         "id": "101",
         "name": "Rockertrice",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/a/a8/Rockertrice.png",
         "type": "Air",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5013,13 +6199,58 @@
             "rangedDefense": 130,
             "speed": 130
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 174,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 85,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 7,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 25,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 163,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 244,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 141,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 92,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 233,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 140,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Rockertrice_FR"
     },
     {
         "id": "102",
         "name": "Pondwalker",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/d/dd/Pondwalker.png",
         "type": "Water",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5033,13 +6264,42 @@
             "rangedDefense": 100,
             "speed": 100
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 234,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 164,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 265,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 51,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 268,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 82,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 256,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Pondwalker_FR"
     },
     {
         "id": "103",
         "name": "Sharktanker",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/4/40/Sharktanker.png",
         "type": "Water",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5053,13 +6313,58 @@
             "rangedDefense": 140,
             "speed": 110
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 164,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 265,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 268,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 82,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 256,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 34,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 220,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 107,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 38,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 219,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Sharktanker_FR"
     },
     {
         "id": "104",
         "name": "Pombomb",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/c/c7/Pombomb.png",
         "type": "Fire",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5073,13 +6378,46 @@
             "rangedDefense": 120,
             "speed": 100
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 234,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 83,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 243,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 141,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 287,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 131,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 94,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 25,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Pombomb_FR"
     },
     {
         "id": "105",
         "name": "Spitzfyre",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/0/04/Spitzfyre.png",
         "type": "Fire",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5093,13 +6431,66 @@
             "rangedDefense": 140,
             "speed": 120
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 234,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 83,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 243,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 141,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 287,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 131,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 94,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 25,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 251,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 207,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 122,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 7,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 233,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Spitzfyre_FR"
     },
     {
         "id": "106",
         "name": "Icepeck",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/9/96/Icepeck.png",
         "type": "Ice",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5113,13 +6504,42 @@
             "rangedDefense": 80,
             "speed": 190
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 238,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 232,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 221,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 265,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 109,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 139,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Icepeck_FR"
     },
     {
         "id": "107",
         "name": "Cryoshear",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/2/2a/Cryoshear.png",
         "type": "Ice",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5133,13 +6553,62 @@
             "rangedDefense": 90,
             "speed": 200
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 238,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 232,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 221,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 265,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 109,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 139,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 220,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 84,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 258,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 86,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 134,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Cryoshear_FR"
     },
     {
         "id": "108",
         "name": "Sparktan",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/6/68/Sparktan.png",
         "type": "Lightning",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5153,13 +6622,42 @@
             "rangedDefense": 90,
             "speed": 150
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 234,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 204,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 255,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 82,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 154,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 35,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 96,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Sparktan_FR"
     },
     {
         "id": "109",
         "name": "Zeustrike",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/c/c9/Zeustrike.png",
         "type": "Lightning",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5173,13 +6671,62 @@
             "rangedDefense": 130,
             "speed": 200
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 234,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 204,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 255,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 82,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 154,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 35,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 96,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 144,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 205,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 97,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 132,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 75,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Zeustrike_FR"
     },
     {
         "id": "110",
         "name": "Kuneko",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/3/39/Kuneko.png",
         "type": "Air",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5193,13 +6740,42 @@
             "rangedDefense": 115,
             "speed": 115
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 282,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 84,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 220,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 22,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 94,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 25,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Kuneko_FR"
     },
     {
         "id": "111",
         "name": "Shining Kuneko",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/5/59/Shining_Kuneko.png",
         "type": "Astral",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5213,13 +6789,62 @@
             "rangedDefense": 140,
             "speed": 140
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 282,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 84,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 220,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 22,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 7,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 25,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 214,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 224,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 111,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 47,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 66,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Shining Kuneko_FR"
     },
     {
         "id": "112",
         "name": "Djinn Entonic",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/9/94/Djinn_Entonic.png",
         "type": "Astral",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5233,13 +6858,42 @@
             "rangedDefense": 100,
             "speed": 150
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 234,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 62,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 167,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 43,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 118,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 127,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 80,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Djinn Entonic_FR"
     },
     {
         "id": "113",
         "name": "Arkidd",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/c/c5/Arkidd.png",
         "type": "Lightning",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5253,13 +6907,42 @@
             "rangedDefense": 100,
             "speed": 250
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 265,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 54,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 259,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 189,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 24,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 8,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Arkidd_FR"
     },
     {
         "id": "114",
         "name": "Undyin",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/d/d9/Undyin.png",
         "type": "Water",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5273,13 +6956,42 @@
             "rangedDefense": 110,
             "speed": 110
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 234,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 105,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 256,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 149,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 138,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 134,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 214,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Undyin_FR"
     },
     {
         "id": "115",
         "name": "Spooki-onna",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/3/3b/Spooki-onna.png",
         "type": "Ice",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5293,13 +7005,42 @@
             "rangedDefense": 130,
             "speed": 100
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 234,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 82,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 149,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 35,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 134,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 20,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 107,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Spooki-onna_FR"
     },
     {
         "id": "116",
         "name": "Khepri",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/d/d6/Khepri.png",
         "type": "Fire",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5313,13 +7054,46 @@
             "rangedDefense": 250,
             "speed": 79
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 234,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 204,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 270,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 72,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 219,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 102,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 8,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 207,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Khepri_FR"
     },
     {
         "id": "117",
         "name": "Averevoir",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/5/5b/Averevoir.png",
         "type": "Air",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5333,13 +7107,42 @@
             "rangedDefense": 150,
             "speed": 190
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 205,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 257,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 124,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 233,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 46,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 63,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Averevoir_FR"
     },
     {
         "id": "118",
         "name": "Glaistain",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/7/73/Glaistain.png",
         "type": "Glass",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5353,13 +7156,42 @@
             "rangedDefense": 90,
             "speed": 220
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 82,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 73,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 145,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 281,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 116,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 118,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Glaistain_FR"
     },
     {
         "id": "119",
         "name": "Miss Mimic",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/e/e2/Miss_Mimic.png",
         "type": "Metal",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5373,13 +7205,50 @@
             "rangedDefense": 110,
             "speed": 150
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 196,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 74,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 220,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 84,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 187,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 258,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 105,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 239,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Miss Mimic_FR"
     },
     {
         "id": "120",
         "name": "Anathema",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/0/0f/Anathema.png",
         "type": "Beast",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5393,13 +7262,42 @@
             "rangedDefense": 130,
             "speed": 85
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 104,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 79,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 34,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 200,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 206,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 219,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Anathema_FR"
     },
     {
         "id": "121",
         "name": "Pinbolt",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/9/94/Pinbolt.png",
         "type": "Lightning",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5413,13 +7311,58 @@
             "rangedDefense": 105,
             "speed": 190
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 63,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 54,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 24,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 255,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 39,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 215,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 75,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 86,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 139,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 128,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Pinbolt_FR"
     },
     {
         "id": "122",
         "name": "Diveberg",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/4/40/Diveberg.png",
         "type": "Ice",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5433,13 +7376,58 @@
             "rangedDefense": 135,
             "speed": 130
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 94,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 136,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 137,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 134,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 268,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 99,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 76,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 20,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 270,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 61,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Diveberg_FR"
     },
     {
         "id": "123",
         "name": "Adeptile",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/7/7a/Adeptile.png",
         "type": "Astral",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5453,13 +7441,62 @@
             "rangedDefense": 180,
             "speed": 100
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 234,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 204,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 141,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 75,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 215,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 102,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 251,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 240,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 214,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 157,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 175,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 159,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Adeptile_FR"
     },
     {
         "id": "124",
         "name": "Trapwurm",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/5/54/Trapwurm.png",
         "type": "Earth",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5473,13 +7510,46 @@
             "rangedDefense": 120,
             "speed": 90
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 261,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 34,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 264,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 79,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 225,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 74,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 220,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Trapwurm_FR"
     },
     {
         "id": "125",
         "name": "Wyrmaw",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/1/18/Wyrmaw.png",
         "type": "Earth",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5493,13 +7563,66 @@
             "rangedDefense": 130,
             "speed": 100
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 261,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 74,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 34,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 264,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 79,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 225,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 220,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 245,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 168,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 72,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 177,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 147,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Wyrmaw_FR"
     },
     {
         "id": "126",
         "name": "Ferriclaw",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/b/bb/Ferriclaw.png",
         "type": "Metal",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5513,13 +7636,46 @@
             "rangedDefense": 140,
             "speed": 140
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 266,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 242,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 280,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 239,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 258,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 201,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 51,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Ferriclaw_FR"
     },
     {
         "id": "127",
         "name": "Auriclaw",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/b/b7/Auriclaw.png",
         "type": "Metal",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5533,13 +7689,66 @@
             "rangedDefense": 170,
             "speed": 160
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 266,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 242,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 280,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 239,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 258,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 201,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 51,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 221,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 272,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 37,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 124,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 245,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Auriclaw_FR"
     },
     {
         "id": "128",
         "name": "Picksie",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/9/9b/Picksie.png",
         "type": "Earth",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5553,13 +7762,58 @@
             "rangedDefense": 130,
             "speed": 150
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 262,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 115,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 178,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 206,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 51,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 14,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 60,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 72,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 73,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 168,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Picksie_FR"
     },
     {
         "id": "???",
         "name": "Amphare",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/b/b7/Amphare.png",
         "type": "Lightning",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5573,13 +7827,42 @@
             "rangedDefense": 80,
             "speed": 80
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 143,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 95,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 154,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 287,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 51,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 158,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Amphare_FR"
     },
     {
         "id": "???",
         "name": "Blunderbusk",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/6/63/Blunderbusk.png",
         "type": "Fire",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5593,13 +7876,66 @@
             "rangedDefense": 100,
             "speed": 130
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 234,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 197,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 22,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 141,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 113,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 169,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 241,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 25,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 215,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 172,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 94,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 131,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 219,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Blunderbusk_FR"
     },
     {
         "id": "???",
         "name": "Charlequin",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/c/ce/Charlequin.png",
         "type": "Fire",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5613,13 +7949,46 @@
             "rangedDefense": 100,
             "speed": 110
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 234,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 197,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 22,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 141,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 113,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 169,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 241,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 25,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Charlequin_FR"
     },
     {
         "id": "???",
         "name": "Fragliacci",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/6/6d/Fragliacci.png",
         "type": "Fire",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5633,13 +8002,66 @@
             "rangedDefense": 160,
             "speed": 130
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 234,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 197,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 22,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 141,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 113,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 169,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 241,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 25,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 207,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 251,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 171,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 213,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 118,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Fragliacci_FR"
     },
     {
         "id": "???",
         "name": "Hauntome",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/6/69/Hauntome.png",
         "type": "Air",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5653,13 +8075,42 @@
             "rangedDefense": 80,
             "speed": 100
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 234,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 126,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 127,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 173,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 147,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 142,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 166,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Hauntome_FR"
     },
     {
         "id": "???",
         "name": "Lapacitor",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/e/ef/Lapacitor.png",
         "type": "Lightning",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5673,13 +8124,62 @@
             "rangedDefense": 150,
             "speed": 100
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 143,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 95,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 154,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 287,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 51,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 158,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 19,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 223,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 254,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 54,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 24,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Lapacitor_FR"
     },
     {
         "id": "???",
         "name": "Littlered",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/7/7f/Littlered.png",
         "type": "Beast",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5693,13 +8193,46 @@
             "rangedDefense": 100,
             "speed": 100
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 52,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 34,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 51,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 30,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 287,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 82,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 65,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Littlered_FR"
     },
     {
         "id": "???",
         "name": "Majortom",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/0/0d/Majortom.png",
         "type": "Metal",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5713,13 +8246,66 @@
             "rangedDefense": 110,
             "speed": 130
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 205,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 245,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 224,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 233,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 18,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 124,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 44,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 150,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 59,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 111,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 114,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 219,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Majortom_FR"
     },
     {
         "id": "???",
         "name": "Minortom",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/d/dd/Minortom.png",
         "type": "Metal",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5733,13 +8319,46 @@
             "rangedDefense": 70,
             "speed": 70
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 205,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 245,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 224,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 233,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 18,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 124,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 44,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Minortom_FR"
     },
     {
         "id": "???",
         "name": "Rosehood",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/2/2d/Rosehood.png",
         "type": "Plant",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5753,13 +8372,62 @@
             "rangedDefense": 110,
             "speed": 160
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 34,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 51,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 30,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 287,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 82,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 65,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 284,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 48,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 235,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 192,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 175,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Rosehood_FR"
     },
     {
         "id": "???",
         "name": "Scarleteeth",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/9/95/Scarleteeth.png",
         "type": "Beast",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5773,13 +8441,66 @@
             "rangedDefense": 160,
             "speed": 110
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 230,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 52,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 34,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 51,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 30,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 287,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 82,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 65,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 146,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 33,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 37,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 264,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 64,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Scarleteeth_FR"
     },
     {
         "id": "???",
         "name": "Umbrahella",
-        "img": " ",
+        "img": "https://wiki.cassettebeasts.com/images/0/0e/Umbrahella.png",
         "type": "Poison",
         "evolvesFrom": " ",
         "evolvesTo": [
@@ -5793,7 +8514,40 @@
             "rangedDefense": 200,
             "speed": 60
         },
-        "moves": [],
+        "moves": [
+            {
+                "move_id": 234,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 92,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 21,
+                "unlockedLevel": 0
+            },
+            {
+                "move_id": 50,
+                "unlockedLevel": 1
+            },
+            {
+                "move_id": 271,
+                "unlockedLevel": 2
+            },
+            {
+                "move_id": 180,
+                "unlockedLevel": 3
+            },
+            {
+                "move_id": 68,
+                "unlockedLevel": 4
+            },
+            {
+                "move_id": 172,
+                "unlockedLevel": 5
+            }
+        ],
         "name_fr": "Umbrahella_FR"
     }
 ]

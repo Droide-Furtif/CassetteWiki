@@ -1,0 +1,12 @@
+https://wiki.cassettebeasts.com/images/c/c7/Smogmagog.png
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Coal Story	Earth	Ranged Attack	30	100%	1 AP
+Initial	Guzzle Fuel	Fire	Miscellaneous	—	100%	2 AP
+Initial	Automation	Typeless	Miscellaneous	—	100%	Passive
+Initial	Incinerate	Fire	Melee Attack	40	100%	3 AP
+Initial	Self-Destruct	Fire	Ranged Attack	60	100%	Passive
+Star-white.png	Superheated Fist	Fire	Melee Attack	60	100%	2 AP
+Star-white.pngStar-white.png	Critical Mass	Fire	Miscellaneous	—	100%	Passive
+Star-white.pngStar-white.pngStar-white.png	Radiation Breath	Poison	Ranged Attack	20	100%	4 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Magnet	Metal	Status Effect	—	100%	1 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Shield Bash	Metal	Melee Attack	90	100%	3 AP

@@ -1,0 +1,8 @@
+https://wiki.cassettebeasts.com/images/d/dd/Pondwalker.png
+Initial	Spit	Typeless	Ranged Attack	30	100%	0 AP
+Initial	Metal Wall	Metal	Status Effect	—	100%	2 AP
+Star-white.png	Trip	Typeless	Status Effect	—	100%	1 AP
+Star-white.pngStar-white.png	Call For Help	Typeless	Miscellaneous	—	50%	2 AP
+Star-white.pngStar-white.pngStar-white.png	Undertow	Water	Ranged Attack	90	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Dodge	Typeless	Status Effect	—	100%	1 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Torrent	Water	Ranged Attack	40	100%	4 AP

@@ -1,0 +1,13 @@
+https://wiki.cassettebeasts.com/images/4/4d/Kirikuri.png
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Wink	Typeless	Status Effect	—	100%	1 AP
+Initial	Plant Wall	Plant	Status Effect	—	100%	2 AP
+Initial	Defend	Typeless	Status Effect	—	100%	1 AP
+Initial	Splinter	Plant	Melee Attack	15	Unavoidable	Passive
+Initial	Raise Shields	Typeless	Status Effect	—	100%	1 AP
+Initial	Desperation	Typeless	Melee Attack	20	100%	1 AP
+Star-white.png	Parry Stance	Beast	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.png	Quick Smack	Typeless	Melee Attack	30	100%	1 AP
+Star-white.pngStar-white.pngStar-white.png	Woodcutter	Plant	Melee Attack	40	100%	3 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Sharpen	Typeless	Status Effect	—	100%	1 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Retribution	Typeless	Status Effect	—	Unavoidable	Passive

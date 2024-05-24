@@ -1,0 +1,12 @@
+https://wiki.cassettebeasts.com/images/a/a8/Rockertrice.png
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Nod	Typeless	Status Effect	—	100%	1 AP
+Initial	Double Smack	Typeless	Melee Attack	30	100%	2 AP
+Initial	Air Wall	Air	Status Effect	—	100%	2 AP
+Initial	bE rAnDoM!!	Astral	Miscellaneous	—	100%	0 AP
+Initial	Metal Riff	Metal	Ranged Attack	60	100%	3 AP
+Star-white.png	Stony Look	Earth	Status Effect	—	50%	2 AP
+Star-white.pngStar-white.png	Inflame	Fire	Ranged Attack	60	100%	2 AP
+Star-white.pngStar-white.pngStar-white.png	Echolocation	Air	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Sonic Boom	Air	Ranged Attack	60	100%	3 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Incinerate	Fire	Melee Attack	40	100%	3 AP

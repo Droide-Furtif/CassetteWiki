@@ -1,0 +1,8 @@
+https://wiki.cassettebeasts.com/images/d/d3/Busheye.png
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Peekaboo	Typeless	Status Effect	—	100%	1 AP
+Star-white.png	Spray	Typeless	Ranged Attack	30	100%	1 AP
+Star-white.pngStar-white.png	Wallop	Typeless	Melee Attack	60	100%	2 AP
+Star-white.pngStar-white.pngStar-white.png	Elemental Wall	Typeless	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Doc Leaf	Plant	Status Effect	—	100%	1 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Acorn Mortar	Plant	Ranged Attack	100	75%	3 AP

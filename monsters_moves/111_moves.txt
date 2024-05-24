@@ -1,0 +1,13 @@
+https://wiki.cassettebeasts.com/images/5/59/Shining_Kuneko.png
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Wink	Typeless	Status Effect	—	100%	1 AP
+Initial	Double Slice	Typeless	Melee Attack	30	100%	4 AP
+Initial	Sharp Edges	Typeless	Status Effect	—	100%	2 AP
+Initial	Bad Joke	Typeless	Miscellaneous	—	Unavoidable	0 AP
+Initial	Air Wall	Air	Status Effect	—	100%	2 AP
+Initial	bE rAnDoM!!	Astral	Miscellaneous	—	100%	0 AP
+Star-white.png	Ritual	Astral	Status Effect	—	100%	6 AP
+Star-white.pngStar-white.png	Shooting Star	Astral	Ranged Attack	60	100%	2 AP
+Star-white.pngStar-white.pngStar-white.png	Galactic Beatdown	Astral	Melee Attack	90	Unavoidable	4 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Broadcast	Air	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Cosmic Kunai	Astral	Ranged Attack	150	100%	10 AP

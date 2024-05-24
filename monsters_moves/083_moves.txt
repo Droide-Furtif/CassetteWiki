@@ -1,0 +1,13 @@
+https://wiki.cassettebeasts.com/images/4/40/Binterloper.png
+Initial	Spit	Typeless	Ranged Attack	30	100%	0 AP
+Initial	Raise Arms	Typeless	Status Effect	—	100%	1 AP
+Initial	Metal Wall	Metal	Status Effect	—	100%	2 AP
+Initial	Binvitation	Metal	Miscellaneous	—	50%	4 AP
+Initial	Bottle Volley	Glass	Ranged Attack	40	100%	3 AP
+Initial	Energy Shot	Typeless	Ranged Attack	60	100%	2 AP
+Initial	Binvasion	Fire	Ranged Attack	30	100%	3 AP
+Star-white.png	Recycle	Plastic	Miscellaneous	—	100%	0 AP
+Star-white.pngStar-white.png	Incinerate	Fire	Melee Attack	40	100%	3 AP
+Star-white.pngStar-white.pngStar-white.png	Shooting Star	Astral	Ranged Attack	60	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Broadcast	Air	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Galactic Beatdown	Astral	Melee Attack	90	Unavoidable	4 AP

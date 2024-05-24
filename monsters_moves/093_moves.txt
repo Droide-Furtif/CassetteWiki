@@ -1,0 +1,12 @@
+https://wiki.cassettebeasts.com/images/3/36/Skelevangelist.png
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Fossil	Earth	Miscellaneous	—	100%	Passive
+Initial	Bone Cannon	Beast	Ranged Attack	40	100%	3 AP
+Initial	Damage Roll	Typeless	Ranged Attack	9	100%	3 AP
+Initial	AP Donate	Typeless	Miscellaneous	—	Unavoidable	1 AP
+Initial	Blood Donation	Beast	Miscellaneous	—	Unavoidable	2 AP
+Star-white.png	Beast Wall	Beast	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.png	Last Rites	Typeless	Melee Attack	200	100%	10 AP
+Star-white.pngStar-white.pngStar-white.png	Call For Help	Typeless	Miscellaneous	—	50%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Ritual	Astral	Status Effect	—	100%	6 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Life Absorb	Plant	Melee Attack	30	100%	1 AP

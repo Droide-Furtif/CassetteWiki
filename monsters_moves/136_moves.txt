@@ -1,0 +1,14 @@
+https://wiki.cassettebeasts.com/images/0/0d/Majortom.png
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Raise Shields	Typeless	Status Effect	—	100%	1 AP
+Initial	Sturdy Armour	Metal	Miscellaneous	—	100%	Passive
+Initial	Shooting Star	Astral	Ranged Attack	60	100%	2 AP
+Initial	Sonic Boom	Air	Ranged Attack	60	100%	3 AP
+Initial	Astral Wall	Astral	Status Effect	—	100%	2 AP
+Initial	Grounded	Lightning	Miscellaneous	—	100%	Passive
+Initial	Brace for Impact	Metal	Melee Attack	120	100%	4 AP
+Star-white.png	Liftoff	Air	Status Effect	—	100%	Passive
+Star-white.pngStar-white.png	Close Encounter	Astral	Status Effect	—	100%	1 AP
+Star-white.pngStar-white.pngStar-white.png	Galactic Beatdown	Astral	Melee Attack	90	Unavoidable	4 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Gear Shear	Metal	Ranged Attack	50	100%	10 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Self-Destruct	Fire	Ranged Attack	60	100%	Passive

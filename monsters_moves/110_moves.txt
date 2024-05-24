@@ -1,0 +1,8 @@
+https://wiki.cassettebeasts.com/images/3/39/Kuneko.png
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Wink	Typeless	Status Effect	—	100%	1 AP
+Star-white.png	Double Slice	Typeless	Melee Attack	30	100%	4 AP
+Star-white.pngStar-white.png	Sharp Edges	Typeless	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.png	Bad Joke	Typeless	Miscellaneous	—	Unavoidable	0 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Elemental Wall	Typeless	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	bE rAnDoM!!	Astral	Miscellaneous	—	100%	0 AP

@@ -1,0 +1,14 @@
+https://wiki.cassettebeasts.com/images/1/18/Wyrmaw.png
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Trap Jaw	Beast	Status Effect	—	50%	Passive
+Initial	Custom Starter	Typeless	Miscellaneous	—	100%	Passive
+Initial	Bite	Beast	Melee Attack	80	100%	3 AP
+Initial	Trick	Typeless	Status Effect	—	100%	1 AP
+Initial	Desperation	Typeless	Melee Attack	20	100%	1 AP
+Initial	Shrapnel	Metal	Status Effect	—	100%	1 AP
+Initial	Sharp Edges	Typeless	Status Effect	—	100%	2 AP
+Star-white.png	Sturdy Armour	Metal	Miscellaneous	—	100%	Passive
+Star-white.pngStar-white.png	Mountain Smash	Earth	Melee Attack	90	100%	4 AP
+Star-white.pngStar-white.pngStar-white.png	Crumble	Earth	Ranged Attack	30	Unavoidable	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Parry Stance	Beast	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Last Rites	Typeless	Melee Attack	200	100%	10 AP

@@ -1,0 +1,12 @@
+https://wiki.cassettebeasts.com/images/4/40/Diveberg.png
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Elemental Wall	Typeless	Status Effect	—	100%	2 AP
+Initial	Ice Coating	Ice	Status Effect	—	100%	2 AP
+Initial	Ice Resistance	Ice	Miscellaneous	—	100%	Passive
+Initial	Ice Breaker	Ice	Melee Attack	90	100%	4 AP
+Initial	Undertow	Water	Ranged Attack	90	100%	2 AP
+Star-white.png	Final Breath	Typeless	Miscellaneous	—	100%	Passive
+Star-white.pngStar-white.png	Deep Freeze	Ice	Status Effect	—	100%	3 AP
+Star-white.pngStar-white.pngStar-white.png	Avalanche	Ice	Status Effect	—	Unavoidable	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Unshakeable	Earth	Miscellaneous	—	100%	Passive
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Cold Fusion	Ice	Miscellaneous	—	Unavoidable	Passive

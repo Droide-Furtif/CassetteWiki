@@ -1,0 +1,12 @@
+https://wiki.cassettebeasts.com/images/4/45/Fountess.png
+Initial	Spit	Typeless	Ranged Attack	30	100%	0 AP
+Initial	Spray	Typeless	Ranged Attack	30	100%	1 AP
+Initial	Waterworks	Water	Ranged Attack	100	90%	5 AP
+Initial	Fog	Water	Status Effect	—	Unavoidable	4 AP
+Initial	Torrent	Water	Ranged Attack	40	100%	4 AP
+Initial	Elemental Wall	Typeless	Status Effect	—	100%	2 AP
+Star-white.png	Criticise	Typeless	Status Effect	—	100%	1 AP
+Star-white.pngStar-white.png	Boil	Water	Melee Attack	90	100%	3 AP
+Star-white.pngStar-white.pngStar-white.png	Energy Wave	Typeless	Ranged Attack	60	100%	3 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Multi Shot	Typeless	Ranged Attack	20	100%	3 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Headshot	Typeless	Ranged Attack	200	100%	10 AP

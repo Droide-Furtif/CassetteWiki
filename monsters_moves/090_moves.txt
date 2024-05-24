@@ -1,0 +1,13 @@
+https://wiki.cassettebeasts.com/images/c/c8/Beanstalker.png
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Pumpkin Pie	Plant	Status Effect	—	Unavoidable	2 AP
+Initial	Jump Scare	Typeless	Melee Attack	30	100%	1 AP
+Initial	Trick	Typeless	Status Effect	—	100%	1 AP
+Initial	Treat	Typeless	Status Effect	—	Unavoidable	1 AP
+Initial	Bite	Beast	Melee Attack	80	100%	3 AP
+Initial	Plant Wall	Plant	Status Effect	—	100%	2 AP
+Star-white.png	Woodcutter	Plant	Melee Attack	40	100%	3 AP
+Star-white.pngStar-white.png	Toxic Stab	Poison	Melee Attack	90	100%	4 AP
+Star-white.pngStar-white.pngStar-white.png	Sharp Edges	Typeless	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Plastic Knife	Plastic	Melee Attack	40	100%	3 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Stab In The Dark	Typeless	Melee Attack	100	10%	0 AP

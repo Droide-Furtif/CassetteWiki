@@ -1,0 +1,8 @@
+https://wiki.cassettebeasts.com/images/d/d9/Undyin.png
+Initial	Spit	Typeless	Ranged Attack	30	100%	0 AP
+Initial	Flirt	Typeless	Status Effect	—	100%	1 AP
+Star-white.png	Torrent	Water	Ranged Attack	40	100%	4 AP
+Star-white.pngStar-white.png	Life Absorb	Plant	Melee Attack	30	100%	1 AP
+Star-white.pngStar-white.pngStar-white.png	Ice Wall	Ice	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Ice Breaker	Ice	Melee Attack	90	100%	4 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Ritual	Astral	Status Effect	—	100%	6 AP

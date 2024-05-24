@@ -1,0 +1,9 @@
+https://wiki.cassettebeasts.com/images/a/a2/Spirouette.png
+Initial	Spit	Typeless	Ranged Attack	30	100%	0 AP
+Initial	Sprint	Typeless	Status Effect	—	100%	1 AP
+Initial	Icicle Dart	Ice	Ranged Attack	70	85%	2 AP
+Star-white.png	Water Wall	Water	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.png	Quick Smack	Typeless	Melee Attack	30	100%	1 AP
+Star-white.pngStar-white.pngStar-white.png	Water Coating	Water	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Torrent	Water	Ranged Attack	40	100%	4 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Fog	Water	Status Effect	—	Unavoidable	4 AP

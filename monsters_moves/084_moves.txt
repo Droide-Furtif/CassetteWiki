@@ -1,0 +1,8 @@
+https://wiki.cassettebeasts.com/images/0/0b/Twirligig.png
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Wink	Typeless	Status Effect	—	100%	1 AP
+Star-white.png	Plant Wall	Plant	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.png	Defend	Typeless	Status Effect	—	100%	1 AP
+Star-white.pngStar-white.pngStar-white.png	Splinter	Plant	Melee Attack	15	Unavoidable	Passive
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Raise Shields	Typeless	Status Effect	—	100%	1 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Desperation	Typeless	Melee Attack	20	100%	1 AP

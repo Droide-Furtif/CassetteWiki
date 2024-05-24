@@ -1,0 +1,8 @@
+https://wiki.cassettebeasts.com/images/6/69/Hauntome.png
+Initial	Spit	Typeless	Ranged Attack	30	100%	0 AP
+Initial	Hardback	Typeless	Miscellaneous	—	100%	Passive
+Star-white.png	Haunt	Astral	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.png	New Leaf	Plant	Miscellaneous	—	Unavoidable	3 AP
+Star-white.pngStar-white.pngStar-white.png	Last Rites	Typeless	Melee Attack	200	100%	10 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Insomnia	Astral	Miscellaneous	—	70%	Passive
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Mind-Meld	Astral	Status Effect	—	Unavoidable	2 AP

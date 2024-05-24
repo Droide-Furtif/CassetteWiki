@@ -1,0 +1,8 @@
+https://wiki.cassettebeasts.com/images/a/a2/Pawndead.png
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Fossil	Earth	Miscellaneous	—	100%	Passive
+Star-white.png	Bone Cannon	Beast	Ranged Attack	40	100%	3 AP
+Star-white.pngStar-white.png	Damage Roll	Typeless	Ranged Attack	9	100%	3 AP
+Star-white.pngStar-white.pngStar-white.png	Earth Coating	Earth	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	AP Donate	Typeless	Miscellaneous	—	Unavoidable	1 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Blood Donation	Beast	Miscellaneous	—	Unavoidable	2 AP

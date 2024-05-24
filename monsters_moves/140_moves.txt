@@ -1,0 +1,9 @@
+https://wiki.cassettebeasts.com/images/0/0e/Umbrahella.png
+Initial	Spit	Typeless	Ranged Attack	30	100%	0 AP
+Initial	Echolocation	Air	Status Effect	—	100%	2 AP
+Initial	Bad Forecast	Poison	Status Effect	—	50%	1 AP
+Star-white.png	Butterfly Effect	Air	Ranged Attack	30	100%	0 AP
+Star-white.pngStar-white.png	Vampire	Beast	Miscellaneous	—	100%	Passive
+Star-white.pngStar-white.pngStar-white.png	Pity AP	Typeless	Miscellaneous	—	100%	Passive
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Critical AP	Typeless	Miscellaneous	—	100%	Passive
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Neutralise	Water	Miscellaneous	—	100%	Passive

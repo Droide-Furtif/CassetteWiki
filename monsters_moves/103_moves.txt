@@ -1,0 +1,12 @@
+https://wiki.cassettebeasts.com/images/4/40/Sharktanker.png
+Initial	Smack	Typeless	Melee Attack	30	100%	0 AP
+Initial	Metal Wall	Metal	Status Effect	—	100%	2 AP
+Initial	Trip	Typeless	Status Effect	—	100%	1 AP
+Initial	Undertow	Water	Ranged Attack	90	100%	2 AP
+Initial	Dodge	Typeless	Status Effect	—	100%	1 AP
+Initial	Torrent	Water	Ranged Attack	40	100%	4 AP
+Star-white.png	Bite	Beast	Melee Attack	80	100%	3 AP
+Star-white.pngStar-white.png	Sharp Edges	Typeless	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.png	Fog	Water	Status Effect	—	Unavoidable	4 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Boil	Water	Melee Attack	90	100%	3 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	Self-Destruct	Fire	Ranged Attack	60	100%	Passive

@@ -1,0 +1,9 @@
+https://wiki.cassettebeasts.com/images/c/c7/Pombomb.png
+Initial	Spit	Typeless	Ranged Attack	30	100%	0 AP
+Initial	Dog Years	Beast	Miscellaneous	—	100%	4 AP
+Initial	Sticky Tongue	Beast	Melee Attack	40	75%	1 AP
+Star-white.png	Inflame	Fire	Ranged Attack	60	100%	2 AP
+Star-white.pngStar-white.png	Zoomies	Beast	Melee Attack	30	100%	1 AP
+Star-white.pngStar-white.pngStar-white.png	Hot Potato	Fire	Status Effect	—	100%	3 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.png	Elemental Wall	Typeless	Status Effect	—	100%	2 AP
+Star-white.pngStar-white.pngStar-white.pngStar-white.pngStar-white.png	bE rAnDoM!!	Astral	Miscellaneous	—	100%	0 AP
